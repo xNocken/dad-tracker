@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-05-31T19:56:59.135Z",
+    "promotion": 1,
+    "promotedAt": "2022-06-05T07:34:25.005Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:Creative_RemoteTeleNade",
+    "CreativeTagsHelper": {
+      "CreativeTags": []
+    }
+  }
+}

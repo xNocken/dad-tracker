@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-06-07T17:32:33.206Z",
+    "promotion": 2,
+    "promotedAt": "2022-06-13T15:30:56.824Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_BackBling_Store",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Empty",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack.BID_STWHeroNoDefaultBackpack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "None",
+          "Key": "5D30180B4F1BBC262A25459BE660BB20"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "MiniHoop",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Mini Hoop",
+          "Key": "A7625D6340B27ED212EAE9B033063A04"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "LVEn3BB",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "LVEn3BB"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "LVEn3BB",
+          "Key": "lven3bbkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": " LVEn4BB",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": " LVEn4BB"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": " LVEn4BB",
+          "Key": "lven4bbkey"
+        }
+      }
+    ],
+    "CreativeUserOptionsListName": "StoreBackbling"
+  }
+}

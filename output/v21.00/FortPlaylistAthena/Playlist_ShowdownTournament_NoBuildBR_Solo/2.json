@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-06-15T15:35:10.924Z",
+    "promotion": 12,
+    "promotedAt": "2022-06-19T19:57:32.331Z"
+  },
+  "assetData": {
+    "bOwnerFilterDestructedBuildingsInGrid": false,
+    "bDisplayRespawnWidget": false,
+    "LootLevel": "1",
+    "bRequireCrossplayEnabled": true,
+    "ForceKickAfterDeathMode": "KickAll",
+    "bRequirePickaxeInStartingInventory": true,
+    "bRewardsAllowXPProgression": true,
+    "bVehiclesDestroyAllBuildingSMActorsOnContact": false,
+    "EndOfMatchXpFirstElim": "50",
+    "bEnableSpawningStartup": true,
+    "bAllowReturnToMatchmakingOriginOnMatchEnd": false,
+    "bShouldSpreadTeams": true,
+    "ServerPerClientMaxAI": "-1",
+    "LootDropRounds": "1",
+    "PlaylistName": "Playlist_ShowdownTournament_NoBuildBR_Solo",
+    "UIDisplaySubName": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "",
+      "Key": ""
+    },
+    "bLimitedTimeMode": false,
+    "SafeZoneStartUp": "UseDefaultGameBehavior",
+    "AircraftPathOffsetFromMapCenterMax": "0.000000",
+    "ServerPerformanceEventFrequency": "0.000000",
+    "MaxBucketCapacity": "10000",
+    "MinTimeBeforeRespawnCameraFade": "3.000000",
+    "BuildingLevelOverride": "0",
+    "bIgnoreWeatherEvents": false,
+    "bUsesAnimationSharing": false,
+    "bForceCameraFadeOnRespawn": true,
+    "bAllowBotsInHumanTeams": false,
+    "bDisallowMultipleWeaponsOfType": false,
+    "DADTestValue": "0",
+    "bLeaderboardDisplaysIndividuals": true,
+    "bSkipAircraft": false,
+    "bAircraftDropOnlyWithinSafeZone": false,
+    "bDisableMatchStatsDisplay": false,
+    "bPlaylistUsesCustomCharacterParts": false,
+    "bOverrideServerPerClientMaxAI": false,
+    "bShowEliminationIndicatorForTeammates": false,
+    "RewardTimePlayedType": "Default",
+    "bAllowSpectateAPartyMember": false,
+    "CalendarEventsForEndOfMatchUpdate": [],
+    "MinPlayers": "80",
+    "GameData": "/Game/Athena/Playlists/NoBuildBR/Competitive/AthenaCompositeGD_NoBuild_Showdown.AthenaCompositeGD_NoBuild_Showdown",
+    "bEnableCreativeMode": false,
+    "UnderfilledMaxPlayers": "0",
+    "MinBackfillMatchPlayers": "0",
+    "bIgnoreGameModeStartingInventory": false,
+    "bShowEliminationIndicatorForSelf": false,
+    "DelayForPreServerTransitionAnimation": "0.000000",
+    "bTeamFilterDestructedBuildingsInGrid": true,
+    "LastStepPushAircraftCenterLine_Magnitude": "0.000000",
+    "bAllowBackfill": false,
+    "bUseInputRules": false,
+    "RewardTimePlayedXPPerMinute": "-1",
+    "MinPlayersForPrivateServer": "0",
+    "ServerMetricsEventFrequency": "60.000000",
+    "bShouldFillWhenNoSquadFillOption": false,
+    "LastStepPushAircraftCenterLine_Direction": "0.000000",
+    "bEnableStatsV2Stats": true,
+    "bUseAsyncPhysics": true,
+    "bShowEliminationIndicatorForSquadmates": false,
+    "UIDescription": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+      "Key": "8FD8FA284B77459998790D818F3A37ED"
+    },
+    "QuickbarSelectionPreservationMode": "KeepSelectionWhenRespawning",
+    "bWarmUpInStorm": false,
+    "bForceCustomMinigame": false,
+    "bUseFriendlyFireAimAssist": false,
+    "SkippedGamePhaseNotification": [],
+    "RatingType": "fun",
+    "CustomGameChannel": "Squad",
+    "bDisplayFinalStormPosition": false,
+    "bSkipWarmup": false,
+    "BotVersionPlaylistName": "",
+    "LastQueuedPlaylistPriority": "-1",
+    "AirCraftBehavior": "Default",
+    "bUseCustomAircraftPathSelection": false,
+    "bDrawCreativeDynamicIslands": false,
+    "MaximumAspectRatio": "1.780000",
+    "bShowTeamSelectButton": false,
+    "CurieManagerConfigOverrides": [],
+    "bRewardsTrackPlacement": true,
+    "LastSafeZoneIndex": "-1",
+    "bAllowJoinInProgress": false,
+    "WarmupEarlyRequiredPlayerPercent": "0.000000",
+    "bEnableRatingUpdate": false,
+    "bAllowHardcoreModifiers": true,
+    "bAllowPartyRift": false,
+    "bRespawnInAir": true,
+    "bUsePlayerRating": false,
+    "RichPresenceAssetName": "solos",
+    "bUseLocalizationService": false,
+    "CompetitivePointClamp": "500",
+    "GameType": "BRArena",
+    "WinConditionPlayersRemaining": "1",
+    "TimeAfterWarmupToDisableBackfill": "5.000000",
+    "bUsePointLeaderAsTeamLeaderInLeaderboard": true,
+    "ModifierList": [
+      "/Game/Athena/Playlists/DefaultModifiers/MaterialDropOnElim_Default.MaterialDropOnElim_Default",
+      "/Game/Athena/Playlists/ContextTutorial/ContextTutorial_AthenaContextTutorial.ContextTutorial_AthenaContextTutorial",
+      "/Game/Athena/AI/Phoebe/GameplayMod_Phoebe_DM_Solo.GameplayMod_Phoebe_DM_Solo",
+      "/Game/Athena/Playlists/Deimos/GameplayMod_DeimosAI.GameplayMod_DeimosAI",
+      "/Game/Athena/Playlists/NoBuildBR/Modifiers/NoBuildBRModifier.NoBuildBRModifier"
+    ],
+    "bRewardForRevivingTeammates": false,
+    "MaxSquads": "-1",
+    "bIsTournament": true,
+    "RewardsPlacementThreshold": "3",
+    "MaxTeamSize": "1",
+    "Strategy": "BattleRoyaleStrategy_Showdown",
+    "bForceLTMLoadingScreenBackground": false,
+    "FriendlyFireType": "Off",
+    "bUseSameDirectionForOpposingAircraft": false,
+    "bEnableDynamicBotBackfill": false,
+    "bRequeueAfterFailedSessionAssignment": true,
+    "MaxHumanAndBotParticipants": "-1",
+    "bAllowWarmupPlayerStartInSetupPhase": true,
+    "LootTierData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeLTD_NoBuildBR.AthenaCompositeLTD_NoBuildBR",
+    "bShouldErrorOnAdditionalContentFailure": false,
+    "ForceKickAfterDeathTime": "60.000000",
+    "bSaveToRecentGameList": true,
+    "bAllowEditingEnemyWalls": false,
+    "JoinInProgressMatchType": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "",
+      "Key": ""
+    },
+    "LootPackages": "/Game/Athena/Playlists/NoBuildBR/Competitive/AthenaCompositeLP_NoBuildBR_Showdown.AthenaCompositeLP_NoBuildBR_Showdown",
+    "bAccumulateToProfileStats": true,
+    "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
+    "MaxPlayers": "100",
+    "bAllowedInLeto": false,
+    "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
+    "bUseMultidivisionQueues": false,
+    "TypeOfLeaderboard": "Score",
+    "MaxSquadSize": "1",
+    "bAllowSquadFillOption": false,
+    "EndOfMatchXpMultiplier": "20",
+    "bForceNewPlayerStateOnReconnect": false,
+    "bDisableAudioShapes": false,
+    "bIsDefaultPlaylist": false,
+    "MapScaleOverride": "0.000000",
+    "bAllowInGameMatchMaking": false,
+    "MaxTeamScoreAllowedForBackfill": "0",
+    "bOverrideMaxPlayers": false,
+    "WinConditionType": "LastManStanding",
+    "PlaylistMissionGen": "/Game/World/MissionGens/Athena/MissionGen_Athena.MissionGen_Athena_C",
+    "EnforceSquadFill": false,
+    "bEnableBackfillDuringWarmupPhase": false,
+    "bAllowBroadcasting": false,
+    "RewardTimePlayedXPFlatValue": "-1",
+    "RespawnType": "None",
+    "bAllowLayoutRequirementsFeature": false,
+    "bAutoAcquireSpawnChip": false,
+    "bAllowKeepPlayingTogether": false,
+    "UIDisplayName": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "Solo Tournament",
+      "Key": "560AD515436FD328E25017A20CC120B6"
+    },
+    "GarbageCollectionFrequency": "0.000000",
+    "MaxPendingMatches": "200",
+    "AircraftPathOffsetFromMapCenterMin": "0.000000",
+    "PlaylistStatId": "-1",
+    "NetActorDiscoveryBudgetInKBytesPerSec": "0",
+    "bShowEliminationIndicatorForEnemies": false,
+    "GameplayTagContainer": {
+      "GameplayTags": [
+        {
+          "TagName": "Athena.Playlist.DefaultXP"
+        },
+        {
+          "TagName": "Athena.Playlist.Solo"
+        },
+        {
+          "TagName": "Athena.Plugin.GameMod.Gasket"
+        },
+        {
+          "TagName": "Athena.Playlist.NoBuildingMaterials"
+        },
+        {
+          "TagName": "Athena.Playlist.NoBuildBR.Solo"
+        },
+        {
+          "TagName": "Plugin.Playlist.Arena"
+        },
+        {
+          "TagName": "Plugin.Playlist.Tournament"
+        },
+        {
+          "TagName": "Athena.Playlist.NoBuildBR.PluginLoot"
+        }
+      ]
+    },
+    "bLimitedPoolMatchmakingEnabled": false,
+    "MaxTeamScoreDiscrepancyPercent": "0.000000",
+    "PriorityRatingExpansion": [
+      {
+        "Priority": "0",
+        "RatingDelta": "3"
+      },
+      {
+        "Priority": "30",
+        "RatingDelta": "6"
+      },
+      {
+        "Priority": "60",
+        "RatingDelta": "9"
+      },
+      {
+        "Priority": "80",
+        "RatingDelta": "12"
+      },
+      {
+        "Priority": "100",
+        "RatingDelta": "15"
+      },
+      {
+        "Priority": "120",
+        "RatingDelta": "18"
+      },
+      {
+        "Priority": "150",
+        "RatingDelta": "21"
+      },
+      {
+        "Priority": "180",
+        "RatingDelta": "24"
+      },
+      {
+        "Priority": "210",
+        "RatingDelta": "30"
+      },
+      {
+        "Priority": "280",
+        "RatingDelta": "-1"
+      }
+    ],
+    "bUseCreativeStarterIsland": false,
+    "bUnderfillMatchmaking": false,
+    "RequiredCatalogItemId": "",
+    "NonRenderedCharacterAnimationScale": "1.000000",
+    "bEnforceFullSquadInUI": true,
+    "bPreloadAthenaMapsForMatchmaking": true,
+    "primaryAssetId": "FortPlaylistAthena:Playlist_ShowdownTournament_NoBuildBR_Solo",
+    "bRemoveFromSquadOnLogout": false,
+    "FortReleaseVersion": {
+      "VersionName": "20.00"
+    },
+    "DBNOType": "On",
+    "StormEffectDelay": "0.000000",
+    "AircraftPathMidpointSelectionRadiusMax": "40000.000000",
+    "bAllowTeamSwitching": false,
+    "PlaylistId": "2192",
+    "ServerMaxTickRate": "UseDefault",
+    "DestructedBuildingInGridTimeout": "0.000000",
+    "MaxSocialPartySize": "1",
+    "bAllowSinglePartyMatches": false,
+    "RewardPlacementBonusType": "Solo",
+    "DefaultFirstTeam": "3",
+    "bAllowSquadSizeTracking": true,
+    "DefaultLastTeam": "102",
+    "bIsLargeTeamGame": false,
+    "bDrawLineToStormCircleIfOutside": true,
+    "bDisplayScoreInHUD": false,
+    "MaxTeamCount": "100",
+    "BuiltInGameFeaturePluginsToLoad": [],
+    "bActivateCurie": true,
+    "bUseDefaultSupplyDrops": true,
+    "bIgnoreDefaultQuests": false,
+    "bEnableBuildingCreatedEvent": false
+  }
+}

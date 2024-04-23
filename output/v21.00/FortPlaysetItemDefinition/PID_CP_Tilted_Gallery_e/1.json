@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-05-22T14:11:32.129Z",
+    "promotion": 22,
+    "promotedAt": "2022-06-07T14:02:27.211Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Tilted_Gallery_e",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "City",
+        "BuildingGallery",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "TheBlock"
+      ]
+    }
+  }
+}
