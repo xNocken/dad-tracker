@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-12-08T17:51:17.089Z",
+    "promotion": 2,
+    "promotedAt": "2022-12-13T09:15:17.708Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Muster_ShockwaveMace",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "NewThisSeason",
+        "RecentlyAdded",
+        "S23",
+        "Ammo:Infinite",
+        "Epic",
+        "Melee"
+      ]
+    }
+  }
+}
