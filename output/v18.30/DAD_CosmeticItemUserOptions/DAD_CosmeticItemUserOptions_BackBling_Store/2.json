@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 3,
+    "revisedAt": "2021-10-26T18:23:59.087Z",
+    "promotion": 5,
+    "promotedAt": "2021-10-28T14:49:32.169Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_BackBling_Store",
+    "CosmeticItemUserOptionsListName": "StoreBackbling",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Empty",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack.BID_STWHeroNoDefaultBackpack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "None",
+          "Key": "5D30180B4F1BBC262A25459BE660BB20"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "MiniHoop",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Mini Hoop",
+          "Key": "A7625D6340B27ED212EAE9B033063A04"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SNMRSBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_891_ButterJack.BID_891_ButterJack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "SNMRS Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "SNMRS Backbling",
+          "Key": "snmrsbackblingkey"
+        }
+      }
+    ]
+  }
+}
