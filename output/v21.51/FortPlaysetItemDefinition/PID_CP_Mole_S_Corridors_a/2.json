@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-09-07T10:22:20.639Z",
+    "promotion": 7,
+    "promotedAt": "2022-09-07T10:22:29.761Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Mole_S_Corridors_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Prefab",
+        "Impostors",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}
