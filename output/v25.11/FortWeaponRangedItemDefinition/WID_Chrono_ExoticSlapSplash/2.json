@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-06-23T12:24:42.047Z",
+    "promotion": 1,
+    "promotedAt": "2023-07-11T12:47:16.858Z"
+  },
+  "assetData": {
+    "bIsPickupASpecialActor": false,
+    "bDrawMapIconUnderStorm": false,
+    "primaryAssetId": "Consumable:WID_Chrono_ExoticSlapSplash",
+    "PickupCompassRenderDistance": "-1.000000",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Regenerative",
+        "OverrideCount_5",
+        "ExoticConsumable",
+        "Consumable",
+        "Ch4S3",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}
