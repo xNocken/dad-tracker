@@ -191,9 +191,9 @@ const main = async () => {
 
   console.log(commitMessage);
 
-  // execSync('git add output');
-  // execSync(`git -c commit.gpgsign=false commit --author="github-actions@github.com" -m "${commitMessage}"`);
-  // execSync('git push');
+  execSync('git add output');
+  execSync(`git -c commit.gpgsign=false commit --author="github-actions@github.com" -m "${commitMessage}"`);
+  execSync('git push');
 
   let fieldValue = '';
   let overflowCount = 0;

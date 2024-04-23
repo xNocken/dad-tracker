@@ -1,0 +1,51 @@
+name: Update dad
+on:
+  push:
+  schedule:
+    - cron: "*/15 * * * *" # runs every 15 minutes
+
+jobs:
+  check-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies and build
+        run: |
+          yarn
+
+      - name: Check for changes
+        id: changes
+        env:
+          EPIC_CLIENT_ID: ${{ secrets.EPIC_CLIENT_ID }}
+          EPIC_CLIENT_SECRET: ${{ secrets.EPIC_CLIENT_SECRET }}
+
+          EPIC_ACCOUNT_ID: ${{ secrets.EPIC_ACCOUNT_ID }}
+          EPIC_DEVICE_ID: ${{ secrets.EPIC_DEVICE_ID }}
+          EPIC_DEVICE_SECRET: ${{ secrets.EPIC_DEVICE_SECRET }}
+
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: |
+          yarn dev
+
+      # - name: Commit Changes
+      #   id: commit
+      #   continue-on-error: true
+      #   run: |
+      #     git config user.name github-actions
+      #     git config user.email github-actions@github.com
+      #     git add .
+      #     git commit -m "Check for updates"
+
+      # - name: Push Changes
+      #   if: ${{ steps.commit.conclusion == 'success' }}
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: "${{ secrets.GITHUB_TOKEN }}"
+      #     branch: "main"
