@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "revision": 8,
+    "headRevision": 13,
+    "revisedAt": "2022-05-25T19:22:35.862Z",
+    "promotion": 6,
+    "promotedAt": "2022-06-04T19:25:06.408Z"
+  },
+  "assetData": {
+    "AnalyticsId": "v20",
+    "TestCohorts": [
+      {
+        "AnalyticsId": "c-1v2_v0_c69",
+        "CohortSelector": "PlayerDeterministic",
+        "PlatformBlacklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "AnalyticsId": "p544",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "heroD",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroTestD",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ru",
+                  "value": "Хоррор"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroDPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "AnalyticsId": "p579",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "ByEpicInternal",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 16,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpicInternal",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Play Your Way",
+              "Key": "ByEpicWoven"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "MMRegionBlocklist": [],
+        "SelectionChance": 1,
+        "TestName": "c69_Baseline",
+        "MMRegionAllowlist": []
+      },
+      {
+        "AnalyticsId": "c-1v2_v1_c69",
+        "CohortSelector": "PlayerDeterministic",
+        "PlatformBlacklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "AnalyticsId": "p544",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "heroD",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroTestD",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ru",
+                  "value": "Хоррор"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroDPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "AnalyticsId": "p579",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "ByEpicInternal",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 16,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpicInternal",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Play Your Way",
+              "Key": "ByEpicWoven"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "MMRegionBlocklist": [],
+        "SelectionChance": 0,
+        "TestName": "c69_Variant 1",
+        "MMRegionAllowlist": []
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "TestName": "S20 Armadillo Finale",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend",
+    "GlobalLinkCodeWhitelist": []
+  }
+}
