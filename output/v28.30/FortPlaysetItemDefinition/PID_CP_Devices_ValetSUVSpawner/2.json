@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2024-02-12T02:07:20.998Z",
+    "promotion": 1,
+    "promotedAt": "2024-02-22T09:29:10.925Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_ValetSUVSpawner",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "VehicleDevice",
+        "SpawnerDevice",
+        "Device",
+        "DeviceUpgrade",
+        "DeviceUEFNReady",
+        "RecentlyAdded",
+        "NewThisSeason"
+      ]
+    }
+  }
+}
