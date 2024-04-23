@@ -1,0 +1,3798 @@
+{
+  "meta": {
+    "revision": 14,
+    "headRevision": 15,
+    "revisedAt": "2021-12-10T14:25:35.194Z",
+    "promotion": 4,
+    "promotedAt": "2021-12-13T14:53:21.925Z"
+  },
+  "assetData": {
+    "TestCohorts": [
+      {
+        "CohortSelector": "PartyDeterministic",
+        "PlatformBlacklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "hero",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroPanel",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 10,
+            "PanelType": "PlayHistory",
+            "AnalyticsListName": "",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Recently Played",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تم لعبها مؤخرًا"
+                },
+                {
+                  "key": "de",
+                  "value": "Kürzlich gespielt"
+                },
+                {
+                  "key": "en",
+                  "value": "Recently Played"
+                },
+                {
+                  "key": "es",
+                  "value": "Jugado hace poco"
+                },
+                {
+                  "key": "fr",
+                  "value": "Récemment joué"
+                },
+                {
+                  "key": "it",
+                  "value": "Recenti"
+                },
+                {
+                  "key": "ja",
+                  "value": "最近プレイしたゲーム"
+                },
+                {
+                  "key": "ko",
+                  "value": "최근 플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "Rozgrywane ostatnio"
+                },
+                {
+                  "key": "ru",
+                  "value": "Недавно сыгранные"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yakınlarda Oynanan"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Jogado Recentemente"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "最近游玩"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Jugado recientemente"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "最近遊玩"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Recently Played",
+              "Key": "RecentlyPlayedPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [
+              "playlist_showdownalt_duos",
+              "playlist_showdownalt_trios",
+              "playlist_showdownalt_solo",
+              "playlist_showdownalt_bluecheese_regular_trios",
+              "6174-7592-7481",
+              "1646-8863-3975",
+              "6771-0292-7042",
+              "9238-7762-1140",
+              "9740-9505-1759",
+              "4770-2279-1188",
+              "8042-9140-1956",
+              "9106-1254-1261",
+              "0076-5336-9516",
+              "1662-2062-0624",
+              "2445-3999-3813",
+              "3449-1639-4404",
+              "playlist_showdownalt_bluecheese_regular_solo",
+              "6658-3263-6901",
+              "1620-7084-3490",
+              "6954-4239-0182",
+              "playlist_showdowntournament_duos",
+              "playlist_showdowntournament_trios",
+              "playlist_showdownalt_creative_zw_50_duos",
+              "0098-2709-4820",
+              "playlist_showdowntournament_solo",
+              "playlist_showdownalt_bluecheese_trios",
+              "playlist_showdowntournament_bluecheese_regular_solo",
+              "playlist_showdowntournament_bluecheese_regular_trios",
+              "playlist_showdowntournament_bluecheese_trios",
+              "4343-5533-5713",
+              "playlist_showdowntournament_creative_zw_50_duos",
+              "playlist_showdowntournament_low_solo",
+              "playlist_showdowntournament_builderbase_solo",
+              "1334-8979-5898",
+              "playlist_mash_squads_legacy_showdown",
+              "playlist_fluoride_showdown_duos",
+              "playlist_showdowntournament_gungame_solo",
+              "3080-9874-3773",
+              "1104-3454-4039",
+              "8018-5822-2946",
+              "5413-2705-2835",
+              "7252-6597-2240",
+              "7034-8686-7448",
+              "9342-6951-6757",
+              "8718-4647-1170",
+              "8694-3880-4696",
+              "1810-5387-7135",
+              "9403-6746-6607",
+              "1354-1474-2276",
+              "4287-8219-9261",
+              "2689-6353-6236",
+              "2598-8378-6923",
+              "5786-1594-8680",
+              "9655-7505-9805",
+              "9794-6247-4636",
+              "9245-2981-9572",
+              "9734-6653-8569",
+              "7907-0838-6408",
+              "3837-8764-5527",
+              "7751-9327-7545",
+              "1476-2199-5863",
+              "5089-8559-5736",
+              "6465-4931-8470",
+              "0565-7223-9017",
+              "0983-3336-4333",
+              "6057-6576-7846",
+              "0013-0560-5626",
+              "2583-0408-9350",
+              "4371-7694-0354",
+              "2088-4303-0998",
+              "4040-3869-5936",
+              "0221-7533-6030",
+              "1767-7499-3185",
+              "9539-5942-4549",
+              "2008-0428-3912",
+              "7582-5826-4869",
+              "8521-2056-8182",
+              "6032-1872-1988",
+              "7980-9127-4799",
+              "5558-9484-4407",
+              "0795-1719-6050",
+              "1697-0286-5903",
+              "5982-6623-3854",
+              "1138-9903-1649",
+              "6625-1934-2758",
+              "9861-3300-9370",
+              "6799-0061-6728",
+              "0521-9236-7409",
+              "9811-7942-7966",
+              "6395-9301-3455",
+              "7574-4485-6613",
+              "6231-2158-5789",
+              "0300-5964-0935",
+              "7660-9961-6108",
+              "8575-2090-6865",
+              "5357-7713-8507",
+              "0403-4982-6315",
+              "2029-0731-3193",
+              "8343-8883-3271",
+              "3905-1751-4025"
+            ],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "welcomeToChapterThree",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 10,
+            "PlatformBlacklist": [],
+            "PanelName": "WelcomeInternal",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "مرحبًا بكم في الفصل 3"
+                },
+                {
+                  "key": "de",
+                  "value": "Willkommen in Kapitel 3"
+                },
+                {
+                  "key": "en",
+                  "value": "Welcome to Chapter 3"
+                },
+                {
+                  "key": "es",
+                  "value": "Te damos la bienvenida al capítulo 3"
+                },
+                {
+                  "key": "fr",
+                  "value": "Bienvenue dans le Chapitre 3"
+                },
+                {
+                  "key": "it",
+                  "value": "Benvenuti al Capitolo 3"
+                },
+                {
+                  "key": "ja",
+                  "value": "チャプター3へようこそ"
+                },
+                {
+                  "key": "ko",
+                  "value": "챕터 3에 오신 것을 환영합니다"
+                },
+                {
+                  "key": "pl",
+                  "value": "Witaj w Rozdziale 3"
+                },
+                {
+                  "key": "ru",
+                  "value": "Представляем третью главу"
+                },
+                {
+                  "key": "tr",
+                  "value": "3. Bölüm'e Hoş Geldin"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Boas-vindas ao Capítulo 3"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Te damos la bienvenida al capítulo 3"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Welcome to Chapter 3",
+              "Key": "WelcomeInternal"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "ImproveYourSkill",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "ImproveYourSkill",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "حسّن مهاراتك"
+                },
+                {
+                  "key": "de",
+                  "value": "Verbessere dein Können"
+                },
+                {
+                  "key": "en",
+                  "value": "Improve your skill"
+                },
+                {
+                  "key": "es",
+                  "value": "Mejora tus habilidades"
+                },
+                {
+                  "key": "fr",
+                  "value": "Améliorez-vous"
+                },
+                {
+                  "key": "it",
+                  "value": "Migliora le tue abilità"
+                },
+                {
+                  "key": "ja",
+                  "value": "スキルアップ"
+                },
+                {
+                  "key": "ko",
+                  "value": "실력 올리기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Popraw swoje umiejętności"
+                },
+                {
+                  "key": "ru",
+                  "value": "Улучшайте навыки"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yeteneklerini geliştir"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Melhore Habilidades"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "精进你的技能"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Mejora tu habilidad"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "精進技術實力"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Improve your skill",
+              "Key": "ImproveYourSkillPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 80,
+            "PanelType": "CuratedList",
+            "AnalyticsListName": "",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 25,
+            "PlatformBlacklist": [],
+            "PanelName": "Competitive",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "Fortnite التنافسي"
+                },
+                {
+                  "key": "de",
+                  "value": "Fortnite-Wettkampf"
+                },
+                {
+                  "key": "en",
+                  "value": "Fortnite Competitive"
+                },
+                {
+                  "key": "es",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "fr",
+                  "value": "Compétitions Fortnite"
+                },
+                {
+                  "key": "it",
+                  "value": "Competizioni Fortnite"
+                },
+                {
+                  "key": "ja",
+                  "value": "フォートナイト競技イベント"
+                },
+                {
+                  "key": "ko",
+                  "value": "포트나이트 경쟁전"
+                },
+                {
+                  "key": "pl",
+                  "value": "Fortnite turniejowy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Соревнования по Fortnite"
+                },
+                {
+                  "key": "tr",
+                  "value": "Rekabetçi Fortnite"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Competitivo do Fortnite"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "堡垒之夜竞技"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "《要塞英雄》競技"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Fortnite Competitive",
+              "Key": "CompetitivePanel1"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "GreatWithFriends",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "GreatWithFriendsSmaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "رائع مع الأصدقاء"
+                },
+                {
+                  "key": "de",
+                  "value": "Toll mit Freunden"
+                },
+                {
+                  "key": "en",
+                  "value": "Great With Friends"
+                },
+                {
+                  "key": "es",
+                  "value": "Ideal para jugar con amigos"
+                },
+                {
+                  "key": "fr",
+                  "value": "Super entre amis"
+                },
+                {
+                  "key": "it",
+                  "value": "Ottimo con gli amici"
+                },
+                {
+                  "key": "ja",
+                  "value": "フレンドと遊ぶのに最適"
+                },
+                {
+                  "key": "ko",
+                  "value": "친구들과 함께 플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "Świetne ze znajomymi"
+                },
+                {
+                  "key": "ru",
+                  "value": "Для игры с друзьями"
+                },
+                {
+                  "key": "tr",
+                  "value": "Arkadaşlarla Güzel"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Melhor Com Amigos"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Genial con amigos"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Great With Friends",
+              "Key": "GreatWithFriendsSmallerPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Deathrun",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Deathrun_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "de",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "en",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "es",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "fr",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "it",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "ja",
+                  "value": "デスラン"
+                },
+                {
+                  "key": "ko",
+                  "value": "데스런"
+                },
+                {
+                  "key": "pl",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "ru",
+                  "value": "Полоса препятствий"
+                },
+                {
+                  "key": "tr",
+                  "value": "Ölüm Koşusu"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Corrida Mortal"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "死亡奔跑"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Carrera mortal (deathrun)"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "終極奔跑"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Deathrun",
+              "Key": "DeathrunPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "mostpopular_ch3",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Most Popular_Ch3",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "الأكثر شهرة"
+                },
+                {
+                  "key": "de",
+                  "value": "Am beliebtesten"
+                },
+                {
+                  "key": "en",
+                  "value": "Most Popular"
+                },
+                {
+                  "key": "es",
+                  "value": "Más populares"
+                },
+                {
+                  "key": "fr",
+                  "value": "Le plus populaire"
+                },
+                {
+                  "key": "it",
+                  "value": "Più popolari"
+                },
+                {
+                  "key": "ja",
+                  "value": "人気上位"
+                },
+                {
+                  "key": "ko",
+                  "value": "최고 인기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Na topie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Самое популярное"
+                },
+                {
+                  "key": "tr",
+                  "value": "En Popüler"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Populares"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "最受欢迎"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Más popular"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "人氣最高"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Most Popular",
+              "Key": "MostPopularPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "TycoonSurvivalRoleplay",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "ExploreYourWorld",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "استكشاف"
+                },
+                {
+                  "key": "de",
+                  "value": "Erkundung"
+                },
+                {
+                  "key": "en",
+                  "value": "Exploration"
+                },
+                {
+                  "key": "es",
+                  "value": "Exploración"
+                },
+                {
+                  "key": "fr",
+                  "value": "Exploration"
+                },
+                {
+                  "key": "it",
+                  "value": "Esplorazione"
+                },
+                {
+                  "key": "ja",
+                  "value": "探索"
+                },
+                {
+                  "key": "ko",
+                  "value": "탐험"
+                },
+                {
+                  "key": "pl",
+                  "value": "Odkrywanie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Исследование"
+                },
+                {
+                  "key": "tr",
+                  "value": "Keşif"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Exploração"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "探索"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Exploración"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "探索"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Exploration",
+              "Key": "ExploreYourWorldPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "IfYouLikeZoneWars",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "If You Like Zone Wars_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "إذا كنت تحب Zone Wars"
+                },
+                {
+                  "key": "de",
+                  "value": "Wenn du Zone Wars magst"
+                },
+                {
+                  "key": "en",
+                  "value": "If You Like Zone Wars"
+                },
+                {
+                  "key": "es",
+                  "value": "Si os gusta Zone Wars"
+                },
+                {
+                  "key": "fr",
+                  "value": "Si vous aimez la Guerre de zones"
+                },
+                {
+                  "key": "it",
+                  "value": "Se ti piace Zone Wars"
+                },
+                {
+                  "key": "ja",
+                  "value": "ゾーンウォーズがお好きなら"
+                },
+                {
+                  "key": "ko",
+                  "value": "구역 전쟁을 좋아한다면"
+                },
+                {
+                  "key": "pl",
+                  "value": "Jeśli lubisz Ruszane Strefy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Если вы любите Zone Wars"
+                },
+                {
+                  "key": "tr",
+                  "value": "Bölge Savaşları Seviyorsan"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Se você gosta de Zona de Guerra"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "如果你喜欢区域战争"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Si te gusta la Guerra de zonas"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "如果你喜歡區域戰爭"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "If You Like Zone Wars",
+              "Key": "IfYouLikeZoneWarsPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Auto_Driving",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "AutoDrivingPanel",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "القيادة"
+                },
+                {
+                  "key": "de",
+                  "value": "Fahren"
+                },
+                {
+                  "key": "en",
+                  "value": "Driving"
+                },
+                {
+                  "key": "es",
+                  "value": "Conducción"
+                },
+                {
+                  "key": "fr",
+                  "value": "Conduite"
+                },
+                {
+                  "key": "it",
+                  "value": "Guida"
+                },
+                {
+                  "key": "ja",
+                  "value": "ドライブ"
+                },
+                {
+                  "key": "ko",
+                  "value": "운전"
+                },
+                {
+                  "key": "pl",
+                  "value": "Jazda"
+                },
+                {
+                  "key": "ru",
+                  "value": "Вождение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Sürüş"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Dirigir"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Conduciendo"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Driving",
+              "Key": "AutoDrivingPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "byepic",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 10,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpic",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpicPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "JustForFun",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Just For Fun_Smaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "للمرح فقط"
+                },
+                {
+                  "key": "de",
+                  "value": "Ungezwungener Spaß"
+                },
+                {
+                  "key": "en",
+                  "value": "Just For Fun"
+                },
+                {
+                  "key": "es",
+                  "value": "Por las risas"
+                },
+                {
+                  "key": "fr",
+                  "value": "Juste pour s'amuser"
+                },
+                {
+                  "key": "it",
+                  "value": "Solo per divertimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "お遊び"
+                },
+                {
+                  "key": "ko",
+                  "value": "재미용"
+                },
+                {
+                  "key": "pl",
+                  "value": "Tylko dla zabawy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Развлечение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Eğlence Amaçlı"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Diversão Livre"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "仅为娱乐"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Solo por diversión"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "僅為娛樂"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Just For Fun",
+              "Key": "JustForFunPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "1v1",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "1v1_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "1 ضد 1"
+                },
+                {
+                  "key": "de",
+                  "value": "1 gegen 1"
+                },
+                {
+                  "key": "en",
+                  "value": "1v1"
+                },
+                {
+                  "key": "es",
+                  "value": "1c1"
+                },
+                {
+                  "key": "fr",
+                  "value": "1c1"
+                },
+                {
+                  "key": "it",
+                  "value": "1v1"
+                },
+                {
+                  "key": "ja",
+                  "value": "1対1"
+                },
+                {
+                  "key": "ko",
+                  "value": "1대1"
+                },
+                {
+                  "key": "pl",
+                  "value": "1 na 1"
+                },
+                {
+                  "key": "ru",
+                  "value": "1-на-1"
+                },
+                {
+                  "key": "tr",
+                  "value": "Teke Tek"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "1x1"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "1v1"
+                },
+                {
+                  "key": "es-419",
+                  "value": "1c1"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "1v1"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "1v1",
+              "Key": "1v1Panel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 3,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "PartyWorlds",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "PartyWorlds",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "عوالم المجموعة"
+                },
+                {
+                  "key": "de",
+                  "value": "Partywelten"
+                },
+                {
+                  "key": "en",
+                  "value": "Party Worlds"
+                },
+                {
+                  "key": "es",
+                  "value": "Mundos de fiesta"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mondes en groupe"
+                },
+                {
+                  "key": "it",
+                  "value": "Mondi per gruppi"
+                },
+                {
+                  "key": "ja",
+                  "value": "パーティーワールド"
+                },
+                {
+                  "key": "ko",
+                  "value": "파티 월드"
+                },
+                {
+                  "key": "pl",
+                  "value": "Światy imprezowe"
+                },
+                {
+                  "key": "ru",
+                  "value": "Вечеринки"
+                },
+                {
+                  "key": "tr",
+                  "value": "Parti Dünyaları"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Mundos de Festa"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Mundos de grupo"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Party Worlds",
+              "Key": "PartyWorldsPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 4,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Zombies",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Zombies",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "الزومبي"
+                },
+                {
+                  "key": "de",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "en",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "es",
+                  "value": "Zombis"
+                },
+                {
+                  "key": "fr",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "it",
+                  "value": "Zombi"
+                },
+                {
+                  "key": "ja",
+                  "value": "ゾンビ"
+                },
+                {
+                  "key": "ko",
+                  "value": "좀비"
+                },
+                {
+                  "key": "pl",
+                  "value": "Zombie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Зомби"
+                },
+                {
+                  "key": "tr",
+                  "value": "Zombiler"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Zumbis"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "僵尸"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Zombis"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "僵屍"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Zombies",
+              "Key": "ZombiesPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "TeamDeathmatch",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Team Deathmatch_Smaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "مواجهة الموت للفرق"
+                },
+                {
+                  "key": "de",
+                  "value": "Team Deathmatch"
+                },
+                {
+                  "key": "en",
+                  "value": "Team Deathmatch"
+                },
+                {
+                  "key": "es",
+                  "value": "Batalla campal por equipos"
+                },
+                {
+                  "key": "fr",
+                  "value": "Match à mort en équipe"
+                },
+                {
+                  "key": "it",
+                  "value": "Deathmatch a squadre"
+                },
+                {
+                  "key": "ja",
+                  "value": "チームデスマッチ"
+                },
+                {
+                  "key": "ko",
+                  "value": "팀 데스매치"
+                },
+                {
+                  "key": "pl",
+                  "value": "Deathmatch drużynowy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Командное сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Takımlı Kıran Kırana"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Mata-mata de Equipes"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "团队激斗"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate mortal por equipos"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "團隊激鬥"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Team Deathmatch",
+              "Key": "TeamDeathmatchPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Classes1",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Classes_Smaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "المعركة"
+                },
+                {
+                  "key": "de",
+                  "value": "Kampf"
+                },
+                {
+                  "key": "en",
+                  "value": "Combat"
+                },
+                {
+                  "key": "es",
+                  "value": "Combate"
+                },
+                {
+                  "key": "fr",
+                  "value": "Combat"
+                },
+                {
+                  "key": "it",
+                  "value": "Combattimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "戦闘"
+                },
+                {
+                  "key": "ko",
+                  "value": "전투"
+                },
+                {
+                  "key": "pl",
+                  "value": "Walka"
+                },
+                {
+                  "key": "ru",
+                  "value": "Сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çatışma"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Combate"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "战斗"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "戰鬥"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Combat",
+              "Key": "ClassesPanel1"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1000,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "new",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Try Something New",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تجربة شيء جديد"
+                },
+                {
+                  "key": "de",
+                  "value": "Probiere was Neues"
+                },
+                {
+                  "key": "en",
+                  "value": "Try Something New"
+                },
+                {
+                  "key": "es",
+                  "value": "Prueba algo nuevo"
+                },
+                {
+                  "key": "fr",
+                  "value": "Du nouveau à découvrir"
+                },
+                {
+                  "key": "it",
+                  "value": "Prova qualcosa di nuovo"
+                },
+                {
+                  "key": "ja",
+                  "value": "新しいことを試してみよう"
+                },
+                {
+                  "key": "ko",
+                  "value": "새로운 시도"
+                },
+                {
+                  "key": "pl",
+                  "value": "Spróbuj czegoś nowego"
+                },
+                {
+                  "key": "ru",
+                  "value": "Что-то новенькое"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yeni Bir Şey Dene"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Experimente Também"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "尝试新事物"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Prueba algo nuevo"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "嘗試新事物"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Try Something New",
+              "Key": "TrySomethingNewPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1000,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Updated",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Updated",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تحديثات جديدة هذا الأسبوع"
+                },
+                {
+                  "key": "de",
+                  "value": "Neue Updates diese Woche"
+                },
+                {
+                  "key": "en",
+                  "value": "New Updates This Week"
+                },
+                {
+                  "key": "es",
+                  "value": "Nuevas actualizaciones de esta semana"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mises à jour de la semaine"
+                },
+                {
+                  "key": "it",
+                  "value": "Nuovi aggiornamenti questa settimana"
+                },
+                {
+                  "key": "ja",
+                  "value": "今週に新アップデート"
+                },
+                {
+                  "key": "ko",
+                  "value": "금주의 신규 업데이트"
+                },
+                {
+                  "key": "pl",
+                  "value": "Nowe aktualizacje w tym tygodniu"
+                },
+                {
+                  "key": "ru",
+                  "value": "Обновления этой недели"
+                },
+                {
+                  "key": "tr",
+                  "value": "Haftanın Yeni Güncellemeleri"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Novas Atualizações Esta Semana"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "本周最新更新"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Nuevas actualizaciones esta semana"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "本周最新更新"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Updated",
+              "Key": "UpdatedPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "SelectionChance": 0.5,
+        "TestName": "V2-19.00_12/05/2021_non_deterministic_rows"
+      },
+      {
+        "CohortSelector": "PartyDeterministic",
+        "PlatformBlacklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "hero",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroPanel",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 10,
+            "PanelType": "PlayHistory",
+            "AnalyticsListName": "",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Recently Played",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تم لعبها مؤخرًا"
+                },
+                {
+                  "key": "de",
+                  "value": "Kürzlich gespielt"
+                },
+                {
+                  "key": "en",
+                  "value": "Recently Played"
+                },
+                {
+                  "key": "es",
+                  "value": "Jugado hace poco"
+                },
+                {
+                  "key": "fr",
+                  "value": "Récemment joué"
+                },
+                {
+                  "key": "it",
+                  "value": "Recenti"
+                },
+                {
+                  "key": "ja",
+                  "value": "最近プレイしたゲーム"
+                },
+                {
+                  "key": "ko",
+                  "value": "최근 플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "Rozgrywane ostatnio"
+                },
+                {
+                  "key": "ru",
+                  "value": "Недавно сыгранные"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yakınlarda Oynanan"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Jogado Recentemente"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "最近游玩"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Jugado recientemente"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "最近遊玩"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Recently Played",
+              "Key": "RecentlyPlayedPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [
+              "playlist_showdownalt_duos",
+              "playlist_showdownalt_trios",
+              "playlist_showdownalt_solo",
+              "playlist_showdownalt_bluecheese_regular_trios",
+              "6174-7592-7481",
+              "1646-8863-3975",
+              "6771-0292-7042",
+              "9238-7762-1140",
+              "9740-9505-1759",
+              "4770-2279-1188",
+              "8042-9140-1956",
+              "9106-1254-1261",
+              "0076-5336-9516",
+              "1662-2062-0624",
+              "2445-3999-3813",
+              "3449-1639-4404",
+              "playlist_showdownalt_bluecheese_regular_solo",
+              "6658-3263-6901",
+              "1620-7084-3490",
+              "6954-4239-0182",
+              "playlist_showdowntournament_duos",
+              "playlist_showdowntournament_trios",
+              "playlist_showdownalt_creative_zw_50_duos",
+              "0098-2709-4820",
+              "playlist_showdowntournament_solo",
+              "playlist_showdownalt_bluecheese_trios",
+              "playlist_showdowntournament_bluecheese_regular_solo",
+              "playlist_showdowntournament_bluecheese_regular_trios",
+              "playlist_showdowntournament_bluecheese_trios",
+              "4343-5533-5713",
+              "playlist_showdowntournament_creative_zw_50_duos",
+              "playlist_showdowntournament_low_solo",
+              "playlist_showdowntournament_builderbase_solo",
+              "1334-8979-5898",
+              "playlist_mash_squads_legacy_showdown",
+              "playlist_fluoride_showdown_duos",
+              "playlist_showdowntournament_gungame_solo",
+              "3080-9874-3773",
+              "1104-3454-4039",
+              "8018-5822-2946",
+              "5413-2705-2835",
+              "7252-6597-2240",
+              "7034-8686-7448",
+              "9342-6951-6757",
+              "8718-4647-1170",
+              "8694-3880-4696",
+              "1810-5387-7135",
+              "9403-6746-6607",
+              "1354-1474-2276",
+              "4287-8219-9261",
+              "2689-6353-6236",
+              "2598-8378-6923",
+              "5786-1594-8680",
+              "9655-7505-9805",
+              "9794-6247-4636",
+              "9245-2981-9572",
+              "9734-6653-8569",
+              "7907-0838-6408",
+              "3837-8764-5527",
+              "7751-9327-7545",
+              "1476-2199-5863",
+              "5089-8559-5736",
+              "6465-4931-8470",
+              "0565-7223-9017",
+              "0983-3336-4333",
+              "6057-6576-7846",
+              "0013-0560-5626",
+              "2583-0408-9350",
+              "4371-7694-0354",
+              "2088-4303-0998",
+              "4040-3869-5936",
+              "0221-7533-6030",
+              "1767-7499-3185",
+              "9539-5942-4549",
+              "2008-0428-3912",
+              "7582-5826-4869",
+              "8521-2056-8182",
+              "6032-1872-1988",
+              "7980-9127-4799",
+              "5558-9484-4407",
+              "0795-1719-6050",
+              "1697-0286-5903",
+              "5982-6623-3854",
+              "1138-9903-1649",
+              "6625-1934-2758",
+              "9861-3300-9370",
+              "6799-0061-6728",
+              "0521-9236-7409",
+              "9811-7942-7966",
+              "6395-9301-3455",
+              "7574-4485-6613",
+              "6231-2158-5789",
+              "0300-5964-0935",
+              "7660-9961-6108",
+              "8575-2090-6865",
+              "5357-7713-8507",
+              "0403-4982-6315",
+              "2029-0731-3193",
+              "8343-8883-3271",
+              "3905-1751-4025"
+            ],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "welcomeToChapterThree",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 10,
+            "PlatformBlacklist": [],
+            "PanelName": "WelcomeInternal",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "مرحبًا بكم في الفصل 3"
+                },
+                {
+                  "key": "de",
+                  "value": "Willkommen in Kapitel 3"
+                },
+                {
+                  "key": "en",
+                  "value": "Welcome to Chapter 3"
+                },
+                {
+                  "key": "es",
+                  "value": "Te damos la bienvenida al capítulo 3"
+                },
+                {
+                  "key": "fr",
+                  "value": "Bienvenue dans le Chapitre 3"
+                },
+                {
+                  "key": "it",
+                  "value": "Benvenuti al Capitolo 3"
+                },
+                {
+                  "key": "ja",
+                  "value": "チャプター3へようこそ"
+                },
+                {
+                  "key": "ko",
+                  "value": "챕터 3에 오신 것을 환영합니다"
+                },
+                {
+                  "key": "pl",
+                  "value": "Witaj w Rozdziale 3"
+                },
+                {
+                  "key": "ru",
+                  "value": "Представляем третью главу"
+                },
+                {
+                  "key": "tr",
+                  "value": "3. Bölüm'e Hoş Geldin"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Boas-vindas ao Capítulo 3"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Te damos la bienvenida al capítulo 3"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Welcome to Chapter 3",
+              "Key": "WelcomeInternal"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "ImproveYourSkill",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "ImproveYourSkill",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "حسّن مهاراتك"
+                },
+                {
+                  "key": "de",
+                  "value": "Verbessere dein Können"
+                },
+                {
+                  "key": "en",
+                  "value": "Improve your skill"
+                },
+                {
+                  "key": "es",
+                  "value": "Mejora tus habilidades"
+                },
+                {
+                  "key": "fr",
+                  "value": "Améliorez-vous"
+                },
+                {
+                  "key": "it",
+                  "value": "Migliora le tue abilità"
+                },
+                {
+                  "key": "ja",
+                  "value": "スキルアップ"
+                },
+                {
+                  "key": "ko",
+                  "value": "실력 올리기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Popraw swoje umiejętności"
+                },
+                {
+                  "key": "ru",
+                  "value": "Улучшайте навыки"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yeteneklerini geliştir"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Melhore Habilidades"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "精进你的技能"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Mejora tu habilidad"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "精進技術實力"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Improve your skill",
+              "Key": "ImproveYourSkillPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 80,
+            "PanelType": "CuratedList",
+            "AnalyticsListName": "",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 25,
+            "PlatformBlacklist": [],
+            "PanelName": "Competitive",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "Fortnite التنافسي"
+                },
+                {
+                  "key": "de",
+                  "value": "Fortnite-Wettkampf"
+                },
+                {
+                  "key": "en",
+                  "value": "Fortnite Competitive"
+                },
+                {
+                  "key": "es",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "fr",
+                  "value": "Compétitions Fortnite"
+                },
+                {
+                  "key": "it",
+                  "value": "Competizioni Fortnite"
+                },
+                {
+                  "key": "ja",
+                  "value": "フォートナイト競技イベント"
+                },
+                {
+                  "key": "ko",
+                  "value": "포트나이트 경쟁전"
+                },
+                {
+                  "key": "pl",
+                  "value": "Fortnite turniejowy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Соревнования по Fortnite"
+                },
+                {
+                  "key": "tr",
+                  "value": "Rekabetçi Fortnite"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Competitivo do Fortnite"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "堡垒之夜竞技"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "《要塞英雄》競技"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Fortnite Competitive",
+              "Key": "CompetitivePanel1"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Auto_GreatWithFriends",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "AutoGreatWithFriendsSmaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "رائع مع الأصدقاء"
+                },
+                {
+                  "key": "de",
+                  "value": "Toll mit Freunden"
+                },
+                {
+                  "key": "en",
+                  "value": "Great With Friends"
+                },
+                {
+                  "key": "es",
+                  "value": "Ideal para jugar con amigos"
+                },
+                {
+                  "key": "fr",
+                  "value": "Super entre amis"
+                },
+                {
+                  "key": "it",
+                  "value": "Ottimo con gli amici"
+                },
+                {
+                  "key": "ja",
+                  "value": "フレンドと遊ぶのに最適"
+                },
+                {
+                  "key": "ko",
+                  "value": "친구들과 함께 플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "Świetne ze znajomymi"
+                },
+                {
+                  "key": "ru",
+                  "value": "Для игры с друзьями"
+                },
+                {
+                  "key": "tr",
+                  "value": "Arkadaşlarla Güzel"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Melhor Com Amigos"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Genial con amigos"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Great With Friends",
+              "Key": "AutoGreatWithFriendsSmallerPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Deathrun",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Deathrun_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "de",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "en",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "es",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "fr",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "it",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "ja",
+                  "value": "デスラン"
+                },
+                {
+                  "key": "ko",
+                  "value": "데스런"
+                },
+                {
+                  "key": "pl",
+                  "value": "Deathrun"
+                },
+                {
+                  "key": "ru",
+                  "value": "Полоса препятствий"
+                },
+                {
+                  "key": "tr",
+                  "value": "Ölüm Koşusu"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Corrida Mortal"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "死亡奔跑"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Carrera mortal (deathrun)"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "終極奔跑"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Deathrun",
+              "Key": "DeathrunPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "mostpopular_ch3",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Most Popular_Ch3",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "الأكثر شهرة"
+                },
+                {
+                  "key": "de",
+                  "value": "Am beliebtesten"
+                },
+                {
+                  "key": "en",
+                  "value": "Most Popular"
+                },
+                {
+                  "key": "es",
+                  "value": "Más populares"
+                },
+                {
+                  "key": "fr",
+                  "value": "Le plus populaire"
+                },
+                {
+                  "key": "it",
+                  "value": "Più popolari"
+                },
+                {
+                  "key": "ja",
+                  "value": "人気上位"
+                },
+                {
+                  "key": "ko",
+                  "value": "최고 인기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Na topie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Самое популярное"
+                },
+                {
+                  "key": "tr",
+                  "value": "En Popüler"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Populares"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "最受欢迎"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Más popular"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "人氣最高"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Most Popular",
+              "Key": "MostPopularPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "TycoonSurvivalRoleplay",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "ExploreYourWorld",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "استكشاف"
+                },
+                {
+                  "key": "de",
+                  "value": "Erkundung"
+                },
+                {
+                  "key": "en",
+                  "value": "Exploration"
+                },
+                {
+                  "key": "es",
+                  "value": "Exploración"
+                },
+                {
+                  "key": "fr",
+                  "value": "Exploration"
+                },
+                {
+                  "key": "it",
+                  "value": "Esplorazione"
+                },
+                {
+                  "key": "ja",
+                  "value": "探索"
+                },
+                {
+                  "key": "ko",
+                  "value": "탐험"
+                },
+                {
+                  "key": "pl",
+                  "value": "Odkrywanie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Исследование"
+                },
+                {
+                  "key": "tr",
+                  "value": "Keşif"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Exploração"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "探索"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Exploración"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "探索"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Exploration",
+              "Key": "ExploreYourWorldPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "IfYouLikeZoneWars",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "If You Like Zone Wars_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "إذا كنت تحب Zone Wars"
+                },
+                {
+                  "key": "de",
+                  "value": "Wenn du Zone Wars magst"
+                },
+                {
+                  "key": "en",
+                  "value": "If You Like Zone Wars"
+                },
+                {
+                  "key": "es",
+                  "value": "Si os gusta Zone Wars"
+                },
+                {
+                  "key": "fr",
+                  "value": "Si vous aimez la Guerre de zones"
+                },
+                {
+                  "key": "it",
+                  "value": "Se ti piace Zone Wars"
+                },
+                {
+                  "key": "ja",
+                  "value": "ゾーンウォーズがお好きなら"
+                },
+                {
+                  "key": "ko",
+                  "value": "구역 전쟁을 좋아한다면"
+                },
+                {
+                  "key": "pl",
+                  "value": "Jeśli lubisz Ruszane Strefy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Если вы любите Zone Wars"
+                },
+                {
+                  "key": "tr",
+                  "value": "Bölge Savaşları Seviyorsan"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Se você gosta de Zona de Guerra"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "如果你喜欢区域战争"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Si te gusta la Guerra de zonas"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "如果你喜歡區域戰爭"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "If You Like Zone Wars",
+              "Key": "IfYouLikeZoneWarsPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Auto_Driving",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "AutoDrivingPanel",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "القيادة"
+                },
+                {
+                  "key": "de",
+                  "value": "Fahren"
+                },
+                {
+                  "key": "en",
+                  "value": "Driving"
+                },
+                {
+                  "key": "es",
+                  "value": "Conducción"
+                },
+                {
+                  "key": "fr",
+                  "value": "Conduite"
+                },
+                {
+                  "key": "it",
+                  "value": "Guida"
+                },
+                {
+                  "key": "ja",
+                  "value": "ドライブ"
+                },
+                {
+                  "key": "ko",
+                  "value": "운전"
+                },
+                {
+                  "key": "pl",
+                  "value": "Jazda"
+                },
+                {
+                  "key": "ru",
+                  "value": "Вождение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Sürüş"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Dirigir"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Conduciendo"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Driving",
+              "Key": "AutoDrivingPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 2,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "byepic",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 10,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpic",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpicPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "JustForFun",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Just For Fun_Smaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "للمرح فقط"
+                },
+                {
+                  "key": "de",
+                  "value": "Ungezwungener Spaß"
+                },
+                {
+                  "key": "en",
+                  "value": "Just For Fun"
+                },
+                {
+                  "key": "es",
+                  "value": "Por las risas"
+                },
+                {
+                  "key": "fr",
+                  "value": "Juste pour s'amuser"
+                },
+                {
+                  "key": "it",
+                  "value": "Solo per divertimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "お遊び"
+                },
+                {
+                  "key": "ko",
+                  "value": "재미용"
+                },
+                {
+                  "key": "pl",
+                  "value": "Tylko dla zabawy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Развлечение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Eğlence Amaçlı"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Diversão Livre"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "仅为娱乐"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Solo por diversión"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "僅為娛樂"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Just For Fun",
+              "Key": "JustForFunPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "1v1",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "1v1_Smaller",
+            "MetricInterval": "PT30M",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "1 ضد 1"
+                },
+                {
+                  "key": "de",
+                  "value": "1 gegen 1"
+                },
+                {
+                  "key": "en",
+                  "value": "1v1"
+                },
+                {
+                  "key": "es",
+                  "value": "1c1"
+                },
+                {
+                  "key": "fr",
+                  "value": "1c1"
+                },
+                {
+                  "key": "it",
+                  "value": "1v1"
+                },
+                {
+                  "key": "ja",
+                  "value": "1対1"
+                },
+                {
+                  "key": "ko",
+                  "value": "1대1"
+                },
+                {
+                  "key": "pl",
+                  "value": "1 na 1"
+                },
+                {
+                  "key": "ru",
+                  "value": "1-на-1"
+                },
+                {
+                  "key": "tr",
+                  "value": "Teke Tek"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "1x1"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "1v1"
+                },
+                {
+                  "key": "es-419",
+                  "value": "1c1"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "1v1"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "1v1",
+              "Key": "1v1Panel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 3,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "PartyWorlds",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "PartyWorlds",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "عوالم المجموعة"
+                },
+                {
+                  "key": "de",
+                  "value": "Partywelten"
+                },
+                {
+                  "key": "en",
+                  "value": "Party Worlds"
+                },
+                {
+                  "key": "es",
+                  "value": "Mundos de fiesta"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mondes en groupe"
+                },
+                {
+                  "key": "it",
+                  "value": "Mondi per gruppi"
+                },
+                {
+                  "key": "ja",
+                  "value": "パーティーワールド"
+                },
+                {
+                  "key": "ko",
+                  "value": "파티 월드"
+                },
+                {
+                  "key": "pl",
+                  "value": "Światy imprezowe"
+                },
+                {
+                  "key": "ru",
+                  "value": "Вечеринки"
+                },
+                {
+                  "key": "tr",
+                  "value": "Parti Dünyaları"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Mundos de Festa"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Mundos de grupo"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Party Worlds",
+              "Key": "PartyWorldsPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Auto_Zombies",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "AutoZombiesSmaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "الزومبي"
+                },
+                {
+                  "key": "de",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "en",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "es",
+                  "value": "Zombis"
+                },
+                {
+                  "key": "fr",
+                  "value": "Zombies"
+                },
+                {
+                  "key": "it",
+                  "value": "Zombi"
+                },
+                {
+                  "key": "ja",
+                  "value": "ゾンビ"
+                },
+                {
+                  "key": "ko",
+                  "value": "좀비"
+                },
+                {
+                  "key": "pl",
+                  "value": "Zombie"
+                },
+                {
+                  "key": "ru",
+                  "value": "Зомби"
+                },
+                {
+                  "key": "tr",
+                  "value": "Zombiler"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Zumbis"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "僵尸"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Zombis"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "僵屍"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Zombies",
+              "Key": "AutoZombiesPanelSmaller"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "TeamDeathmatch",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Team Deathmatch_Smaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "مواجهة الموت للفرق"
+                },
+                {
+                  "key": "de",
+                  "value": "Team Deathmatch"
+                },
+                {
+                  "key": "en",
+                  "value": "Team Deathmatch"
+                },
+                {
+                  "key": "es",
+                  "value": "Batalla campal por equipos"
+                },
+                {
+                  "key": "fr",
+                  "value": "Match à mort en équipe"
+                },
+                {
+                  "key": "it",
+                  "value": "Deathmatch a squadre"
+                },
+                {
+                  "key": "ja",
+                  "value": "チームデスマッチ"
+                },
+                {
+                  "key": "ko",
+                  "value": "팀 데스매치"
+                },
+                {
+                  "key": "pl",
+                  "value": "Deathmatch drużynowy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Командное сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Takımlı Kıran Kırana"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Mata-mata de Equipes"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "团队激斗"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate mortal por equipos"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "團隊激鬥"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Team Deathmatch",
+              "Key": "TeamDeathmatchPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Auto_Combat",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "AutoCombatSmaller",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "المعركة"
+                },
+                {
+                  "key": "de",
+                  "value": "Kampf"
+                },
+                {
+                  "key": "en",
+                  "value": "Combat"
+                },
+                {
+                  "key": "es",
+                  "value": "Combate"
+                },
+                {
+                  "key": "fr",
+                  "value": "Combat"
+                },
+                {
+                  "key": "it",
+                  "value": "Combattimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "戦闘"
+                },
+                {
+                  "key": "ko",
+                  "value": "전투"
+                },
+                {
+                  "key": "pl",
+                  "value": "Walka"
+                },
+                {
+                  "key": "ru",
+                  "value": "Сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çatışma"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Combate"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "战斗"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "戰鬥"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Combat",
+              "Key": "AutoCombatSmallerPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1000,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "new",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Try Something New",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تجربة شيء جديد"
+                },
+                {
+                  "key": "de",
+                  "value": "Probiere was Neues"
+                },
+                {
+                  "key": "en",
+                  "value": "Try Something New"
+                },
+                {
+                  "key": "es",
+                  "value": "Prueba algo nuevo"
+                },
+                {
+                  "key": "fr",
+                  "value": "Du nouveau à découvrir"
+                },
+                {
+                  "key": "it",
+                  "value": "Prova qualcosa di nuovo"
+                },
+                {
+                  "key": "ja",
+                  "value": "新しいことを試してみよう"
+                },
+                {
+                  "key": "ko",
+                  "value": "새로운 시도"
+                },
+                {
+                  "key": "pl",
+                  "value": "Spróbuj czegoś nowego"
+                },
+                {
+                  "key": "ru",
+                  "value": "Что-то новенькое"
+                },
+                {
+                  "key": "tr",
+                  "value": "Yeni Bir Şey Dene"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Experimente Também"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "尝试新事物"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Prueba algo nuevo"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "嘗試新事物"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Try Something New",
+              "Key": "TrySomethingNewPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 1000,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Updated",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 8,
+            "PlatformBlacklist": [],
+            "PanelName": "Updated",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "تحديثات جديدة هذا الأسبوع"
+                },
+                {
+                  "key": "de",
+                  "value": "Neue Updates diese Woche"
+                },
+                {
+                  "key": "en",
+                  "value": "New Updates This Week"
+                },
+                {
+                  "key": "es",
+                  "value": "Nuevas actualizaciones de esta semana"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mises à jour de la semaine"
+                },
+                {
+                  "key": "it",
+                  "value": "Nuovi aggiornamenti questa settimana"
+                },
+                {
+                  "key": "ja",
+                  "value": "今週に新アップデート"
+                },
+                {
+                  "key": "ko",
+                  "value": "금주의 신규 업데이트"
+                },
+                {
+                  "key": "pl",
+                  "value": "Nowe aktualizacje w tym tygodniu"
+                },
+                {
+                  "key": "ru",
+                  "value": "Обновления этой недели"
+                },
+                {
+                  "key": "tr",
+                  "value": "Haftanın Yeni Güncellemeleri"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Novas Atualizações Esta Semana"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "本周最新更新"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Nuevas actualizaciones esta semana"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "本周最新更新"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Updated",
+              "Key": "UpdatedPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "SelectionChance": 0.5,
+        "TestName": "V2-19.00_12/05/2021_deterministic"
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [
+      "0116-8088-0707",
+      "0489-4554-1340",
+      "0546-8242-5180",
+      "1239-8166-6216",
+      "1354-8334-2409",
+      "1871-2086-5899",
+      "2005-7407-3418",
+      "2039-4078-3130",
+      "2159-4248-0637",
+      "2305-3663-4546",
+      "2525-6907-3086",
+      "2612-7910-6204",
+      "2823-5155-0740",
+      "2843-8951-9681",
+      "3428-1655-0005",
+      "3555-2354-1924",
+      "4408-8723-4206",
+      "4760-0165-3894",
+      "5387-0932-4549",
+      "6031-3511-7062",
+      "6110-3866-1319",
+      "6285-0568-5559",
+      "6472-2861-3966",
+      "6485-7982-0373",
+      "6962-1221-3067",
+      "7672-3587-2912",
+      "7743-1580-2509",
+      "7767-1373-1945",
+      "7780-1235-6446",
+      "7792-5202-0404",
+      "8264-2971-8727",
+      "8325-8720-0261",
+      "8388-7872-9347",
+      "8464-0518-5628",
+      "8654-3243-2262",
+      "8733-5603-0129",
+      "8764-8428-4281",
+      "8853-7434-8582",
+      "9502-4521-4943",
+      "8854-0693-0957",
+      "1571-8801-4899",
+      "4473-1660-2967",
+      "5870-4674-7490",
+      "1694-2189-4007",
+      "8378-6521-4347",
+      "4141-5056-3875",
+      "3621-2652-8507",
+      "1799-2623-4349",
+      "4260-5580-8209",
+      "4185-6015-8120",
+      "5895-4007-4957",
+      "6166-1456-2312",
+      "4114-5129-8031",
+      "4706-3310-9030",
+      "0909-2762-7548",
+      "6032-5662-9446",
+      "6401-3664-2483",
+      "9302-0838-9371",
+      "6460-7276-4277",
+      "2768-9933-5606",
+      "7246-3124-3777",
+      "9663-3740-8490"
+    ],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend",
+    "GlobalLinkCodeWhitelist": []
+  }
+}
