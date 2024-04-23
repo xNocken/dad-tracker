@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "revision": 7,
+    "headRevision": 7,
+    "revisedAt": "2021-09-21T01:17:53.546Z",
+    "promotion": 3,
+    "promotedAt": "2021-09-21T13:28:39.598Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_BackBling_Store",
+    "CosmeticItemUserOptionsListName": "StoreBackbling",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Empty",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack.BID_STWHeroNoDefaultBackpack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "None",
+          "Key": "5D30180B4F1BBC262A25459BE660BB20"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "MiniHoop",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Mini Hoop",
+          "Key": "A7625D6340B27ED212EAE9B033063A04"
+        }
+      },
+      {
+        "StoreLink": "v2:/e977568fe162af772e806bd018d308ca0bbaf1f1d9b35d4c427b8f286e4b0c63",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "BackblingA",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_851_textileknightmale_mipj6.bid_851_textileknightmale_mipj6",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Skate Pocket Duffle"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Backbling A",
+          "Key": "backblingAkey"
+        }
+      },
+      {
+        "StoreLink": "v2:/e977568fe162af772e806bd018d308ca0bbaf1f1d9b35d4c427b8f286e4b0c63",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "BackblingB",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_850_textileramfemale_2r9wr.bid_850_textileramfemale_2r9wr",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Logo Lugger"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Backbling B",
+          "Key": "backblingBkey"
+        }
+      },
+      {
+        "StoreLink": "v2:/e977568fe162af772e806bd018d308ca0bbaf1f1d9b35d4c427b8f286e4b0c63",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "BackblingC",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_852_textilesparklefemale_x8koh.bid_852_textilesparklefemale_x8koh",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Everyday Sleekpack"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Backbling C",
+          "Key": "backblingCkey"
+        }
+      },
+      {
+        "StoreLink": "v2:/e977568fe162af772e806bd018d308ca0bbaf1f1d9b35d4c427b8f286e4b0c63",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "BackblingD",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_853_textilepupmale_lfoe4.bid_853_textilepupmale_lfoe4",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Camo Carrier"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Backbling D",
+          "Key": "backblingDkey"
+        }
+      }
+    ]
+  }
+}
