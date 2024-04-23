@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "revision": 5,
+    "headRevision": 5,
+    "revisedAt": "2023-12-10T19:21:49.221Z",
+    "promotion": 167,
+    "promotedAt": "2023-12-10T23:25:29.437Z"
+  },
+  "assetData": {
+    "bOwnerFilterDestructedBuildingsInGrid": false,
+    "bDisplayRespawnWidget": false,
+    "LootLevel": "3",
+    "bRequireCrossplayEnabled": true,
+    "ForceKickAfterDeathMode": "Disabled",
+    "bRequirePickaxeInStartingInventory": false,
+    "bRewardsAllowXPProgression": true,
+    "MmrThresholdForPrioritySession": "0",
+    "bVehiclesDestroyAllBuildingSMActorsOnContact": false,
+    "EndOfMatchXpFirstElim": "50",
+    "RankScalingMaxDelta": "500.000000",
+    "bEnableSpawningStartup": true,
+    "PlacementGainMin": "0.000000",
+    "bAllowReturnToMatchmakingOriginOnMatchEnd": false,
+    "bShouldSpreadTeams": true,
+    "ServerPerClientMaxAI": "-1",
+    "LootDropRounds": "1",
+    "PlaylistName": "Playlist_DelMar_Olympus_Ranked",
+    "UIDisplaySubName": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "Racing!",
+      "Key": "BB5FDA5449EE3CEB253FA5A95734D68B"
+    },
+    "bLimitedTimeMode": false,
+    "SafeZoneStartUp": "UseDefaultGameBehavior",
+    "AircraftPathOffsetFromMapCenterMax": "0.000000",
+    "ServerPerformanceEventFrequency": "180.0",
+    "MaxBucketCapacity": "-1",
+    "MinTimeBeforeRespawnCameraFade": "3.000000",
+    "BuildingLevelOverride": "0",
+    "bIgnoreWeatherEvents": false,
+    "bUsesAnimationSharing": false,
+    "OutlierBracketBalanceMergeInterval": "",
+    "bForceCameraFadeOnRespawn": true,
+    "bAllowBotsInHumanTeams": false,
+    "bDisallowMultipleWeaponsOfType": false,
+    "DADTestValue": "0",
+    "bLeaderboardDisplaysIndividuals": true,
+    "bSkipAircraft": false,
+    "bAircraftDropOnlyWithinSafeZone": false,
+    "bDisableMatchStatsDisplay": false,
+    "bPlaylistUsesCustomCharacterParts": false,
+    "SeasonNumber": "-1",
+    "bOverrideServerPerClientMaxAI": false,
+    "bShowEliminationIndicatorForTeammates": false,
+    "RewardTimePlayedType": "Default",
+    "bAllowSpectateAPartyMember": false,
+    "CalendarEventsForEndOfMatchUpdate": [],
+    "MinPlayers": "1",
+    "GameData": "",
+    "bEnableCreativeMode": false,
+    "UnderfilledMaxPlayers": "12",
+    "MinBackfillMatchPlayers": "1",
+    "bIgnoreGameModeStartingInventory": false,
+    "bShowEliminationIndicatorForSelf": false,
+    "DelayForPreServerTransitionAnimation": "0.000000",
+    "bTeamFilterDestructedBuildingsInGrid": true,
+    "LastStepPushAircraftCenterLine_Magnitude": "0.000000",
+    "bAllowBackfill": true,
+    "RequiredEntitlementToken": "",
+    "RewardTimePlayedXPPerMinute": "-1",
+    "MinPlayersForPrivateServer": "0",
+    "DamageTakenMax": "0.000000",
+    "BracketBalanceMergeInterval": "",
+    "ServerMetricsEventFrequency": "60.000000",
+    "FillRateTable": [
+      {
+        "MinFillPct": "0.010000",
+        "MinMmr": "0",
+        "MaxPriority": "90.000000",
+        "MaxFillPct": "0.010000",
+        "MaxMmr": "90"
+      },
+      {
+        "MinFillPct": "0.010000",
+        "MinMmr": "91",
+        "MaxPriority": "90.000000",
+        "MaxFillPct": "0.350000",
+        "MaxMmr": "500"
+      },
+      {
+        "MinFillPct": "0.010000",
+        "MinMmr": "501",
+        "MaxPriority": "90.000000",
+        "MaxFillPct": "0.500000",
+        "MaxMmr": "1000"
+      },
+      {
+        "MinFillPct": "0.010000",
+        "MinMmr": "1001",
+        "MaxPriority": "90.000000",
+        "MaxFillPct": "1.000000",
+        "MaxMmr": "4600"
+      },
+      {
+        "MinFillPct": ".67",
+        "MinMmr": "4601",
+        "MaxPriority": "90.000000",
+        "MaxFillPct": "1.000000",
+        "MaxMmr": "9999999"
+      }
+    ],
+    "bShouldFillWhenNoSquadFillOption": true,
+    "LastStepPushAircraftCenterLine_Direction": "0.000000",
+    "bEnableStatsV2Stats": true,
+    "bUseAsyncPhysics": true,
+    "bShowEliminationIndicatorForSquadmates": false,
+    "UIDescription": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "Base Playlist for Del Mar",
+      "Key": "56DBA06C4EBB5B740774DAB44328A183"
+    },
+    "QuickbarSelectionPreservationMode": "KeepSelectionWhenRespawning",
+    "bWarmUpInStorm": false,
+    "RankLossMax": "0.000000",
+    "bForceCustomMinigame": false,
+    "bUseFriendlyFireAimAssist": false,
+    "SkippedGamePhaseNotification": [],
+    "RatingType": "delmar-competitive",
+    "CustomGameChannel": "Squad",
+    "bDisplayFinalStormPosition": false,
+    "bSkipWarmup": false,
+    "BotVersionPlaylistName": "",
+    "BracketBalanceSplitInterval": "",
+    "LastQueuedPlaylistPriority": "-1",
+    "AirCraftBehavior": "Default",
+    "bUseCustomAircraftPathSelection": false,
+    "bDrawCreativeDynamicIslands": false,
+    "MaximumAspectRatio": "0.000000",
+    "bShowTeamSelectButton": false,
+    "CurieManagerConfigOverrides": [],
+    "bRewardsTrackPlacement": true,
+    "LastSafeZoneIndex": "-1",
+    "bUseRankScaling": false,
+    "bAllowJoinInProgress": false,
+    "WarmupEarlyRequiredPlayerPercent": "0.000000",
+    "bEnableRatingUpdate": true,
+    "bAllowHardcoreModifiers": false,
+    "bAllowPartyRift": false,
+    "bIsRankedMode": true,
+    "bRespawnInAir": true,
+    "MaxBracketSize": "18001",
+    "RankScalingStandardDeviation": "400.000000",
+    "bUsePlayerRating": true,
+    "RichPresenceAssetName": "",
+    "bUseLocalizationService": false,
+    "CompetitivePointClamp": "100",
+    "MinBracketSize": "0",
+    "GameType": "DelMar",
+    "WinConditionPlayersRemaining": "1",
+    "TimeAfterWarmupToDisableBackfill": "5.000000",
+    "bUsePointLeaderAsTeamLeaderInLeaderboard": true,
+    "ModifierList": [
+      "/DelMarCore/Playlists/DelMar_Modifiers.DelMar_Modifiers"
+    ],
+    "bRewardForRevivingTeammates": false,
+    "MaxSquads": "-1",
+    "bIsTournament": false,
+    "RewardsPlacementThreshold": "3",
+    "MaxTeamSize": "12",
+    "Strategy": "",
+    "bForceLTMLoadingScreenBackground": false,
+    "FriendlyFireType": "Off",
+    "bUseSameDirectionForOpposingAircraft": false,
+    "bEnableDynamicBotBackfill": true,
+    "bRequeueAfterFailedSessionAssignment": true,
+    "MaxHumanAndBotParticipants": "-1",
+    "bAllowWarmupPlayerStartInSetupPhase": true,
+    "LootTierData": "",
+    "RankScalingMinDelta": "-500.000000",
+    "ReplayChunkTimeSeconds": "0.000000",
+    "bShouldErrorOnAdditionalContentFailure": false,
+    "ForceKickAfterDeathTime": "0.000000",
+    "bSaveToRecentGameList": true,
+    "bAllowEditingEnemyWalls": false,
+    "JoinInProgressMatchType": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "",
+      "Key": ""
+    },
+    "MaxBracketPriority": "25",
+    "LootPackages": "",
+    "bAccumulateToProfileStats": false,
+    "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
+    "MaxPlayers": "12",
+    "bAllowedInLeto": false,
+    "BotFillMMRCutoff": "4601",
+    "GameFeaturePluginURLsToLoad": [],
+    "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
+    "bUseMultidivisionQueues": false,
+    "TypeOfLeaderboard": "Score",
+    "WaitForServerInitializationTimeoutSecondsOverride": "-1.000000",
+    "MaxOutlierBracketMergeMmrGap": "0",
+    "KillerRankShare": "0.000000",
+    "MaxSquadSize": "12",
+    "bAllowSquadFillOption": false,
+    "KeepTogetherIdExpirationInSeconds": "1200",
+    "EndOfMatchXpMultiplier": "20",
+    "bForceNewPlayerStateOnReconnect": false,
+    "BracketDefinitions": [],
+    "bDisableAudioShapes": false,
+    "bIsDefaultPlaylist": false,
+    "MapScaleOverride": "0.000000",
+    "bAllowInGameMatchMaking": true,
+    "MaxTeamScoreAllowedForBackfill": "0",
+    "bOverrideMaxPlayers": false,
+    "WinConditionType": "MutatorControlled",
+    "PlaylistMissionGen": "/DelMarCore/Playlists/DelMar_MissionGen.DelMar_MissionGen_C",
+    "EnforceSquadFill": false,
+    "bEnableBackfillDuringWarmupPhase": true,
+    "MaxOutlierBracketPriority": "0.000000",
+    "bAllowBroadcasting": false,
+    "RewardTimePlayedXPFlatValue": "-1",
+    "PlayerRatingBrackets": [
+      {
+        "MinMmr": "0",
+        "MaxMmr": "4600"
+      },
+      {
+        "MinMmr": "4601",
+        "MaxMmr": "8200"
+      },
+      {
+        "MinMmr": "8201",
+        "MaxMmr": "18100"
+      },
+      {
+        "MinMmr": "18101",
+        "MaxMmr": "21653"
+      },
+      {
+        "MinMmr": "21654",
+        "MaxMmr": "25206"
+      },
+      {
+        "MinMmr": "25207",
+        "MaxMmr": "32312"
+      },
+      {
+        "MinMmr": "32313",
+        "MaxMmr": "35865"
+      },
+      {
+        "MinMmr": "35866",
+        "MaxMmr": "39418"
+      },
+      {
+        "MinMmr": "39419",
+        "MaxMmr": "42971"
+      },
+      {
+        "MinMmr": "42972",
+        "MaxMmr": "46524"
+      },
+      {
+        "MinMmr": "46525",
+        "MaxMmr": "50077"
+      },
+      {
+        "MinMmr": "50078",
+        "MaxMmr": "53630"
+      },
+      {
+        "MinMmr": "53631",
+        "MaxMmr": "57183"
+      },
+      {
+        "MinMmr": "57184",
+        "MaxMmr": "60736"
+      },
+      {
+        "MinMmr": "60737",
+        "MaxMmr": "64289"
+      },
+      {
+        "MinMmr": "64290",
+        "MaxMmr": "67842"
+      },
+      {
+        "MinMmr": "67843",
+        "MaxMmr": "71395"
+      },
+      {
+        "MinMmr": "71396",
+        "MaxMmr": "74948"
+      },
+      {
+        "MinMmr": "74949",
+        "MaxMmr": "78501"
+      },
+      {
+        "MinMmr": "78502",
+        "MaxMmr": "82054"
+      },
+      {
+        "MinMmr": "82055",
+        "MaxMmr": "85600"
+      },
+      {
+        "MinMmr": "85601",
+        "MaxMmr": "8675309"
+      }
+    ],
+    "RespawnType": "InfiniteRespawn",
+    "bAllowLayoutRequirementsFeature": false,
+    "bAutoAcquireSpawnChip": false,
+    "bAllowKeepPlayingTogether": false,
+    "UIDisplayName": {
+      "Category": "Game",
+      "NativeCulture": "",
+      "Namespace": "",
+      "LocalizedStrings": [],
+      "bIsMinimalPatch": false,
+      "NativeString": "Del Mar - Competitive Rotation",
+      "Key": "6181A5D84C93C6613D7F0B8AC3A397CE"
+    },
+    "GarbageCollectionFrequency": "0.000000",
+    "bUseKeepTogetherId": true,
+    "MaxPendingMatches": "-1",
+    "AircraftPathOffsetFromMapCenterMin": "0.000000",
+    "PlaylistStatId": "-1",
+    "NetActorDiscoveryBudgetInKBytesPerSec": "0",
+    "bShowEliminationIndicatorForEnemies": false,
+    "GameplayTagContainer": {
+      "GameplayTags": [
+        {
+          "TagName": "Playlist.DelMar"
+        },
+        {
+          "TagName": "DelMar.Mode.Competitive"
+        },
+        {
+          "TagName": "Athena.HUD.Disable"
+        },
+        {
+          "TagName": "DelMar.Map.Racing.Olympus"
+        },
+        {
+          "TagName": "Athena.BlockQuestProgressReport"
+        }
+      ]
+    },
+    "bLimitedPoolMatchmakingEnabled": false,
+    "MaxTeamScoreDiscrepancyPercent": "0.000000",
+    "PriorityRatingExpansion": [
+      {
+        "Priority": "0",
+        "RatingDelta": "100"
+      },
+      {
+        "Priority": "20",
+        "RatingDelta": "400"
+      },
+      {
+        "Priority": "40",
+        "RatingDelta": "1000"
+      }
+    ],
+    "bUseCreativeStarterIsland": false,
+    "bUnderfillMatchmaking": false,
+    "bRestrictSquadFillToSoloPlayers": false,
+    "NonRenderedCharacterAnimationScale": "1.000000",
+    "bEnforceFullSquadInUI": false,
+    "MinBracketPriority": "0.000000",
+    "bPreloadAthenaMapsForMatchmaking": false,
+    "primaryAssetId": "FortPlaylistAthena:Playlist_DelMar_Olympus_Ranked",
+    "bRemoveFromSquadOnLogout": false,
+    "FortReleaseVersion": {
+      "VersionName": "28.00"
+    },
+    "DBNOType": "On",
+    "StormEffectDelay": "0.000000",
+    "AircraftPathMidpointSelectionRadiusMax": "40000.000000",
+    "bAllowTeamSwitching": false,
+    "PlaylistId": "0",
+    "ServerMaxTickRate": "UseDefault",
+    "DestructedBuildingInGridTimeout": "0.000000",
+    "MaxSocialPartySize": "4",
+    "RankLossFloorMod": "0.000000",
+    "bAllowSinglePartyMatches": false,
+    "PlacementLossMin": "0.000000",
+    "RewardPlacementBonusType": "Squad",
+    "DefaultFirstTeam": "3",
+    "bAllowSquadSizeTracking": true,
+    "DefaultLastTeam": "102",
+    "bIsLargeTeamGame": false,
+    "bDrawLineToStormCircleIfOutside": true,
+    "bDisplayScoreInHUD": false,
+    "MaxTeamCount": "1",
+    "BuiltInGameFeaturePluginsToLoad": [],
+    "bActivateCurie": false,
+    "bUseDefaultSupplyDrops": true,
+    "bIgnoreDefaultQuests": false,
+    "bEnableBuildingCreatedEvent": false
+  }
+}
