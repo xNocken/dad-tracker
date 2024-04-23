@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2023-01-23T21:29:25.620Z",
+    "promotion": 3,
+    "promotedAt": "2023-02-02T21:06:50.510Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_Device_FireVolume_V2",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "VolumeDevice",
+        "Settings",
+        "EnvironmentDevice",
+        "Device",
+        "DeviceUpgrade",
+        "DeviceUEFNReady"
+      ]
+    }
+  }
+}

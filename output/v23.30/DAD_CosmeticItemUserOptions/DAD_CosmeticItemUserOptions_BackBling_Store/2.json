@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-01-24T19:30:42.746Z",
+    "promotion": 2,
+    "promotedAt": "2023-01-31T09:13:15.580Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_BackBling_Store",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Empty",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack.BID_STWHeroNoDefaultBackpack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "None",
+          "Key": "5D30180B4F1BBC262A25459BE660BB20"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "MiniHoop",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Mini Hoop",
+          "Key": "A7625D6340B27ED212EAE9B033063A04"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "FNCSBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/backpack_jumbotrons22.backpack_jumbotrons22",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "FNCS Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "FNCS Backbling",
+          "Key": "fncsbackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SunburstBlue",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/backpack_sunburst_alt.backpack_sunburst_alt",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Sunburst Blue"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "SunburstBlue",
+          "Key": "sunburstbluekey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SunburstPink",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/backpack_sunburst.backpack_sunburst",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Sunburst Pink"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "SunburstPink",
+          "Key": "sunburstpinkkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "StaminaBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_A_055_StaminaMale.BID_A_055_StaminaMale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Stamina Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Stamina Backbling",
+          "Key": "staminabackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "StaminaFemaleBackBling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_A_056_StaminaFemale.BID_A_056_StaminaFemale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Stamina Female Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Stamina Female Backbling",
+          "Key": "staminafemalebackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "StaminaCatBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_A_057_StaminaCatMale.BID_A_057_StaminaCatMale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Stamina Cat Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Stamina Cat Backbling",
+          "Key": "staminacatbackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "StaminaVigorBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_A_058_StaminaMale_StandAlone.BID_A_058_StaminaMale_StandAlone",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Stamina Vigor Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Stamina Vigor Backbling",
+          "Key": "staminavigorbackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "ArcticIceBlueBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/Backpack_ArcticIceBlue.Backpack_ArcticIceBlue",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "ArcticIceBlue Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "ArcticIceBlue Backbling",
+          "Key": "arcticIcebluebackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "ArcticIceTalusBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/Backpack_ArcticIceTalus.Backpack_ArcticIceTalus",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "ArcticIceTalus Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "ArcticIceTalus Backbling",
+          "Key": "arcticIcetalusbackblingkey"
+        }
+      }
+    ],
+    "CreativeUserOptionsListName": "StoreBackbling"
+  }
+}

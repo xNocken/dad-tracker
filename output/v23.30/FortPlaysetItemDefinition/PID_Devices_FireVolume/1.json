@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2023-01-23T21:29:25.620Z",
+    "promotion": 4,
+    "promotedAt": "2023-02-02T21:07:16.491Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_Devices_FireVolume",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "VolumeDevice",
+        "Settings",
+        "EnvironmentDevice",
+        "Device",
+        "DeviceUEFNHidden",
+        "DeviceUEFNAllowIslandImport"
+      ]
+    }
+  }
+}
