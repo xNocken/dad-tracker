@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-10-26T22:53:10.902Z",
+    "promotion": 3,
+    "promotedAt": "2023-11-03T08:17:32.128Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_Device_Zipline",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Device",
+        "DeviceUEFNReady",
+        "MovementDevice"
+      ]
+    }
+  }
+}
