@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-04-06T21:13:57.162Z",
+    "promotion": 2,
+    "promotedAt": "2023-04-11T07:55:47.161Z"
+  },
+  "assetData": {
+    "bIsPickupASpecialActor": false,
+    "bDrawMapIconUnderStorm": false,
+    "primaryAssetId": "Weapon:WID_Melee_Katana_R",
+    "PickupCompassRenderDistance": "-1.000000",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Weapon",
+        "NewThisSeason",
+        "CH4S2",
+        "Ammo:Infinite",
+        "Rare",
+        "Melee"
+      ]
+    }
+  }
+}

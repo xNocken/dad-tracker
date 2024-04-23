@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "revision": 3,
+    "headRevision": 3,
+    "revisedAt": "2023-04-06T21:49:52.996Z",
+    "promotion": 1,
+    "promotedAt": "2023-04-11T07:55:24.388Z"
+  },
+  "assetData": {
+    "bIsPickupASpecialActor": false,
+    "bDrawMapIconUnderStorm": false,
+    "primaryAssetId": "Weapon:WID_Melee_Katana_SR",
+    "PickupCompassRenderDistance": "-1.000000",
+    "CreativeTagsHelper": {
+      "CreativeTags": []
+    }
+  }
+}

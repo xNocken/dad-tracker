@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-04-05T21:22:42.963Z",
+    "promotion": 1,
+    "promotedAt": "2023-04-18T13:06:46.551Z"
+  },
+  "assetData": {
+    "bIsPickupASpecialActor": false,
+    "bDrawMapIconUnderStorm": false,
+    "primaryAssetId": "Weapon:WID_Pistol_AutoAim",
+    "PickupCompassRenderDistance": "-1.000000",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "NewThisSeason",
+        "RecentlyAdded",
+        "CH4S2",
+        "Ammo:Light",
+        "Rare",
+        "Pistol",
+        "Weapon"
+      ]
+    }
+  }
+}
