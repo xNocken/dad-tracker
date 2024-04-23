@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-25T21:48:29.455Z",
+    "promotion": 6,
+    "promotedAt": "2022-08-30T08:15:17.148Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Mole_Gallery_WeaponsLab_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "Impostors",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

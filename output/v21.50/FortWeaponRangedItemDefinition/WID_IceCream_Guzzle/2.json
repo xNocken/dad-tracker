@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T16:21:45.380Z",
+    "promotion": 14,
+    "promotedAt": "2022-08-30T08:36:04.569Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Consumable:WID_IceCream_Guzzle",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Regenerative",
+        "NewThisSeason",
+        "Vibin",
+        "Consumable",
+        "UncommonConsumable"
+      ]
+    }
+  }
+}

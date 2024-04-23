@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T16:23:25.619Z",
+    "promotion": 16,
+    "promotedAt": "2022-08-30T08:36:24.854Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Consumable:WID_IceCream_Slurp",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Regenerative",
+        "NewThisSeason",
+        "Vibin",
+        "Consumable",
+        "LegendaryConsumable"
+      ]
+    }
+  }
+}

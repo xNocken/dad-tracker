@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T17:13:06.891Z",
+    "promotion": 8,
+    "promotedAt": "2022-08-30T08:34:40.614Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_ChargeSMG_Athena_UC",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "SMG",
+        "Uncommon",
+        "Ammo:Light",
+        "Guard",
+        "NewThisSeason",
+        "Vibin",
+        "Weapon"
+      ]
+    }
+  }
+}

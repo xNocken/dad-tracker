@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-25T21:49:30.662Z",
+    "promotion": 7,
+    "promotedAt": "2022-08-30T08:15:27.079Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Mole_L_Factory_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Prefab",
+        "Impostors",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

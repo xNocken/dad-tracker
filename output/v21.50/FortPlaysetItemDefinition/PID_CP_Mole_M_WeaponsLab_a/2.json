@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-25T21:50:30.530Z",
+    "promotion": 2,
+    "promotedAt": "2022-08-30T08:13:59.938Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Mole_M_WeaponsLab_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Prefab",
+        "Impostors",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

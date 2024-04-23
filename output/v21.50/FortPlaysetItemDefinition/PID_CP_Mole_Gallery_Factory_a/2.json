@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-25T21:47:49.295Z",
+    "promotion": 5,
+    "promotedAt": "2022-08-30T08:15:07.004Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Mole_Gallery_Factory_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "Impostors",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

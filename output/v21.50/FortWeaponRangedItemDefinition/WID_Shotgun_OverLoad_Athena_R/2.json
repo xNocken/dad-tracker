@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T16:26:15.564Z",
+    "promotion": 3,
+    "promotedAt": "2022-08-30T08:22:24.296Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Shotgun_OverLoad_Athena_R",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Shotgun",
+        "Rare",
+        "Ammo:Shells",
+        "Vibin",
+        "NewThisSeason",
+        "Weapon"
+      ]
+    }
+  }
+}

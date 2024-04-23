@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T16:22:48.931Z",
+    "promotion": 15,
+    "promotedAt": "2022-08-30T08:36:14.189Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Consumable:WID_Icecream_Normal",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Regenerative",
+        "NewThisSeason",
+        "Vibin",
+        "Consumable",
+        "CommonConsumable"
+      ]
+    }
+  }
+}

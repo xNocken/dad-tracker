@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 3,
+    "revisedAt": "2022-08-25T21:54:45.360Z",
+    "promotion": 1,
+    "promotedAt": "2022-08-30T08:09:54.843Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_Furniture_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "PropGallery",
+        "FurnitureGallery",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

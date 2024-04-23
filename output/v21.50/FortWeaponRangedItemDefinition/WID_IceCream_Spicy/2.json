@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-08-24T16:24:09.507Z",
+    "promotion": 17,
+    "promotedAt": "2022-08-30T08:36:34.651Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Consumable:WID_IceCream_Spicy",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Regenerative",
+        "NewThisSeason",
+        "Vibin",
+        "Consumable",
+        "CommonConsumable"
+      ]
+    }
+  }
+}
