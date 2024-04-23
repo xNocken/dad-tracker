@@ -74,8 +74,7 @@ const main = async () => {
     throw new Error('Failed to get fn version');
   }
 
-  const { cln } = <ServiceVersionResponse>versionResponse.body;
-  const version = '17.00';
+  const { cln, version } = <ServiceVersionResponse>versionResponse.body;
   const gameId = 'Fortnite';
   const branch = `++${gameId}+Release-${version}`; // ++Fortnite+Release-29.20
   const auth = await getToken();
@@ -192,7 +191,7 @@ const main = async () => {
   console.log(commitMessage);
 
   execSync('git add output');
-  execSync(`git -c commit.gpgsign=false commit --author="github-actions@github.com" -m "${commitMessage}"`);
+  execSync(`git -c commit.gpgsign=false commit --author="GH Actons <github-actions@github.com>" -m "${commitMessage}"`);
   execSync('git push');
 
   let fieldValue = '';
