@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-04-04T14:54:58.563Z",
+    "promotion": 1,
+    "promotedAt": "2022-04-05T07:57:24.935Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Device_LootController",
+    "CreativeTagsHelper": {
+      "CreativeTags": []
+    }
+  }
+}
