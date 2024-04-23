@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2021-06-10T21:13:39.678Z",
+    "promotion": 1,
+    "promotedAt": "2021-06-10T21:13:57.401Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions",
+    "CosmeticItemUserOptionsListName": "DefaultCosmetics",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Default.M"
+        },
+        "Name": "DefaultMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.838542",
+          "G": "0.838542",
+          "B": "0.838542",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_005_Athena_Commando_M_Default.CID_005_Athena_Commando_M_Default",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Jonesy",
+          "Key": "387517E54C8EC0EF8D63FD86C85C61DB"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Default.F"
+        },
+        "Name": "DefaultFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.838542",
+          "G": "0.838542",
+          "B": "0.838542",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_001_Athena_Commando_F_Default.CID_001_Athena_Commando_F_Default",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Ramirez",
+          "Key": "08769DAD4124D5A8F65C95B6B934787E"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Hazmat.F"
+        },
+        "Name": "HazmatFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "1.000000",
+          "B": "0.373857",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_128_Athena_Commando_F_Hazmat.CID_128_Athena_Commando_F_Hazmat",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Hazard Agent",
+          "Key": "7FEA1BA34199326E90FFEBB85F1B1009"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Deco.F"
+        },
+        "Name": "DecoFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.597918",
+          "B": "0.158568",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_133_Athena_Commando_F_Deco.CID_133_Athena_Commando_F_Deco",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Ventura",
+          "Key": "2A5494904CA4E405B5A487846B7B629B"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Streetbasketball.M"
+        },
+        "Name": "StreetBasketBallMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.468750",
+          "G": "0.007586",
+          "B": "0.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_136_Athena_Commando_M_StreetBasketball.CID_136_Athena_Commando_M_StreetBasketball",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Jumpshot",
+          "Key": "624928F441D271ED8FFD63809D8FC61D"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Gumshoe.M"
+        },
+        "Name": "GumshoeMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.302083",
+          "G": "0.302083",
+          "B": "0.302083",
+          "A": "0.995000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_154_Athena_Commando_M_Gumshoe.CID_154_Athena_Commando_M_Gumshoe",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Sleuth",
+          "Key": "CF7EB8B44CDFD9CD4599498DE37409E2"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Gumshoe.F"
+        },
+        "Name": "GumshoeFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.302083",
+          "G": "0.302083",
+          "B": "0.302083",
+          "A": "0.995000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_155_Athena_Commando_F_Gumshoe.CID_155_Athena_Commando_F_Gumshoe",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Gumshoe",
+          "Key": "B5E9F09040F1DC9B5249DFA2DA179D8E"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Sharpdresser.F"
+        },
+        "Name": "SharpDresserFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.619792",
+          "G": "0.619792",
+          "B": "0.619792",
+          "A": "0.995000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_172_Athena_Commando_F_SharpDresser.CID_172_Athena_Commando_F_SharpDresser",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Fortune",
+          "Key": "7E55B1F34540F584AD5104AEC6F829E4"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Durrburgerworker.M"
+        },
+        "Name": "DurrBurgerWorkerMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.833333",
+          "G": "0.652209",
+          "B": "0.273118",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_184_Athena_Commando_M_DurrburgerWorker.CID_184_Athena_Commando_M_DurrburgerWorker",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Grill Sergeant",
+          "Key": "24DE204843B35D551993A38538191784"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Barbarian.M"
+        },
+        "Name": "BarbarianMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.140625",
+          "G": "0.656890",
+          "B": "0.843750",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_323_Athena_Commando_M_Barbarian.CID_323_Athena_Commando_M_Barbarian",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Jaeger",
+          "Key": "06D54F1441DFBF6806E3519C2017B356"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.WavyMan.F"
+        },
+        "Name": "WavymanFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.000000",
+          "B": "0.791948",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_326_Athena_Commando_F_WavyMan.CID_326_Athena_Commando_F_WavyMan",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Twistie",
+          "Key": "ED8CD52B4F94AA00D646B4804D3188A2"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Munitionsexpert.M"
+        },
+        "Name": "MunitionsExpertMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.430644",
+          "G": "0.770833",
+          "B": "0.197974",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_354_Athena_Commando_M_MunitionsExpert.CID_354_Athena_Commando_M_MunitionsExpert",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Munitions Major",
+          "Key": "4EA27CCB4C54C40BE499C787CDFB24FF"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Pirate.01.M"
+        },
+        "Name": "Pirate01Male",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.698992",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_373_Athena_Commando_M_Pirate01.CID_373_Athena_Commando_M_Pirate01",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Sea Wolf",
+          "Key": "C6144E8A40A9AFD81A7CAAA0C3A4453B"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Darkshaman.F"
+        },
+        "Name": "DarkShamanFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.463901",
+          "G": "0.033755",
+          "B": "0.828125",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_377_Athena_Commando_F_DarkShaman.CID_377_Athena_Commando_F_DarkShaman",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Nightwitch",
+          "Key": "D0BC65D141F1812B77C74AB5D2D90029"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Tennis.White.F"
+        },
+        "Name": "TennisWhiteFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "1.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_468_Athena_Commando_F_TennisWhite.CID_468_Athena_Commando_F_TennisWhite",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Match Point",
+          "Key": "C4A4B0054A1E83447ED836A28C41E2CA"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Mechpilotshark.M"
+        },
+        "Name": "MechPilotSharkMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.855670",
+          "B": "0.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_494_Athena_Commando_M_MechPilotShark.CID_494_Athena_Commando_M_MechPilotShark",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "B.R.U.T.E. Navigator",
+          "Key": "7312A5B84063F554AB0D0CAE0E03E5C1"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Wildwest.M"
+        },
+        "Name": "WildWestMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.713443",
+          "B": "0.163742",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_498_Athena_Commando_M_WildWest.CID_498_Athena_Commando_M_WildWest",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Frontier",
+          "Key": "D9D4A7604786D88F47E935BB249B3903"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Lopex.M"
+        },
+        "Name": "LopexMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.467513",
+          "B": "0.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_504_Athena_Commando_M_Lopex.CID_504_Athena_Commando_M_Lopex",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Fennix",
+          "Key": "E4C738C7445E2C3CF4FBE19D78913D81"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Goatrobe.M"
+        },
+        "Name": "GoatRobeMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.831729",
+          "G": "0.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_588_Athena_Commando_M_GoatRobe.CID_588_Athena_Commando_M_GoatRobe",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Delirium",
+          "Key": "AF1D68AF4A0A9D993791F88CBC160B18"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Rapvillainess.F"
+        },
+        "Name": "RapVillainessFemale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "0.563919",
+          "B": "0.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_759_Athena_Commando_F_RapVillainess.CID_759_Athena_Commando_F_RapVillainess",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Goldie",
+          "Key": "8B3353414A67BC870F4D9D9A025CED77"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.RobotTrouble.F"
+        },
+        "Name": "RobotTrouble",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.965717",
+          "G": "1.000000",
+          "B": "0.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_340_Athena_Commando_F_RobotTrouble.CID_340_Athena_Commando_F_RobotTrouble",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Rebel",
+          "Key": "BA5120544DCD445CFA632BAC94AE17D0"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Aura",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_397_Athena_Commando_F_TreasureHunterFashion.CID_397_Athena_Commando_F_TreasureHunterFashion",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Aura"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Aura",
+          "Key": "Aura"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "TheChampion",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_106_Athena_Commando_F_FuturePinkGoal.CID_A_106_Athena_Commando_F_FuturePinkGoal",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "The Champion"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "The Champion",
+          "Key": "TheChampion"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "PoisedPlaymaker",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_149_Athena_Commando_F_SoccerGirlB.CID_149_Athena_Commando_F_SoccerGirlB",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Poised Playmaker"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Poised Playmaker",
+          "Key": "PoisedPlaymaker"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "DarkBomber",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_229_Athena_Commando_F_DarkBomber.CID_229_Athena_Commando_F_DarkBomber",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[70B1AD46403C2580A9FB7BB66E4CE605]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Dark Bomber"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Dark Bomber",
+          "Key": "DarkBomber"
+        }
+      }
+    ]
+  }
+}
