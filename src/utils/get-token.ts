@@ -34,7 +34,7 @@ export default async () => {
   );
 
   if (tokenResponse.statusCode !== 200) {
-    console.log(tokenResponse.body);
+    console.log(tokenResponse.statusCode, tokenResponse.statusMessage, tokenResponse.body);
 
     throw new Error('Failed to get token');
   }
