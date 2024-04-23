@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 10,
+    "revisedAt": "2022-11-07T20:42:02.775Z",
+    "promotion": 10,
+    "promotedAt": "2022-12-03T20:26:09.253Z"
+  },
+  "assetData": {
+    "AnalyticsId": "v232",
+    "TestCohorts": [
+      {
+        "AnalyticsId": "c-1v2_v0_c331",
+        "CohortSelector": "PlayerDeterministic",
+        "PlatformBlacklist": [
+          "MARS"
+        ],
+        "CountryCodeBlocklist": [
+          "MARS"
+        ],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "AnalyticsId": "p827",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Radish",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroRadish",
+            "MetricInterval": "",
+            "CountryCodeBlocklist": [],
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroBaselinePanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "CountryCodeAllowlist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 3,
+            "AnalyticsId": "p828",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Radish",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 16,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpicRadish",
+            "MetricInterval": "",
+            "CountryCodeBlocklist": [],
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpicPanelRadish"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "CountryCodeAllowlist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MMRegionAllowlist": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "MMRegionBlocklist": [
+          "MARS"
+        ],
+        "SelectionChance": 0.009900990099009901,
+        "TestName": "c331_Baseline",
+        "CountryCodeAllowlist": [],
+        "MMRegionAllowlist": []
+      },
+      {
+        "AnalyticsId": "c-1",
+        "CohortSelector": "PlayerDeterministic",
+        "PlatformBlacklist": [],
+        "CountryCodeBlocklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "AnalyticsId": "p827NO_T",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Radish",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroRadish",
+            "MetricInterval": "",
+            "CountryCodeBlocklist": [],
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [
+              "DEFAULT"
+            ],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroBaselinePanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "CountryCodeAllowlist": [
+              "DEFAULT"
+            ],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MMRegionAllowlist": [
+              "DEFAULT"
+            ],
+            "MetricName": ""
+          },
+          {
+            "NumPages": 3,
+            "AnalyticsId": "p828NO_T",
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "Radish",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 16,
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpicRadish",
+            "MetricInterval": "",
+            "CountryCodeBlocklist": [],
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [
+              "DEFAULT"
+            ],
+            "MMRegionBlocklist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpicPanelRadish"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "CountryCodeAllowlist": [
+              "DEFAULT"
+            ],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MMRegionAllowlist": [
+              "DEFAULT"
+            ],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [
+          "DEFAULT"
+        ],
+        "MMRegionBlocklist": [],
+        "SelectionChance": 0.9900990099009901,
+        "TestName": "Baseline",
+        "CountryCodeAllowlist": [
+          "DEFAULT"
+        ],
+        "MMRegionAllowlist": [
+          "DEFAULT"
+        ]
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "TestName": "RadishQA",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend",
+    "GlobalLinkCodeWhitelist": []
+  }
+}
