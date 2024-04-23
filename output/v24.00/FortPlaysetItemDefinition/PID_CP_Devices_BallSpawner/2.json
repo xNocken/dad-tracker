@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-03-08T19:42:08.866Z",
+    "promotion": 1,
+    "promotedAt": "2023-03-10T09:11:11.867Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_BallSpawner",
+    "CreativeTagsHelper": {
+      "CreativeTags": []
+    }
+  }
+}
