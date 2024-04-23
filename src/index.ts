@@ -57,8 +57,6 @@ const getCachedMeta = async () => {
 };
 
 const main = async () => {
-  console.log(env);
-
   for (let i = 0; i < folders.length; i += 1) {
     const folder = folders[i];
 

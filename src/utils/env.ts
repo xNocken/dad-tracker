@@ -5,14 +5,14 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const envConfigScheme = Type.Object({
-  EPIC_CLIENT_ID: Type.String(),
-  EPIC_CLIENT_SECRET: Type.String(),
+  EPIC_CLIENT_ID: Type.String({ minLength: 32, maxLength: 32 }),
+  EPIC_CLIENT_SECRET: Type.String({ minLength: 32, maxLength: 32 }),
 
-  EPIC_ACCOUNT_ID: Type.String(),
-  EPIC_DEVICE_ID: Type.String(),
-  EPIC_DEVICE_SECRET: Type.String(),
+  EPIC_ACCOUNT_ID: Type.String({ minLength: 32, maxLength: 32 }),
+  EPIC_DEVICE_ID: Type.String({ minLength: 32, maxLength: 32 }),
+  EPIC_DEVICE_SECRET: Type.String({ minLength: 32, maxLength: 32 }),
 
-  WEBHOOK_URL: Type.String(),
+  WEBHOOK_URL: Type.String({ minLength: 1 }),
 });
 
 const error = Value.Errors(envConfigScheme, process.env).First();
