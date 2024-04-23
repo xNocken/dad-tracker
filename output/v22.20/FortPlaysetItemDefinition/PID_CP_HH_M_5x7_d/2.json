@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-10-14T20:13:00.949Z",
+    "promotion": 3,
+    "promotedAt": "2022-10-25T14:40:51.890Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_HH_M_5x7_d",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Prefab",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "HuntersHaven"
+      ]
+    }
+  }
+}

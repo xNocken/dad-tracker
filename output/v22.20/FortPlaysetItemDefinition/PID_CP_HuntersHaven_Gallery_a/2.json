@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-10-14T20:16:16.656Z",
+    "promotion": 6,
+    "promotedAt": "2022-10-25T14:41:22.271Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_HuntersHaven_Gallery_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "HuntersHaven",
+        "BuildingGallery"
+      ]
+    }
+  }
+}
