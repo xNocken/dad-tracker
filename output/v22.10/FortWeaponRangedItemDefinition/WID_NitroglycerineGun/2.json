@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 3,
+    "revisedAt": "2022-09-29T17:50:22.228Z",
+    "promotion": 3,
+    "promotedAt": "2022-10-13T22:03:19.268Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_NitroglycerineGun",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Explosive",
+        "Ammo:Special",
+        "Rare",
+        "Weapon",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Paradise"
+      ]
+    }
+  }
+}
