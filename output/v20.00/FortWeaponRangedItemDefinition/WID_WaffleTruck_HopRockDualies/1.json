@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 20,
+    "promotedAt": "2022-03-24T17:23:26.884Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_WaffleTruck_HopRockDualies",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Pistol",
+        "Exotic",
+        "Ammo:Medium",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Weapon"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-03-20T15:59:37.985Z",
+    "promotion": 8,
+    "promotedAt": "2022-03-20T18:31:36.579Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_RedDotBurstAR_Athena_C",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Weapon",
+        "Common",
+        "Ammo:Medium"
+      ]
+    }
+  }
+}

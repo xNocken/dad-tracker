@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 23,
+    "promotedAt": "2022-03-24T17:24:59.531Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_WaffleTruck_BoomSniper",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Sniper",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Ammo:Heavy",
+        "Exotic",
+        "Weapon"
+      ]
+    }
+  }
+}

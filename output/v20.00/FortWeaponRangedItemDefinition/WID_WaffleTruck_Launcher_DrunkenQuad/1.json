@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 24,
+    "promotedAt": "2022-03-24T17:25:35.839Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_WaffleTruck_Launcher_DrunkenQuad",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Explosive",
+        "Ammo:Rockets",
+        "Weapon",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Exotic"
+      ]
+    }
+  }
+}

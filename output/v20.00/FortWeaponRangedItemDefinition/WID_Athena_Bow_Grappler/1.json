@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 16,
+    "promotedAt": "2022-03-24T17:18:27.620Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Athena_Bow_Grappler",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Explosive",
+        "Bow",
+        "Ammo:Arrows",
+        "Exotic",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Weapon"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-03-20T14:34:37.913Z",
+    "promotion": 15,
+    "promotedAt": "2022-03-20T18:36:14.324Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_WaffleTruck_ChillerLauncher",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Ammo:Rockets",
+        "Exotic",
+        "Explosive",
+        "RecentlyAdded",
+        "NewThisSeason"
+      ]
+    }
+  }
+}

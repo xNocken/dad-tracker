@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 17,
+    "promotedAt": "2022-03-24T17:19:08.077Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_WaffleTruck_Pistol_Tracking",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Pistol",
+        "Exotic",
+        "Ammo:Light",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Weapon"
+      ]
+    }
+  }
+}

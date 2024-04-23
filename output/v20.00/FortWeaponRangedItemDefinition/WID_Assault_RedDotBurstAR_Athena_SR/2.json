@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-03-20T16:09:15.561Z",
+    "promotion": 1,
+    "promotedAt": "2022-03-20T18:28:16.186Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_RedDotBurstAR_Athena_SR",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Weapon",
+        "Legendary",
+        "Ammo:Medium"
+      ]
+    }
+  }
+}

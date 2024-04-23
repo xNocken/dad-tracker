@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-03-20T16:00:47.039Z",
+    "promotion": 6,
+    "promotedAt": "2022-03-20T18:30:43.202Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_RedDotBurstAR_Athena_UC",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Ammo:Medium",
+        "Uncommon",
+        "Weapon"
+      ]
+    }
+  }
+}

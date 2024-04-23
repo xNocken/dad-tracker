@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 19,
+    "promotedAt": "2022-03-24T17:21:15.340Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_MarksmanRevolver",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Pistol",
+        "Exotic",
+        "Ammo:Medium",
+        "Weapon",
+        "RecentlyAdded",
+        "NewThisSeason"
+      ]
+    }
+  }
+}

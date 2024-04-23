@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T17:47:07.573Z",
+    "promotion": 1,
+    "promotedAt": "2022-03-20T07:09:38.879Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_Tall_Grass_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "NatureGallery",
+        "Gallery",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

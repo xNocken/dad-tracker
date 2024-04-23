@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 1,
+    "headRevision": 2,
+    "revisedAt": "2022-03-11T04:37:42.394Z",
+    "promotion": 21,
+    "promotedAt": "2022-03-24T17:23:56.569Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_PastaRipper_E",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Weapon",
+        "Exotic",
+        "Ammo:Medium",
+        "RecentlyAdded",
+        "NewThisSeason"
+      ]
+    }
+  }
+}
