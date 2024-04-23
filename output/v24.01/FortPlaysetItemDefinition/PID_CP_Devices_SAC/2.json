@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-03-22T15:32:37.988Z",
+    "promotion": 1,
+    "promotedAt": "2023-03-22T17:30:30.627Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_SAC",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Other",
+        "DeviceUEFNHidden",
+        "DeviceUEFNAllowIslandImport"
+      ]
+    }
+  }
+}
