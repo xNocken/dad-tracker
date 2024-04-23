@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-09-18T12:54:13.620Z",
+    "promotion": 1,
+    "promotedAt": "2022-09-18T12:58:59.317Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Headset_A",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Instabuild",
+        "Exotic"
+      ]
+    }
+  }
+}

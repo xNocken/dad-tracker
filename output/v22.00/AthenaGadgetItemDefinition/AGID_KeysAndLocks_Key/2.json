@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-09-21T20:01:14.508Z",
+    "promotion": 1,
+    "promotedAt": "2022-09-21T21:39:53.345Z"
+  },
+  "assetData": {
+    "primaryAssetId": "WorldItem:AGID_KeysAndLocks_Key",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Consumable",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Paradise",
+        "GameConsumable",
+        "RareConsumable"
+      ]
+    }
+  }
+}

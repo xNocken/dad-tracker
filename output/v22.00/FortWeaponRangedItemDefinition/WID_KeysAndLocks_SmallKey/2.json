@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-09-21T20:07:39.429Z",
+    "promotion": 2,
+    "promotedAt": "2022-09-21T21:38:42.808Z"
+  },
+  "assetData": {
+    "primaryAssetId": "WorldItem:WID_KeysAndLocks_SmallKey",
+    "CreativeTagsHelper": {
+      "CreativeTags": []
+    }
+  }
+}

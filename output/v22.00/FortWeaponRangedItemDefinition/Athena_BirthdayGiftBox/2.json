@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-09-21T17:44:51.902Z",
+    "promotion": 3,
+    "promotedAt": "2022-09-23T13:11:52.639Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:Athena_BirthdayGiftBox",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Consumable",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Paradise",
+        "LegendaryConsumable",
+        "Instabuild"
+      ]
+    }
+  }
+}
