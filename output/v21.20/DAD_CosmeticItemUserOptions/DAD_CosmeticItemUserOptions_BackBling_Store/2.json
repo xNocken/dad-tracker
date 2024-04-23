@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-01T15:22:57.351Z",
+    "promotion": 2,
+    "promotedAt": "2022-07-06T07:51:46.016Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_BackBling_Store",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Empty",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack.BID_STWHeroNoDefaultBackpack",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "None",
+          "Key": "5D30180B4F1BBC262A25459BE660BB20"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "MiniHoop",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/BID_755_Hardwood_4KH3V.BID_755_Hardwood_4KH3V",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Mini Hoop",
+          "Key": "A7625D6340B27ED212EAE9B033063A04"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "KakashiBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_903_headbandkmale.bid_903_headbandkmale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Kakashi Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Kakashi Backbling",
+          "Key": "kakashibackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SasukeBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_904_headbandsmale.bid_904_headbandsmale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Sasuke Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Sasuke Backbling",
+          "Key": "sasukebackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SakuraBackbling",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/Bid_905_headbandsfemale.Bid_905_headbandsfemale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Sakura Backbling"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "Sakura Backbling",
+          "Key": "sakurabackblingkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "LVEn3BB",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_a_032_ensemblemaroonmale.bid_a_032_ensemblemaroonmale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "LVEn3BB"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": "LVEn3BB",
+          "Key": "lven3bbkey"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": " LVEn4BB",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Backpacks/bid_a_031_ensemblefemale.bid_a_031_ensemblefemale",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": " LVEn4BB"
+            }
+          ],
+          "bIsMinimalPatch": false,
+          "NativeString": " LVEn4BB",
+          "Key": "lven4bbkey"
+        }
+      }
+    ],
+    "CreativeUserOptionsListName": "StoreBackbling"
+  }
+}
