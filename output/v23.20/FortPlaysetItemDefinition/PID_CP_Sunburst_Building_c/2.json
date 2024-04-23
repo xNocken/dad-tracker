@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-01-12T21:19:48.214Z",
+    "promotion": 5,
+    "promotedAt": "2023-01-18T09:10:04.625Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Sunburst_Building_c",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Prefab",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

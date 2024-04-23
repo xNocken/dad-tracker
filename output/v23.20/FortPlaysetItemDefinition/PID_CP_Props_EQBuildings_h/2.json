@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-01-12T21:26:00.447Z",
+    "promotion": 19,
+    "promotedAt": "2023-01-18T09:10:20.269Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_EQBuildings_h",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "PropGallery",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

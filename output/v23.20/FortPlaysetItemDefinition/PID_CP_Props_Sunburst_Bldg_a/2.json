@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-01-12T21:13:44.149Z",
+    "promotion": 10,
+    "promotedAt": "2023-01-18T09:10:08.404Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_Sunburst_Bldg_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "PropGallery",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}

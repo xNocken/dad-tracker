@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2023-01-12T21:29:37.395Z",
+    "promotion": 2,
+    "promotedAt": "2023-01-18T09:10:01.289Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_SupplyDrop_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Gallery",
+        "PropGallery",
+        "NewThisSeason",
+        "RecentlyAdded"
+      ]
+    }
+  }
+}
