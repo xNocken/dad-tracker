@@ -1,0 +1,1652 @@
+{
+  "meta": {
+    "revision": 42,
+    "headRevision": 42,
+    "revisedAt": "2021-06-05T15:05:56.692Z",
+    "promotion": 19,
+    "promotedAt": "2021-06-05T15:06:41.862Z"
+  },
+  "assetData": {
+    "TestCohorts": [
+      {
+        "TestName": "HubLocationTest1_2",
+        "CohortSelector": "PlayerDeterministic",
+        "SelectionChance": "0.50",
+        "ContentPanels": [
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "18",
+            "PanelName": "Variety",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Variety"
+                },
+                {
+                  "key": "ar",
+                  "value": "متنوع"
+                },
+                {
+                  "key": "de",
+                  "value": "Abwechslung"
+                },
+                {
+                  "key": "es",
+                  "value": "Variedad"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Variedad"
+                },
+                {
+                  "key": "fr",
+                  "value": "Diversité"
+                },
+                {
+                  "key": "it",
+                  "value": "Svago"
+                },
+                {
+                  "key": "ja",
+                  "value": "バラエティー"
+                },
+                {
+                  "key": "ko",
+                  "value": "버라이어티"
+                },
+                {
+                  "key": "pl",
+                  "value": "Różne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Variados"
+                },
+                {
+                  "key": "ru",
+                  "value": "Разное"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çeşitlilik"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "变化"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "變化"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Variety",
+              "Key": "VarietyPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.variety_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "18",
+            "PanelName": "Combat",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Combat"
+                },
+                {
+                  "key": "ar",
+                  "value": "المعركة"
+                },
+                {
+                  "key": "de",
+                  "value": "Kampf"
+                },
+                {
+                  "key": "es",
+                  "value": "Combate"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate"
+                },
+                {
+                  "key": "fr",
+                  "value": "Combat"
+                },
+                {
+                  "key": "it",
+                  "value": "Combattimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "戦闘"
+                },
+                {
+                  "key": "ko",
+                  "value": "전투"
+                },
+                {
+                  "key": "pl",
+                  "value": "Walka"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Combate"
+                },
+                {
+                  "key": "ru",
+                  "value": "Сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çatışma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "战斗"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "戰鬥"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Combat",
+              "Key": "CombatPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.combat_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "18",
+            "PanelName": "Practice",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Practice"
+                },
+                {
+                  "key": "ar",
+                  "value": "تمرين"
+                },
+                {
+                  "key": "de",
+                  "value": "Übung"
+                },
+                {
+                  "key": "es",
+                  "value": "Práctica"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Práctica"
+                },
+                {
+                  "key": "fr",
+                  "value": "Entraînement"
+                },
+                {
+                  "key": "it",
+                  "value": "Allenamento"
+                },
+                {
+                  "key": "ja",
+                  "value": "練習"
+                },
+                {
+                  "key": "ko",
+                  "value": "연습"
+                },
+                {
+                  "key": "pl",
+                  "value": "Treningowe"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Treino"
+                },
+                {
+                  "key": "ru",
+                  "value": "Тренировка"
+                },
+                {
+                  "key": "tr",
+                  "value": "Alıştırma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "练习"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "練習"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Practice",
+              "Key": "PracticePanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.practice_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "0104-1200-3125",
+              "5310-6247-2155",
+              "2080-4473-7315",
+              "8300-5593-7822",
+              "8143-5110-7203",
+              "9285-4108-6826",
+              "6531-4403-0726",
+              "9683-4582-8184"
+            ],
+            "PageSize": "8",
+            "PanelName": "Roleplay",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Roleplay"
+                },
+                {
+                  "key": "ar",
+                  "value": "تقمص أدوار"
+                },
+                {
+                  "key": "es",
+                  "value": "Juego de rol"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Juegos de roles"
+                },
+                {
+                  "key": "fr",
+                  "value": "Jeu de rôle"
+                },
+                {
+                  "key": "it",
+                  "value": "Gioco di ruolo"
+                },
+                {
+                  "key": "ja",
+                  "value": "ロールプレイ"
+                },
+                {
+                  "key": "ko",
+                  "value": "롤플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "RPG"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Interpretação"
+                },
+                {
+                  "key": "ru",
+                  "value": "Ролевая-игра"
+                },
+                {
+                  "key": "tr",
+                  "value": "Rol yapma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "角色扮演"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "角色扮演"
+                },
+                {
+                  "key": "de",
+                  "value": "Rollenspiel"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Roleplay",
+              "Key": "RoleplayPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "5763-3120-6745",
+              "8648-4116-8065",
+              "9850-4760-0260",
+              "8966-1061-8293",
+              "5471-0233-7776",
+              "8595-9426-7622"
+            ],
+            "PageSize": "6",
+            "PanelName": "Strategy",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Strategy"
+                },
+                {
+                  "key": "ar",
+                  "value": "إستراتيجية"
+                },
+                {
+                  "key": "es",
+                  "value": "Estrategia"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Estrategia"
+                },
+                {
+                  "key": "fr",
+                  "value": "Stratégie"
+                },
+                {
+                  "key": "it",
+                  "value": "Strategia"
+                },
+                {
+                  "key": "ja",
+                  "value": "ストラテジー"
+                },
+                {
+                  "key": "ko",
+                  "value": "전략"
+                },
+                {
+                  "key": "pl",
+                  "value": "Strategiczne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Estratégia"
+                },
+                {
+                  "key": "ru",
+                  "value": "Стратегия"
+                },
+                {
+                  "key": "tr",
+                  "value": "Strateji"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "策略"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "策略"
+                },
+                {
+                  "key": "de",
+                  "value": "Strategie"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Strategy",
+              "Key": "StrategyPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "0104-1200-3125",
+              "5310-6247-2155",
+              "6531-4403-0726",
+              "2080-4473-7315",
+              "2368-2970-1351",
+              "7263-1478-7522",
+              "0104-1200-3125",
+              "3324-4777-2393",
+              "9683-4582-8184",
+              "6570-5231-1418",
+              "8143-5110-7203"
+            ],
+            "PageSize": "11",
+            "PanelName": "Updated",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Updated"
+                },
+                {
+                  "key": "ar",
+                  "value": "مُحدث"
+                },
+                {
+                  "key": "es",
+                  "value": "Actualizado"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Actualizado"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mis à jour"
+                },
+                {
+                  "key": "it",
+                  "value": "Aggiornato"
+                },
+                {
+                  "key": "ja",
+                  "value": "アップデート"
+                },
+                {
+                  "key": "ko",
+                  "value": "최신 업데이트"
+                },
+                {
+                  "key": "pl",
+                  "value": "Zaktualizowane"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Atualizado"
+                },
+                {
+                  "key": "ru",
+                  "value": "Обновлённое"
+                },
+                {
+                  "key": "tr",
+                  "value": "Güncel"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "已更新"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "已更新"
+                },
+                {
+                  "key": "de",
+                  "value": "Aktualisiert"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Updated",
+              "Key": "UpdatedPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "9642-7487-3209",
+              "4419-2931-3877",
+              "4909-3532-4209",
+              "0699-9012-6085",
+              "0942-7127-6072",
+              "4074-7541-0888",
+              "7534-1440-4107",
+              "7732-4510-2990",
+              "6207-0778-2857",
+              "3424-1388-0947"
+            ],
+            "PageSize": "10",
+            "PanelName": "8v8",
+            "MetricInterval": "",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "8v8"
+                },
+                {
+                  "key": "ar",
+                  "value": "8 ضد 8"
+                },
+                {
+                  "key": "de",
+                  "value": "8 gegen 8"
+                },
+                {
+                  "key": "es",
+                  "value": "8 contra 8"
+                },
+                {
+                  "key": "es-419",
+                  "value": "8c8"
+                },
+                {
+                  "key": "fr",
+                  "value": "8 contre 8"
+                },
+                {
+                  "key": "it",
+                  "value": "8v8"
+                },
+                {
+                  "key": "ja",
+                  "value": "8対8"
+                },
+                {
+                  "key": "ko",
+                  "value": "8대8"
+                },
+                {
+                  "key": "pl",
+                  "value": "8 na 8"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "8x8"
+                },
+                {
+                  "key": "ru",
+                  "value": "8 на 8"
+                },
+                {
+                  "key": "tr",
+                  "value": "8'e 8"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "8v8"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "8v8"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "8v8",
+              "Key": "8v8Panel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "1982-2979-6294",
+              "0125-4297-6558",
+              "0770-5751-8153",
+              "8865-8905-6380",
+              "9234-1689-1491"
+            ],
+            "PageSize": "5",
+            "PanelName": "1-Player",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "1-Player"
+                },
+                {
+                  "key": "ar",
+                  "value": "لاعب واحد"
+                },
+                {
+                  "key": "de",
+                  "value": "1 Spieler"
+                },
+                {
+                  "key": "es",
+                  "value": "1 jugador"
+                },
+                {
+                  "key": "es-419",
+                  "value": "1 jugador"
+                },
+                {
+                  "key": "fr",
+                  "value": "1 joueur"
+                },
+                {
+                  "key": "it",
+                  "value": "1 giocatore"
+                },
+                {
+                  "key": "ja",
+                  "value": "1プレイヤー"
+                },
+                {
+                  "key": "ko",
+                  "value": "1인 플레이어"
+                },
+                {
+                  "key": "pl",
+                  "value": "1 gracz"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "1 Jogador"
+                },
+                {
+                  "key": "ru",
+                  "value": "1-игрок"
+                },
+                {
+                  "key": "tr",
+                  "value": "1 Oyunculu"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "1名玩家"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "1名玩家"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "1-Player",
+              "Key": "1-PlayerPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "30",
+            "PanelName": "Popular",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Popular"
+                },
+                {
+                  "key": "fr",
+                  "value": "Populaire"
+                },
+                {
+                  "key": "ar",
+                  "value": "الرائج"
+                },
+                {
+                  "key": "de",
+                  "value": "Beliebt"
+                },
+                {
+                  "key": "es",
+                  "value": "Populares"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Popular"
+                },
+                {
+                  "key": "it",
+                  "value": "Popolari"
+                },
+                {
+                  "key": "ja",
+                  "value": "人気"
+                },
+                {
+                  "key": "ko",
+                  "value": "인기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Popularne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Popular"
+                },
+                {
+                  "key": "ru",
+                  "value": "Популярное"
+                },
+                {
+                  "key": "tr",
+                  "value": "Popüler"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "流行"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "流行"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Popular",
+              "Key": "PopularPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creative.ccu.top.vetted"
+          }
+        ]
+      },
+      {
+        "TestName": "HubLocationTest2_2",
+        "CohortSelector": "PlayerDeterministic",
+        "SelectionChance": "0.50",
+        "ContentPanels": [
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "0104-1200-3125",
+              "5310-6247-2155",
+              "6531-4403-0726",
+              "2080-4473-7315",
+              "2368-2970-1351",
+              "7263-1478-7522",
+              "0104-1200-3125",
+              "3324-4777-2393",
+              "9683-4582-8184",
+              "6570-5231-1418",
+              "8143-5110-7203"
+            ],
+            "PageSize": "11",
+            "PanelName": "Updated",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Updated"
+                },
+                {
+                  "key": "ar",
+                  "value": "مُحدث"
+                },
+                {
+                  "key": "es",
+                  "value": "Actualizado"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Actualizado"
+                },
+                {
+                  "key": "fr",
+                  "value": "Mis à jour"
+                },
+                {
+                  "key": "it",
+                  "value": "Aggiornato"
+                },
+                {
+                  "key": "ja",
+                  "value": "アップデート"
+                },
+                {
+                  "key": "ko",
+                  "value": "최신 업데이트"
+                },
+                {
+                  "key": "pl",
+                  "value": "Zaktualizowane"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Atualizado"
+                },
+                {
+                  "key": "ru",
+                  "value": "Обновлённое"
+                },
+                {
+                  "key": "tr",
+                  "value": "Güncel"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "已更新"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "已更新"
+                },
+                {
+                  "key": "de",
+                  "value": "Aktualisiert"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Updated",
+              "Key": "UpdatedPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "5310-6247-2155",
+              "0104-1200-3125",
+              "2080-4473-7315",
+              "8300-5593-7822",
+              "8143-5110-7203",
+              "9285-4108-6826",
+              "6531-4403-0726",
+              "9683-4582-8184"
+            ],
+            "PageSize": "8",
+            "PanelName": "Roleplay",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Roleplay"
+                },
+                {
+                  "key": "ar",
+                  "value": "تقمص أدوار"
+                },
+                {
+                  "key": "es",
+                  "value": "Juego de rol"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Juegos de roles"
+                },
+                {
+                  "key": "fr",
+                  "value": "Jeu de rôle"
+                },
+                {
+                  "key": "it",
+                  "value": "Gioco di ruolo"
+                },
+                {
+                  "key": "ja",
+                  "value": "ロールプレイ"
+                },
+                {
+                  "key": "ko",
+                  "value": "롤플레이"
+                },
+                {
+                  "key": "pl",
+                  "value": "RPG"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Interpretação"
+                },
+                {
+                  "key": "ru",
+                  "value": "Ролевая-игра"
+                },
+                {
+                  "key": "tr",
+                  "value": "Rol yapma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "角色扮演"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "角色扮演"
+                },
+                {
+                  "key": "de",
+                  "value": "Rollenspiel"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Roleplay",
+              "Key": "RoleplayPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "5763-3120-6745",
+              "8648-4116-8065",
+              "9850-4760-0260",
+              "8966-1061-8293",
+              "5471-0233-7776",
+              "8595-9426-7622"
+            ],
+            "PageSize": "6",
+            "PanelName": "Strategy",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Strategy"
+                },
+                {
+                  "key": "ar",
+                  "value": "إستراتيجية"
+                },
+                {
+                  "key": "es",
+                  "value": "Estrategia"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Estrategia"
+                },
+                {
+                  "key": "fr",
+                  "value": "Stratégie"
+                },
+                {
+                  "key": "it",
+                  "value": "Strategia"
+                },
+                {
+                  "key": "ja",
+                  "value": "ストラテジー"
+                },
+                {
+                  "key": "ko",
+                  "value": "전략"
+                },
+                {
+                  "key": "pl",
+                  "value": "Strategiczne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Estratégia"
+                },
+                {
+                  "key": "ru",
+                  "value": "Стратегия"
+                },
+                {
+                  "key": "tr",
+                  "value": "Strateji"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "策略"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "策略"
+                },
+                {
+                  "key": "de",
+                  "value": "Strategie"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Strategy",
+              "Key": "StrategyPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "18",
+            "PanelName": "Variety",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Variety"
+                },
+                {
+                  "key": "ar",
+                  "value": "متنوع"
+                },
+                {
+                  "key": "de",
+                  "value": "Abwechslung"
+                },
+                {
+                  "key": "es",
+                  "value": "Variedad"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Variedad"
+                },
+                {
+                  "key": "fr",
+                  "value": "Diversité"
+                },
+                {
+                  "key": "it",
+                  "value": "Svago"
+                },
+                {
+                  "key": "ja",
+                  "value": "バラエティー"
+                },
+                {
+                  "key": "ko",
+                  "value": "버라이어티"
+                },
+                {
+                  "key": "pl",
+                  "value": "Różne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Variados"
+                },
+                {
+                  "key": "ru",
+                  "value": "Разное"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çeşitlilik"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "变化"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "變化"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Variety",
+              "Key": "VarietyPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.variety_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [
+              null
+            ],
+            "PageSize": "18",
+            "PanelName": "Combat",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Combat"
+                },
+                {
+                  "key": "ar",
+                  "value": "المعركة"
+                },
+                {
+                  "key": "de",
+                  "value": "Kampf"
+                },
+                {
+                  "key": "es",
+                  "value": "Combate"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Combate"
+                },
+                {
+                  "key": "fr",
+                  "value": "Combat"
+                },
+                {
+                  "key": "it",
+                  "value": "Combattimento"
+                },
+                {
+                  "key": "ja",
+                  "value": "戦闘"
+                },
+                {
+                  "key": "ko",
+                  "value": "전투"
+                },
+                {
+                  "key": "pl",
+                  "value": "Walka"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Combate"
+                },
+                {
+                  "key": "ru",
+                  "value": "Сражение"
+                },
+                {
+                  "key": "tr",
+                  "value": "Çatışma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "战斗"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "戰鬥"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Combat",
+              "Key": "CombatPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.combat_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "18",
+            "PanelName": "Practice",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Practice"
+                },
+                {
+                  "key": "ar",
+                  "value": "تمرين"
+                },
+                {
+                  "key": "de",
+                  "value": "Übung"
+                },
+                {
+                  "key": "es",
+                  "value": "Práctica"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Práctica"
+                },
+                {
+                  "key": "fr",
+                  "value": "Entraînement"
+                },
+                {
+                  "key": "it",
+                  "value": "Allenamento"
+                },
+                {
+                  "key": "ja",
+                  "value": "練習"
+                },
+                {
+                  "key": "ko",
+                  "value": "연습"
+                },
+                {
+                  "key": "pl",
+                  "value": "Treningowe"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Treino"
+                },
+                {
+                  "key": "ru",
+                  "value": "Тренировка"
+                },
+                {
+                  "key": "tr",
+                  "value": "Alıştırma"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "练习"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "練習"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Practice",
+              "Key": "PracticePanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creativemode.ccu.practice_hub_vetted"
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "9642-7487-3209",
+              "4419-2931-3877",
+              "4909-3532-4209",
+              "0699-9012-6085",
+              "0942-7127-6072",
+              "4074-7541-0888",
+              "7534-1440-4107",
+              "7732-4510-2990",
+              "6207-0778-2857",
+              "3424-1388-0947"
+            ],
+            "PageSize": "10",
+            "PanelName": "8v8",
+            "MetricInterval": "",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "8v8"
+                },
+                {
+                  "key": "ar",
+                  "value": "8 ضد 8"
+                },
+                {
+                  "key": "de",
+                  "value": "8 gegen 8"
+                },
+                {
+                  "key": "es",
+                  "value": "8 contra 8"
+                },
+                {
+                  "key": "es-419",
+                  "value": "8c8"
+                },
+                {
+                  "key": "fr",
+                  "value": "8 contre 8"
+                },
+                {
+                  "key": "it",
+                  "value": "8v8"
+                },
+                {
+                  "key": "ja",
+                  "value": "8対8"
+                },
+                {
+                  "key": "ko",
+                  "value": "8대8"
+                },
+                {
+                  "key": "pl",
+                  "value": "8 na 8"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "8x8"
+                },
+                {
+                  "key": "ru",
+                  "value": "8 на 8"
+                },
+                {
+                  "key": "tr",
+                  "value": "8'e 8"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "8v8"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "8v8"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "8v8",
+              "Key": "8v8Panel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "1982-2979-6294",
+              "0125-4297-6558",
+              "0770-5751-8153",
+              "8865-8905-6380",
+              "9234-1689-1491"
+            ],
+            "PageSize": "5",
+            "PanelName": "1-Player",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "1-Player"
+                },
+                {
+                  "key": "ar",
+                  "value": "لاعب واحد"
+                },
+                {
+                  "key": "de",
+                  "value": "1 Spieler"
+                },
+                {
+                  "key": "es",
+                  "value": "1 jugador"
+                },
+                {
+                  "key": "es-419",
+                  "value": "1 jugador"
+                },
+                {
+                  "key": "fr",
+                  "value": "1 joueur"
+                },
+                {
+                  "key": "it",
+                  "value": "1 giocatore"
+                },
+                {
+                  "key": "ja",
+                  "value": "1プレイヤー"
+                },
+                {
+                  "key": "ko",
+                  "value": "1인 플레이어"
+                },
+                {
+                  "key": "pl",
+                  "value": "1 gracz"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "1 Jogador"
+                },
+                {
+                  "key": "ru",
+                  "value": "1-игрок"
+                },
+                {
+                  "key": "tr",
+                  "value": "1 Oyunculu"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "1名玩家"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "1名玩家"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "1-Player",
+              "Key": "1-PlayerPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "MetricDriven",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": "30",
+            "PanelName": "Popular",
+            "MetricInterval": "PT1M",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0",
+            "SplicedEntries": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "en",
+                  "value": "Popular"
+                },
+                {
+                  "key": "fr",
+                  "value": "Populaire"
+                },
+                {
+                  "key": "ar",
+                  "value": "الرائج"
+                },
+                {
+                  "key": "de",
+                  "value": "Beliebt"
+                },
+                {
+                  "key": "es",
+                  "value": "Populares"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Popular"
+                },
+                {
+                  "key": "it",
+                  "value": "Popolari"
+                },
+                {
+                  "key": "ja",
+                  "value": "人気"
+                },
+                {
+                  "key": "ko",
+                  "value": "인기"
+                },
+                {
+                  "key": "pl",
+                  "value": "Popularne"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Popular"
+                },
+                {
+                  "key": "ru",
+                  "value": "Популярное"
+                },
+                {
+                  "key": "tr",
+                  "value": "Popüler"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "流行"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "流行"
+                }
+              ],
+              "bIsMinimalPatch": true,
+              "NativeString": "Popular",
+              "Key": "PopularPanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "MetricName": "fortnite.creative.ccu.top.vetted"
+          }
+        ]
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend"
+  }
+}
