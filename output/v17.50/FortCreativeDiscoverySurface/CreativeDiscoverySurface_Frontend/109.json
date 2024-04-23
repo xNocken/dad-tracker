@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "revision": 109,
+    "headRevision": 110,
+    "revisedAt": "2021-09-12T15:44:28.191Z",
+    "promotion": 20,
+    "promotedAt": "2021-09-12T16:00:05.743Z"
+  },
+  "assetData": {
+    "TestCohorts": [
+      {
+        "TestName": "17_50_pre_kiwi",
+        "CohortSelector": "Always",
+        "SelectionChance": 0.5,
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [
+              "playlist_kiwi",
+              "playlist_defaultsolo",
+              "playlist_defaultduo",
+              "playlist_trios",
+              "playlist_defaultsquad",
+              "playlist_molegame",
+              "playlist_respawn_24_alt",
+              "playlist_solidgold_squads"
+            ],
+            "PageSize": 25,
+            "PanelName": "By Epic_NoCreative",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpic_NoCreativePanel"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [
+              null
+            ],
+            "PanelLinkCodeWhitelist": [
+              null
+            ]
+          },
+          {
+            "NumPages": 80,
+            "PanelType": "CuratedList",
+            "CuratedListOfLinkCodes": [],
+            "PageSize": 25,
+            "PanelName": "Competitive",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "Fortnite التنافسي"
+                },
+                {
+                  "key": "de",
+                  "value": "Fortnite-Wettkampf"
+                },
+                {
+                  "key": "en",
+                  "value": "Fortnite Competitive"
+                },
+                {
+                  "key": "es",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "fr",
+                  "value": "Compétitions Fortnite"
+                },
+                {
+                  "key": "it",
+                  "value": "Competizioni Fortnite"
+                },
+                {
+                  "key": "ja",
+                  "value": "フォートナイト競技イベント"
+                },
+                {
+                  "key": "ko",
+                  "value": "포트나이트 경쟁전"
+                },
+                {
+                  "key": "pl",
+                  "value": "Fortnite turniejowy"
+                },
+                {
+                  "key": "ru",
+                  "value": "Соревнования по Fortnite"
+                },
+                {
+                  "key": "tr",
+                  "value": "Rekabetçi Fortnite"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Competitivo do Fortnite"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "堡垒之夜竞技"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Competitivo de Fortnite"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "《要塞英雄》競技"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "Fortnite Competitive",
+              "Key": "CompetitivePanel1"
+            },
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [
+              null
+            ],
+            "PanelLinkCodeWhitelist": [
+              null
+            ]
+          }
+        ]
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend",
+    "GlobalLinkCodeWhitelist": []
+  }
+}

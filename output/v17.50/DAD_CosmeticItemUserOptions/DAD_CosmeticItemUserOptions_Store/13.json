@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "revision": 13,
+    "headRevision": 13,
+    "revisedAt": "2021-09-01T13:34:13.128Z",
+    "promotion": 1,
+    "promotedAt": "2021-09-01T14:46:03.176Z"
+  },
+  "assetData": {
+    "primaryAssetId": "DAD_CosmeticItemUserOptions:DAD_CosmeticItemUserOptions_Store",
+    "CosmeticItemUserOptionsListName": "StoreCosmetics",
+    "CosmeticItemUserOptionsList": [
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "CreativeMannequin",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "1.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_Creative_Mannequin_M_Default.CID_Creative_Mannequin_M_Default",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Creative Mannequin",
+          "Key": "9466EA6A4B003871A13816BFE5A4C92E"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": "Granted.Creative.CreativeEffect.OverrideCustomization.Default.M"
+        },
+        "Name": "DefaultMale",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.838542",
+          "G": "0.838542",
+          "B": "0.838542",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_005_Athena_Commando_M_Default.CID_005_Athena_Commando_M_Default",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Jonesy",
+          "Key": "BD3CBCC146E6B4E7F36FDABADF96A3A6"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "FastBreak",
+        "DefaultVariants": {
+          "GameplayTags": [
+            {
+              "TagName": "Cosmetics.Variant.Property.Color.017"
+            },
+            {
+              "TagName": "Cosmetics.Variant.Property.Numeric.66"
+            }
+          ]
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_080_Athena_Commando_M_Hardwood_I15AL.CID_A_080_Athena_Commando_M_Hardwood_I15AL",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Fast Break",
+          "Key": "757D7B6A423E16C6A65570B8332770B7"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "HalfCourtHero",
+        "DefaultVariants": {
+          "GameplayTags": [
+            {
+              "TagName": "Cosmetics.Variant.Property.Color.008"
+            },
+            {
+              "TagName": "Cosmetics.Variant.Property.Numeric.18"
+            }
+          ]
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_081_Athena_Commando_M_Hardwood_B_JRP29.CID_A_081_Athena_Commando_M_Hardwood_B_JRP29",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Half-Court Hero",
+          "Key": "F4F7C3F34D9EED71FFD0928EFCF0297B"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "BuzzerBeater",
+        "DefaultVariants": {
+          "GameplayTags": [
+            {
+              "TagName": "Cosmetics.Variant.Property.Color.003"
+            },
+            {
+              "TagName": "Cosmetics.Variant.Property.Numeric.13"
+            }
+          ]
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_082_Athena_Commando_M_Hardwood_C_YS5XC.CID_A_082_Athena_Commando_M_Hardwood_C_YS5XC",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Buzzer Beater",
+          "Key": "DAECC3BD48D6793797889D9201221A95"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "TripleDouble",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_083_Athena_Commando_M_Hardwood_D_7S0PN.CID_A_083_Athena_Commando_M_Hardwood_D_7S0PN",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Triple-Double",
+          "Key": "44FF008440FDC1554E1BFD997D0BB6AA"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "Fadeaway",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_084_Athena_Commando_M_Hardwood_E_II9YS.CID_A_084_Athena_Commando_M_Hardwood_E_II9YS",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Fadeaway",
+          "Key": "1ED84DB14163A33DF1578B9BBD7C6517"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "RainMaker",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1.CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Rain Maker",
+          "Key": "98F8FCA94E2F6B32421D1CBFB67BA79C"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "DynamoDribbler",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_086_Athena_Commando_F_Hardwood_B_B7ZQA.CID_A_086_Athena_Commando_F_Hardwood_B_B7ZQA",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Dynamo Dribbler",
+          "Key": "081DC49E4B6E2F362A6BE19CD59D5831"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "CrossoverChampion",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_087_Athena_Commando_F_Hardwood_C_AOU16.CID_A_087_Athena_Commando_F_Hardwood_C_AOU16",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Crossover Champion",
+          "Key": "42044A034376AF46538F34B25B77EFA4"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "ReboundRaider",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2.CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Rebound Raider 1",
+          "Key": "8C8CB177483FD438D2483E9D809C4106"
+        }
+      },
+      {
+        "StoreLink": "",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SplashSpecialist",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "0.000000",
+          "G": "0.000000",
+          "B": "0.000000",
+          "A": "0.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH.CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "",
+          "LocalizedStrings": [],
+          "bIsMinimalPatch": false,
+          "NativeString": "Splash Specialist",
+          "Key": "05130971402AF1FE2CC9489D598CCA76"
+        }
+      },
+      {
+        "StoreLink": "v2:/8e3cf4618bfd0b56f25848ea4d13f83b18d7eeaf31724b7229f8b98719af2eba",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "JBalvin",
+        "DefaultVariants": {
+          "GameplayTags": []
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "1.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_a_182_Athena_Commando_M_vivid_lzgq3.CID_a_182_Athena_Commando_M_vivid_lzgq3",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "JBalvin"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "J Balvin",
+          "Key": "jbalvinkey"
+        }
+      },
+      {
+        "StoreLink": "v2:/8e3cf4618bfd0b56f25848ea4d13f83b18d7eeaf31724b7229f8b98719af2eba",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "SkeletonBalvin",
+        "DefaultVariants": {
+          "GameplayTags": [
+            {
+              "TagName": "cosmetics.variant.property.stage3"
+            }
+          ]
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "1.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_a_182_Athena_Commando_M_vivid_lzgq3.CID_a_182_Athena_Commando_M_vivid_lzgq3",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Skeleton Balvin"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Skeleton Balvin",
+          "Key": "skeletonbalvinkey"
+        }
+      },
+      {
+        "StoreLink": "v2:/8e3cf4618bfd0b56f25848ea4d13f83b18d7eeaf31724b7229f8b98719af2eba",
+        "GameplayTag": {
+          "TagName": ""
+        },
+        "Name": "EnergiaBalvin",
+        "DefaultVariants": {
+          "GameplayTags": [
+            {
+              "TagName": "cosmetics.variant.property.stage2"
+            }
+          ]
+        },
+        "VFXColor": {
+          "R": "1.000000",
+          "G": "1.000000",
+          "B": "1.000000",
+          "A": "1.000000"
+        },
+        "CosmeticItemAsset": "/Game/Athena/Items/Cosmetics/Characters/CID_a_182_Athena_Commando_M_vivid_lzgq3.CID_a_182_Athena_Commando_M_vivid_lzgq3",
+        "DisplayName": {
+          "Category": "Game",
+          "NativeCulture": "",
+          "Namespace": "[201BE89E4A2CBF82AB2717AC38840EDC]",
+          "LocalizedStrings": [
+            {
+              "key": "en",
+              "value": "Energia Balvin"
+            }
+          ],
+          "bIsMinimalPatch": true,
+          "NativeString": "Energia Balvin",
+          "Key": "energiabalvinkey"
+        }
+      }
+    ]
+  }
+}
