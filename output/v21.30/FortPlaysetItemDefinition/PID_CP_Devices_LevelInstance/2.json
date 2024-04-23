@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:11:00.597Z",
+    "promotion": 3,
+    "promotedAt": "2022-07-18T07:52:14.120Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_LevelInstance",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Device",
+        "VolumeDevice",
+        "NewThisSeason",
+        "EnvironmentDevice"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:45:22.990Z",
+    "promotion": 8,
+    "promotedAt": "2022-07-18T07:55:19.735Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_Heavy_Recoil_Athena_SR",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Legendary",
+        "Ammo:Medium",
+        "NewThisSeason",
+        "Vibin",
+        "Weapon"
+      ]
+    }
+  }
+}

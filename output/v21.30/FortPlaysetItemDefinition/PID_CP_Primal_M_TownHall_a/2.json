@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:31:45.240Z",
+    "promotion": 11,
+    "promotedAt": "2022-08-02T13:00:03.554Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Primal_M_TownHall_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Primal",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Prefab"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:50:23.158Z",
+    "promotion": 16,
+    "promotedAt": "2022-07-18T07:57:51.856Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_DMR_Athena_C",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Ammo:Medium",
+        "Common",
+        "Weapon",
+        "NewThisSeason",
+        "Vibin"
+      ]
+    }
+  }
+}

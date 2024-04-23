@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:42:32.394Z",
+    "promotion": 5,
+    "promotedAt": "2022-07-18T07:54:23.514Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Assault_Heavy_Recoil_Athena_UC",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Assault",
+        "Uncommon",
+        "Ammo:Medium",
+        "NewThisSeason",
+        "Vibin",
+        "Weapon"
+      ]
+    }
+  }
+}

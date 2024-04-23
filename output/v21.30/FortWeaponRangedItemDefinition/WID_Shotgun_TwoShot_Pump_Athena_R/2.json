@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:48:20.092Z",
+    "promotion": 12,
+    "promotedAt": "2022-07-18T07:56:36.681Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Shotgun_TwoShot_Pump_Athena_R",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Shotgun",
+        "Rare",
+        "Ammo:Shells",
+        "Weapon",
+        "Vibin",
+        "NewThisSeason"
+      ]
+    }
+  }
+}

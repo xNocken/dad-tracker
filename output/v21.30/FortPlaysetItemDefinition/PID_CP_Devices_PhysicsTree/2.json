@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:10:06.211Z",
+    "promotion": 2,
+    "promotedAt": "2022-07-18T07:51:57.599Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_PhysicsTree",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "NewThisSeason",
+        "EnvironmentDevice",
+        "Device"
+      ]
+    }
+  }
+}

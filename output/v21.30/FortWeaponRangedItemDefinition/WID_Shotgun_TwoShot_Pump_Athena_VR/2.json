@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:48:46.208Z",
+    "promotion": 13,
+    "promotedAt": "2022-07-18T07:56:56.972Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Shotgun_TwoShot_Pump_Athena_VR",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Shotgun",
+        "Epic",
+        "Ammo:Shells",
+        "Weapon",
+        "Vibin",
+        "NewThisSeason"
+      ]
+    }
+  }
+}

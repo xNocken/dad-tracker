@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:45:45.741Z",
+    "promotion": 1,
+    "promotedAt": "2022-07-18T07:52:56.114Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_GrappleGloves",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Weapon",
+        "Vibin",
+        "NewThisSeason",
+        "Epic"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:35:54.433Z",
+    "promotion": 5,
+    "promotedAt": "2022-07-26T12:56:31.360Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_Summer_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Vibin",
+        "PropGallery",
+        "BuildingGallery",
+        "Summer",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Gallery"
+      ]
+    }
+  }
+}

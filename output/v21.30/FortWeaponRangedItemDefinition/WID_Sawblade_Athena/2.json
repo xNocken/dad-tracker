@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:54:51.173Z",
+    "promotion": 3,
+    "promotedAt": "2022-07-18T07:53:38.965Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Sawblade_Athena",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Vibin",
+        "NewThisSeason",
+        "Ammo:Special",
+        "Weapon",
+        "Rare"
+      ]
+    }
+  }
+}

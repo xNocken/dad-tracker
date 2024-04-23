@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:36:29.940Z",
+    "promotion": 9,
+    "promotedAt": "2022-08-02T13:00:01.216Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Props_Primal_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Primal",
+        "PropGallery",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Gallery"
+      ]
+    }
+  }
+}

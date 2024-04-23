@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:52:40.618Z",
+    "promotion": 19,
+    "promotedAt": "2022-07-18T07:58:52.491Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_DMR_Athena_VR",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Ammo:Medium",
+        "Epic",
+        "Weapon",
+        "NewThisSeason",
+        "Vibin"
+      ]
+    }
+  }
+}

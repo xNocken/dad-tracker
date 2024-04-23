@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T16:32:56.233Z",
+    "promotion": 8,
+    "promotedAt": "2022-08-02T13:00:00.673Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Primal_M_GasStation_a",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "Primal",
+        "NewThisSeason",
+        "RecentlyAdded",
+        "Prefab"
+      ]
+    }
+  }
+}

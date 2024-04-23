@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "revision": 2,
+    "headRevision": 2,
+    "revisedAt": "2022-07-12T14:08:33.710Z",
+    "promotion": 1,
+    "promotedAt": "2022-07-18T07:51:39.827Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Playset:PID_CP_Devices_PhysicsBoulder",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "NewThisSeason",
+        "EnvironmentDevice",
+        "Device"
+      ]
+    }
+  }
+}
