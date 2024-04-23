@@ -191,7 +191,10 @@ const main = async () => {
   console.log(commitMessage);
 
   execSync('git add output');
-  execSync(`git -c commit.gpgsign=false commit --author="GH Actons <github-actions@github.com>" -m "${commitMessage}"`);
+  execSync('git config user.email "github-actions@github.com"');
+  execSync('git config user.name "GitHub Actions"');
+  execSync('git config commit.gpgsign false');
+  execSync(`git commit -m "${commitMessage}"`);
   execSync('git push');
 
   let fieldValue = '';
