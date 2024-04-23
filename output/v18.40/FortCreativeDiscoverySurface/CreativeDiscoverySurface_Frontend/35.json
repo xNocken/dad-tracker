@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "revision": 35,
+    "headRevision": 35,
+    "revisedAt": "2021-12-04T19:31:26.195Z",
+    "promotion": 12,
+    "promotedAt": "2021-12-04T19:35:45.169Z"
+  },
+  "assetData": {
+    "TestCohorts": [
+      {
+        "CohortSelector": "Always",
+        "PlatformBlacklist": [],
+        "ContentPanels": [
+          {
+            "NumPages": 1,
+            "PanelType": "AnalyticsList",
+            "AnalyticsListName": "hero_internal_only",
+            "CuratedListOfLinkCodes": [],
+            "ModelName": "",
+            "PageSize": 1,
+            "PlatformBlacklist": [],
+            "PanelName": "HeroPanel_Internal",
+            "MetricInterval": "",
+            "SkippedEntriesCount": 0,
+            "SkippedEntriesPercent": 0,
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [],
+              "bIsMinimalPatch": false,
+              "NativeString": "Hero",
+              "Key": "HeroPanelInternal"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [
+              "promoted"
+            ],
+            "MetricName": ""
+          },
+          {
+            "NumPages": "1",
+            "PanelType": "CuratedList",
+            "AnalyticsListName": "TeamDeathmatch",
+            "CuratedListOfLinkCodes": [
+              "playlist_defaultsolo",
+              "playlist_defaultduo",
+              "playlist_trios",
+              "playlist_defaultsquad",
+              "playlist_respawn_24_alt",
+              "playlist_molegamevoice",
+              "playlist_molegame"
+            ],
+            "ModelName": "",
+            "PageSize": "7",
+            "PlatformBlacklist": [],
+            "PanelName": "ByEpic_18.20",
+            "MetricInterval": "",
+            "SkippedEntriesCount": "0",
+            "SkippedEntriesPercent": "0.000000",
+            "SplicedEntries": [],
+            "PlatformWhitelist": [],
+            "EntrySkippingMethod": "None",
+            "PanelDisplayName": {
+              "Category": "Game",
+              "NativeCulture": "",
+              "Namespace": "CreativeDiscoverySurface_Frontend",
+              "LocalizedStrings": [
+                {
+                  "key": "ar",
+                  "value": "بواسطة Epic"
+                },
+                {
+                  "key": "de",
+                  "value": "Von Epic"
+                },
+                {
+                  "key": "en",
+                  "value": "By Epic"
+                },
+                {
+                  "key": "es",
+                  "value": "de Epic"
+                },
+                {
+                  "key": "fr",
+                  "value": "Par Epic"
+                },
+                {
+                  "key": "it",
+                  "value": "Di Epic"
+                },
+                {
+                  "key": "ja",
+                  "value": "Epic制作"
+                },
+                {
+                  "key": "ko",
+                  "value": "제작자: Epic"
+                },
+                {
+                  "key": "pl",
+                  "value": "Dzieło Epic"
+                },
+                {
+                  "key": "ru",
+                  "value": "Epic Games"
+                },
+                {
+                  "key": "tr",
+                  "value": "EPIC ESERİ"
+                },
+                {
+                  "key": "pt-BR",
+                  "value": "Da Epic"
+                },
+                {
+                  "key": "zh-CN",
+                  "value": "Epic出品"
+                },
+                {
+                  "key": "es-419",
+                  "value": "Por Epic"
+                },
+                {
+                  "key": "zh-Hant",
+                  "value": "Epic製作"
+                }
+              ],
+              "bIsMinimalPatch": false,
+              "NativeString": "By Epic",
+              "Key": "ByEpicPanel"
+            },
+            "PlayHistoryType": "RecentlyPlayed",
+            "bLowestToHighest": false,
+            "PanelLinkCodeBlacklist": [],
+            "PanelLinkCodeWhitelist": [],
+            "FeatureTags": [],
+            "MetricName": ""
+          }
+        ],
+        "PlatformWhitelist": [],
+        "SelectionChance": 1,
+        "TestName": "V2-18.40_12/1/2021_Guava"
+      }
+    ],
+    "GlobalLinkCodeBlacklist": [
+      "0116-8088-0707",
+      "0489-4554-1340",
+      "0546-8242-5180",
+      "1239-8166-6216",
+      "1354-8334-2409",
+      "1871-2086-5899",
+      "2005-7407-3418",
+      "2039-4078-3130",
+      "2159-4248-0637",
+      "2305-3663-4546",
+      "2525-6907-3086",
+      "2612-7910-6204",
+      "2823-5155-0740",
+      "2843-8951-9681",
+      "3428-1655-0005",
+      "3555-2354-1924",
+      "4408-8723-4206",
+      "4760-0165-3894",
+      "5387-0932-4549",
+      "6031-3511-7062",
+      "6110-3866-1319",
+      "6285-0568-5559",
+      "6472-2861-3966",
+      "6485-7982-0373",
+      "6962-1221-3067",
+      "7672-3587-2912",
+      "7743-1580-2509",
+      "7767-1373-1945",
+      "7780-1235-6446",
+      "7792-5202-0404",
+      "8264-2971-8727",
+      "8325-8720-0261",
+      "8388-7872-9347",
+      "8464-0518-5628",
+      "8654-3243-2262",
+      "8733-5603-0129",
+      "8764-8428-4281",
+      "8853-7434-8582",
+      "9502-4521-4943",
+      "8854-0693-0957",
+      "1571-8801-4899",
+      "4473-1660-2967",
+      "5870-4674-7490",
+      "1694-2189-4007",
+      "8378-6521-4347",
+      "4141-5056-3875",
+      "3621-2652-8507",
+      "1799-2623-4349",
+      "4260-5580-8209",
+      "4185-6015-8120",
+      "5895-4007-4957",
+      "6166-1456-2312",
+      "4114-5129-8031",
+      "4706-3310-9030",
+      "0909-2762-7548",
+      "6032-5662-9446",
+      "6401-3664-2483",
+      "9302-0838-9371",
+      "6460-7276-4277",
+      "2768-9933-5606",
+      "7246-3124-3777",
+      "9663-3740-8490"
+    ],
+    "SurfaceName": "CreativeDiscoverySurface_Frontend",
+    "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Frontend",
+    "GlobalLinkCodeWhitelist": []
+  }
+}
