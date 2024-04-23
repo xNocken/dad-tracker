@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "revision": 3,
+    "headRevision": 3,
+    "revisedAt": "2022-06-23T19:53:18.811Z",
+    "promotion": 3,
+    "promotedAt": "2022-06-28T13:02:33.229Z"
+  },
+  "assetData": {
+    "primaryAssetId": "Weapon:WID_Firework_Gun",
+    "CreativeTagsHelper": {
+      "CreativeTags": [
+        "FireStarting",
+        "Weapon",
+        "Rare",
+        "Ammo:Special",
+        "RecentlyAdded",
+        "NewThisSeason",
+        "Vibin"
+      ]
+    }
+  }
+}
