@@ -9,7 +9,7 @@ import getToken from './utils/get-token.js';
 import killToken from './utils/kill-token.js';
 
 import type { Meta } from './types/meta';
-import type { DADAsset, DADResponse, ServiceVersionResponse } from './types/response';
+import type { DADAsset, DADAssetType, DADResponse, ServiceVersionResponse } from './types/response';
 
 interface UpdatedAsset {
   assetType: string;
@@ -142,12 +142,6 @@ const main = async () => {
 
   const versionFolder = `${baseFolder}/v${version}`;
 
-  // clear files from older versions
-  if (fs.existsSync(persistentFolder)) {
-    await fsp.rmdir(persistentFolder, { recursive: true });
-    await fsp.mkdir(persistentFolder, { recursive: true });
-  }
-
   // ensure version folder
   if (!fs.existsSync(versionFolder)) {
     await fsp.mkdir(versionFolder, { recursive: true });
@@ -160,8 +154,36 @@ const main = async () => {
 
   // write persitent files
   for (let i = 0; i < dadAssetTypes.length; i += 1) {
+    let theAssetTypeData: DADAssetType | undefined;
+
     const [dadAssetType, dadAssetTypeData] = dadAssetTypes[i];
-    const serializedAssetTypeData = JSON.stringify(dadAssetTypeData, null, 2);
+
+    await fsp.readFile(`${persistentFolder}/${dadAssetType}.json`, 'utf-8').then((content) => {
+      const oldData = <DADAssetType>JSON.parse(content);
+
+      theAssetTypeData = {
+        meta: dadAssetTypeData.meta,
+        assets: {},
+      };
+
+      const oldKeys = Object.keys(oldData.assets);
+
+      oldKeys.forEach((key) => {
+        theAssetTypeData!.assets[key] = oldData.assets[key];
+      });
+
+      const newKeys = Object.keys(dadAssetTypeData.assets);
+
+      newKeys.forEach((key) => {
+        if (!theAssetTypeData!.assets[key]) {
+          theAssetTypeData!.assets[key] = dadAssetTypeData.assets[key];
+        }
+      });
+    }).catch(() => {
+      theAssetTypeData = dadAssetTypeData;
+    });
+
+    const serializedAssetTypeData = JSON.stringify(theAssetTypeData, null, 2);
 
     await fsp.writeFile(`${persistentFolder}/${dadAssetType}.json`, serializedAssetTypeData);
     await fsp.writeFile(`${versionFolder}/${dadAssetType}.json`, serializedAssetTypeData);
