@@ -217,6 +217,7 @@ const main = async () => {
   }
 
   const webhookResponse = await needle('post', env.WEBHOOK_URL, {
+    content: '<@&1232656166551683102>',
     embeds: [{
       title: 'Update',
       color: 1752220, // Aqua
@@ -231,7 +232,7 @@ const main = async () => {
   });
 
   if (webhookResponse.statusCode !== 204) {
-    console.log(webhookResponse.body);
+    console.log(webhookResponse.statusCode, webhookResponse.statusMessage, webhookResponse.body);
 
     throw new Error('Failed to send webhook');
   }
