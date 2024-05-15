@@ -2,9 +2,17 @@
   "version": "29.40",
   "assetVersions": {
     "FortPlaylistAthena": {
+      "Playlist_DefaultDuo": 2,
+      "Playlist_DefaultSolo": 2,
+      "Playlist_DefaultSquad": 2,
+      "Playlist_NoBuildBR_Duo": 2,
+      "Playlist_NoBuildBR_Solo": 2,
+      "Playlist_NoBuildBR_Squad": 2,
+      "Playlist_NoBuildBR_Trio": 2,
       "Playlist_ShowdownTournament_Duos": 2,
       "Playlist_ShowdownTournament_FNCS_Duos": 2,
-      "Playlist_ShowdownTournament_NoBuildBR_Duos": 2
+      "Playlist_ShowdownTournament_NoBuildBR_Duos": 2,
+      "Playlist_Trios": 2
     }
   }
 }
