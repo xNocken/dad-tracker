@@ -175,9 +175,7 @@ const main = async () => {
       const newKeys = Object.keys(dadAssetTypeData.assets);
 
       newKeys.forEach((key) => {
-        if (!theAssetTypeData!.assets[key]) {
-          theAssetTypeData!.assets[key] = dadAssetTypeData.assets[key];
-        }
+        theAssetTypeData!.assets[key] = dadAssetTypeData.assets[key];
       });
     }).catch(() => {
       theAssetTypeData = dadAssetTypeData;
