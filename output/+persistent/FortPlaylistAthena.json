@@ -1678,11 +1678,11 @@
     },
     "Playlist_NoBuildBR_Duo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:25:23.079Z",
-        "promotion": 8,
-        "promotedAt": "2024-05-15T16:53:31.334Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:50:11.843Z",
+        "promotion": 11,
+        "promotedAt": "2024-05-24T12:59:54.005Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1756,73 +1756,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -2042,11 +2042,11 @@
     },
     "Playlist_DefaultSquad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:15:58.372Z",
-        "promotion": 6,
-        "promotedAt": "2024-05-15T16:52:53.119Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:56:06.859Z",
+        "promotion": 13,
+        "promotedAt": "2024-05-24T12:59:56.843Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2120,73 +2120,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -2400,11 +2400,11 @@
     },
     "Playlist_DefaultSolo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:11:23.166Z",
-        "promotion": 5,
-        "promotedAt": "2024-05-15T16:52:21.155Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:56:12.374Z",
+        "promotion": 16,
+        "promotedAt": "2024-05-24T13:00:01.869Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2478,73 +2478,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -2761,11 +2761,11 @@
     },
     "Playlist_NoBuildBR_Squad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:31:28.725Z",
-        "promotion": 10,
-        "promotedAt": "2024-05-15T16:54:10.544Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:53:46.854Z",
+        "promotion": 9,
+        "promotedAt": "2024-05-24T12:59:51.270Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2839,73 +2839,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -3125,11 +3125,11 @@
     },
     "Playlist_NoBuildBR_Trio": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:33:53.219Z",
-        "promotion": 11,
-        "promotedAt": "2024-05-15T16:54:28.978Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:54:26.057Z",
+        "promotion": 10,
+        "promotedAt": "2024-05-24T12:59:52.664Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3203,73 +3203,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -3488,11 +3488,11 @@
     },
     "Playlist_NoBuildBR_Solo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:27:46.177Z",
-        "promotion": 9,
-        "promotedAt": "2024-05-15T16:53:49.029Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:50:58.620Z",
+        "promotion": 12,
+        "promotedAt": "2024-05-24T12:59:55.403Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3566,73 +3566,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -3852,11 +3852,11 @@
     },
     "Playlist_Trios": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:21:12.855Z",
-        "promotion": 7,
-        "promotedAt": "2024-05-15T16:53:12.479Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:56:04.187Z",
+        "promotion": 14,
+        "promotedAt": "2024-05-24T12:59:58.350Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3930,73 +3930,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -4208,11 +4208,11 @@
     },
     "Playlist_DefaultDuo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-14T23:06:09.671Z",
-        "promotion": 4,
-        "promotedAt": "2024-05-15T16:51:47.242Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-24T12:56:09.941Z",
+        "promotion": 15,
+        "promotedAt": "2024-05-24T12:59:59.881Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4286,73 +4286,73 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60",
-            "MaxFillPct": ".2",
+            "MaxFillPct": "0.20",
             "MaxMmr": "400"
           },
           {
-            "MinFillPct": ".2",
+            "MinFillPct": "0.20",
             "MinMmr": "401",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "600"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "601",
             "MaxPriority": "60",
-            "MaxFillPct": ".3",
+            "MaxFillPct": "0.25",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": ".25",
+            "MinFillPct": "0.20",
             "MinMmr": "801",
             "MaxPriority": "60",
-            "MaxFillPct": ".4",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1000"
           },
           {
-            "MinFillPct": ".35",
+            "MinFillPct": "0.20",
             "MinMmr": "1001",
             "MaxPriority": "60",
-            "MaxFillPct": ".5",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1100"
           },
           {
-            "MinFillPct": ".4",
+            "MinFillPct": "0.20",
             "MinMmr": "1101",
             "MaxPriority": "60",
-            "MaxFillPct": ".6",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": ".5",
+            "MinFillPct": "0.25",
             "MinMmr": "1201",
             "MaxPriority": "60",
-            "MaxFillPct": ".7",
+            "MaxFillPct": "0.35",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": ".6",
+            "MinFillPct": "0.40",
             "MinMmr": "1301",
             "MaxPriority": "60",
-            "MaxFillPct": ".8",
+            "MaxFillPct": "0.70",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": ".7",
+            "MinFillPct": "0.50",
             "MinMmr": "1401",
             "MaxPriority": "119",
-            "MaxFillPct": ".9",
+            "MaxFillPct": "0.75",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": ".75",
+            "MinFillPct": "0.50",
             "MinMmr": "1501",
             "MaxPriority": "119",
-            "MaxFillPct": "1",
+            "MaxFillPct": "0.85",
             "MaxMmr": "2000"
           }
         ],
@@ -4568,9 +4568,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:12.337Z",
-        "promotion": 13,
-        "promotedAt": "2024-05-17T21:30:51.374Z"
+        "revisedAt": "2024-05-23T19:54:07.850Z",
+        "promotion": 24,
+        "promotedAt": "2024-05-24T17:42:28.229Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4820,7 +4820,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_NoBuildBR_CTS_Trios",
@@ -4847,9 +4847,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "99",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": true,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -4860,9 +4858,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:39.171Z",
-        "promotion": 18,
-        "promotedAt": "2024-05-17T21:31:03.284Z"
+        "revisedAt": "2024-05-23T17:40:57.214Z",
+        "promotion": 17,
+        "promotedAt": "2024-05-24T17:42:09.524Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5109,7 +5107,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_CTS_Duos",
@@ -5136,9 +5134,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": false,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -5149,9 +5145,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:24.531Z",
-        "promotion": 15,
-        "promotedAt": "2024-05-17T21:30:56.249Z"
+        "revisedAt": "2024-05-23T19:51:09.281Z",
+        "promotion": 22,
+        "promotedAt": "2024-05-24T17:42:23.495Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5330,7 +5326,7 @@
         "MaxOutlierBracketMergeMmrGap": "0",
         "KillerRankShare": "0.000000",
         "MaxSquadSize": "1",
-        "bAllowSquadFillOption": false,
+        "bAllowSquadFillOption": true,
         "KeepTogetherIdExpirationInSeconds": "1200",
         "EndOfMatchXpMultiplier": "20",
         "bForceNewPlayerStateOnReconnect": false,
@@ -5401,7 +5397,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_NoBuildBR_CTS_Solo",
@@ -5428,9 +5424,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": true,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -5441,9 +5435,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:29.941Z",
-        "promotion": 16,
-        "promotedAt": "2024-05-17T21:30:58.906Z"
+        "revisedAt": "2024-05-23T17:43:18.786Z",
+        "promotion": 19,
+        "promotedAt": "2024-05-24T17:42:15.471Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5690,7 +5684,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_CTS_Squads",
@@ -5717,9 +5711,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": true,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -5730,9 +5722,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:35.328Z",
-        "promotion": 17,
-        "promotedAt": "2024-05-17T21:31:01.092Z"
+        "revisedAt": "2024-05-23T17:44:23.345Z",
+        "promotion": 20,
+        "promotedAt": "2024-05-24T17:42:18.451Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5979,7 +5971,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_CTS_Trios",
@@ -6006,9 +5998,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "99",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": false,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -6019,9 +6009,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:44.237Z",
-        "promotion": 19,
-        "promotedAt": "2024-05-17T21:31:06.167Z"
+        "revisedAt": "2024-05-23T17:42:31.322Z",
+        "promotion": 18,
+        "promotedAt": "2024-05-24T17:42:12.127Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6197,7 +6187,7 @@
         "MaxOutlierBracketMergeMmrGap": "0",
         "KillerRankShare": "0.000000",
         "MaxSquadSize": "1",
-        "bAllowSquadFillOption": false,
+        "bAllowSquadFillOption": true,
         "KeepTogetherIdExpirationInSeconds": "1200",
         "EndOfMatchXpMultiplier": "20",
         "bForceNewPlayerStateOnReconnect": false,
@@ -6268,7 +6258,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_CTS_Solo",
@@ -6295,9 +6285,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": false,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -6308,9 +6296,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:06.260Z",
-        "promotion": 12,
-        "promotedAt": "2024-05-17T21:30:48.965Z"
+        "revisedAt": "2024-05-23T19:53:07.450Z",
+        "promotion": 23,
+        "promotedAt": "2024-05-24T17:42:25.793Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6560,7 +6548,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_NoBuildBR_CTS_Squads",
@@ -6587,9 +6575,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": true,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,
@@ -6598,11 +6584,11 @@
     },
     "Playlist_Showdown_NoBuildBR_CTS_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-17T21:29:17.641Z",
-        "promotion": 14,
-        "promotedAt": "2024-05-17T21:30:53.731Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-05-23T19:52:00.209Z",
+        "promotion": 21,
+        "promotedAt": "2024-05-24T17:42:21.285Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6852,7 +6838,7 @@
         "bUnderfillMatchmaking": false,
         "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
-        "bEnforceFullSquadInUI": true,
+        "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "0.000000",
         "bPreloadAthenaMapsForMatchmaking": true,
         "primaryAssetId": "FortPlaylistAthena:Playlist_Showdown_NoBuildBR_CTS_Duos",
@@ -6879,9 +6865,7 @@
         "bDrawLineToStormCircleIfOutside": true,
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
-        "BuiltInGameFeaturePluginsToLoad": [
-          "Train"
-        ],
+        "BuiltInGameFeaturePluginsToLoad": [],
         "bActivateCurie": true,
         "bUseDefaultSupplyDrops": true,
         "bIgnoreDefaultQuests": false,

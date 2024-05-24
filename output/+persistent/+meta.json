@@ -2,14 +2,22 @@
   "version": "30.00",
   "assetVersions": {
     "FortPlaylistAthena": {
-      "Playlist_DefaultDuo": 2,
-      "Playlist_DefaultSolo": 2,
-      "Playlist_DefaultSquad": 2,
-      "Playlist_NoBuildBR_Duo": 2,
-      "Playlist_NoBuildBR_Solo": 2,
-      "Playlist_NoBuildBR_Squad": 2,
-      "Playlist_NoBuildBR_Trio": 2,
-      "Playlist_Trios": 2
+      "Playlist_DefaultDuo": 3,
+      "Playlist_DefaultSolo": 3,
+      "Playlist_DefaultSquad": 3,
+      "Playlist_NoBuildBR_Duo": 3,
+      "Playlist_NoBuildBR_Solo": 3,
+      "Playlist_NoBuildBR_Squad": 3,
+      "Playlist_NoBuildBR_Trio": 3,
+      "Playlist_Showdown_CTS_Duos": 2,
+      "Playlist_Showdown_CTS_Solo": 2,
+      "Playlist_Showdown_CTS_Squads": 2,
+      "Playlist_Showdown_CTS_Trios": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Duos": 3,
+      "Playlist_Showdown_NoBuildBR_CTS_Solo": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Squads": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Trios": 2,
+      "Playlist_Trios": 3
     }
   }
 }
