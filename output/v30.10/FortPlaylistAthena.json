@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 6
+    "promotion": 14
   },
   "assets": {
     "Playlist_ShowdownTournament_FNCS_Duos": {
@@ -1678,11 +1678,11 @@
     },
     "Playlist_NoBuildBR_Duo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:50:11.843Z",
-        "promotion": 11,
-        "promotedAt": "2024-05-24T12:59:54.005Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:28.499Z",
+        "promotion": 9,
+        "promotedAt": "2024-06-13T10:54:08.636Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2042,11 +2042,11 @@
     },
     "Playlist_DefaultSquad": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:56:06.859Z",
-        "promotion": 13,
-        "promotedAt": "2024-05-24T12:59:56.843Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:40.844Z",
+        "promotion": 11,
+        "promotedAt": "2024-06-13T10:54:56.098Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2400,11 +2400,11 @@
     },
     "Playlist_DefaultSolo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:56:12.374Z",
-        "promotion": 16,
-        "promotedAt": "2024-05-24T13:00:01.869Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:59.623Z",
+        "promotion": 14,
+        "promotedAt": "2024-06-13T10:55:43.925Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2761,11 +2761,11 @@
     },
     "Playlist_NoBuildBR_Squad": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:53:46.854Z",
-        "promotion": 9,
-        "promotedAt": "2024-05-24T12:59:51.270Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:03:13.217Z",
+        "promotion": 7,
+        "promotedAt": "2024-06-13T10:53:22.327Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3125,11 +3125,11 @@
     },
     "Playlist_NoBuildBR_Trio": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:54:26.057Z",
-        "promotion": 10,
-        "promotedAt": "2024-05-24T12:59:52.664Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:19.224Z",
+        "promotion": 8,
+        "promotedAt": "2024-06-13T10:53:47.194Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3488,11 +3488,11 @@
     },
     "Playlist_NoBuildBR_Solo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:50:58.620Z",
-        "promotion": 12,
-        "promotedAt": "2024-05-24T12:59:55.403Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:35.121Z",
+        "promotion": 10,
+        "promotedAt": "2024-06-13T10:54:31.199Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3852,11 +3852,11 @@
     },
     "Playlist_Trios": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:56:04.187Z",
-        "promotion": 14,
-        "promotedAt": "2024-05-24T12:59:58.350Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:45.851Z",
+        "promotion": 12,
+        "promotedAt": "2024-06-13T10:55:13.336Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4208,11 +4208,11 @@
     },
     "Playlist_DefaultDuo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-05-24T12:56:09.941Z",
-        "promotion": 15,
-        "promotedAt": "2024-05-24T12:59:59.881Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-06T05:01:53.125Z",
+        "promotion": 13,
+        "promotedAt": "2024-06-13T10:55:28.115Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,

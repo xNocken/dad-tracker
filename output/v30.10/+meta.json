@@ -2,12 +2,20 @@
   "version": "30.10",
   "assetVersions": {
     "FortPlaylistAthena": {
+      "Playlist_DefaultDuo": 2,
+      "Playlist_DefaultSolo": 2,
+      "Playlist_DefaultSquad": 2,
+      "Playlist_NoBuildBR_Duo": 2,
+      "Playlist_NoBuildBR_Solo": 2,
+      "Playlist_NoBuildBR_Squad": 2,
+      "Playlist_NoBuildBR_Trio": 2,
       "Playlist_ShowdownTournament_NoBuildBR_RC_Duos": 2,
       "Playlist_ShowdownTournament_NoBuildBR_RC_Solo": 2,
       "Playlist_ShowdownTournament_NoBuildBR_RC_Squads": 2,
       "Playlist_ShowdownTournament_RC_Duos": 2,
       "Playlist_ShowdownTournament_RC_Solo": 2,
-      "Playlist_ShowdownTournament_RC_Squads": 2
+      "Playlist_ShowdownTournament_RC_Squads": 2,
+      "Playlist_Trios": 2
     }
   }
 }
