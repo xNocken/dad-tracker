@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 19
+    "promotion": 25
   },
   "assets": {
     "Playlist_ShowdownTournament_FNCS_Duos": {
@@ -6874,11 +6874,11 @@
     },
     "Playlist_ShowdownTournament_RC_Solo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-05-30T16:18:06.828Z",
-        "promotion": 6,
-        "promotedAt": "2024-06-04T15:23:48.114Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:21:09.567Z",
+        "promotion": 23,
+        "promotedAt": "2024-06-14T19:05:20.832Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7115,10 +7115,7 @@
               "TagName": "Athena.Playlist.Showdown.Crafting"
             },
             {
-              "TagName": "Athena.Playlist.Default"
-            },
-            {
-              "TagName": "Athena.Playlist.Solo"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
@@ -7206,11 +7203,11 @@
     },
     "Playlist_ShowdownTournament_NoBuildBR_RC_Solo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-04T15:22:11.551Z",
-        "promotion": 3,
-        "promotedAt": "2024-06-04T15:23:34.842Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:20:58.992Z",
+        "promotion": 20,
+        "promotedAt": "2024-06-14T19:05:17.312Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7454,10 +7451,7 @@
               "TagName": "Athena.Playlist.NoBuildBR.Comp"
             },
             {
-              "TagName": "Athena.Playlist.Core"
-            },
-            {
-              "TagName": "Athena.Playlist.Default"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
@@ -7545,11 +7539,11 @@
     },
     "Playlist_ShowdownTournament_RC_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-04T15:18:28.840Z",
-        "promotion": 5,
-        "promotedAt": "2024-06-04T15:23:39.738Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:21:14.154Z",
+        "promotion": 24,
+        "promotedAt": "2024-06-14T19:05:22.053Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7790,10 +7784,7 @@
               "TagName": "Athena.Playlist.Showdown.Crafting"
             },
             {
-              "TagName": "Athena.Playlist.Default"
-            },
-            {
-              "TagName": "Athena.Playlist.Core"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
@@ -7881,11 +7872,11 @@
     },
     "Playlist_ShowdownTournament_NoBuildBR_RC_Squads": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-04T15:17:17.707Z",
-        "promotion": 1,
-        "promotedAt": "2024-06-04T15:23:28.827Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:21:05.660Z",
+        "promotion": 22,
+        "promotedAt": "2024-06-14T19:05:19.618Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8129,10 +8120,7 @@
               "TagName": "Athena.Playlist.NoBuildBR.Comp"
             },
             {
-              "TagName": "Athena.Playlist.Default"
-            },
-            {
-              "TagName": "Athena.Playlist.Core"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
@@ -8220,11 +8208,11 @@
     },
     "Playlist_ShowdownTournament_RC_Squads": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-04T15:18:35.264Z",
-        "promotion": 4,
-        "promotedAt": "2024-06-04T15:23:37.234Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:21:18.501Z",
+        "promotion": 25,
+        "promotedAt": "2024-06-14T19:05:23.543Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8462,10 +8450,7 @@
               "TagName": "Athena.Playlist.Showdown.Crafting"
             },
             {
-              "TagName": "Athena.Playlist.Default"
-            },
-            {
-              "TagName": "Athena.Playlist.Core"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
@@ -8553,11 +8538,11 @@
     },
     "Playlist_ShowdownTournament_NoBuildBR_RC_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-04T15:17:22.721Z",
-        "promotion": 2,
-        "promotedAt": "2024-06-04T15:23:31.128Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-14T18:21:02.912Z",
+        "promotion": 21,
+        "promotedAt": "2024-06-14T19:05:18.268Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8801,10 +8786,7 @@
               "TagName": "Athena.Playlist.NoBuildBR.Comp"
             },
             {
-              "TagName": "Athena.Playlist.Default"
-            },
-            {
-              "TagName": "Athena.Playlist.Core"
+              "TagName": "Plugin.Playlist.Arena"
             }
           ]
         },
