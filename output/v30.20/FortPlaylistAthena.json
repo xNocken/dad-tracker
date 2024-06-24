@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 8
+    "promotion": 11
   },
   "assets": {
     "Playlist_ShowdownTournament_FNCS_Duos": {
@@ -4857,10 +4857,10 @@
     "Playlist_Showdown_CTS_Duos": {
       "meta": {
         "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-13T22:16:30.677Z",
-        "promotion": 15,
-        "promotedAt": "2024-06-13T22:33:40.816Z"
+        "headRevision": 3,
+        "revisedAt": "2024-06-24T17:17:00.151Z",
+        "promotion": 10,
+        "promotedAt": "2024-06-24T18:19:34.297Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4930,6 +4930,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
@@ -5433,11 +5434,11 @@
     },
     "Playlist_Showdown_CTS_Squads": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-06-13T22:15:22.850Z",
-        "promotion": 19,
-        "promotedAt": "2024-06-13T22:36:11.207Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-24T17:22:11.449Z",
+        "promotion": 11,
+        "promotedAt": "2024-06-24T18:20:27.955Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5507,6 +5508,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
@@ -5720,11 +5722,11 @@
     },
     "Playlist_Showdown_CTS_Trios": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-06-13T22:17:50.644Z",
-        "promotion": 16,
-        "promotedAt": "2024-06-13T22:34:07.515Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-24T17:20:54.727Z",
+        "promotion": 9,
+        "promotedAt": "2024-06-24T18:18:53.554Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -5794,6 +5796,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
@@ -6876,9 +6879,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:52:00.607Z",
-        "promotion": 6,
-        "promotedAt": "2024-06-22T05:12:07.254Z"
+        "revisedAt": "2024-06-23T16:19:59.033Z",
+        "promotion": 7,
+        "promotedAt": "2024-06-23T16:20:30.063Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7206,9 +7209,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:51:43.600Z",
-        "promotion": 3,
-        "promotedAt": "2024-06-22T05:11:32.295Z"
+        "revisedAt": "2024-06-23T16:11:51.009Z",
+        "promotion": 5,
+        "promotedAt": "2024-06-23T16:19:35.310Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7543,9 +7546,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:52:05.627Z",
-        "promotion": 7,
-        "promotedAt": "2024-06-22T05:12:17.869Z"
+        "revisedAt": "2024-06-23T16:18:51.796Z",
+        "promotion": 4,
+        "promotedAt": "2024-06-23T16:19:08.220Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7877,9 +7880,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:51:56.229Z",
-        "promotion": 5,
-        "promotedAt": "2024-06-22T05:11:56.120Z"
+        "revisedAt": "2024-06-23T16:25:31.658Z",
+        "promotion": 8,
+        "promotedAt": "2024-06-23T16:25:53.170Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8214,9 +8217,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:52:10.279Z",
-        "promotion": 8,
-        "promotedAt": "2024-06-22T05:12:29.285Z"
+        "revisedAt": "2024-06-23T16:16:43.688Z",
+        "promotion": 1,
+        "promotedAt": "2024-06-23T16:17:34.923Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8545,9 +8548,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-21T19:51:49.347Z",
-        "promotion": 4,
-        "promotedAt": "2024-06-22T05:11:43.142Z"
+        "revisedAt": "2024-06-23T16:16:39.069Z",
+        "promotion": 6,
+        "promotedAt": "2024-06-23T16:20:22.898Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8882,9 +8885,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-19T23:05:59.798Z",
+        "revisedAt": "2024-06-23T16:08:33.592Z",
         "promotion": 2,
-        "promotedAt": "2024-06-22T05:11:05.833Z"
+        "promotedAt": "2024-06-23T16:17:56.031Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -9178,6 +9181,9 @@
             },
             {
               "TagName": "Product.BR.BlastBerry.Build"
+            },
+            {
+              "TagName": "Plugin.Playlist.BlastBerry"
             }
           ]
         },
@@ -9228,9 +9234,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-19T23:07:38.729Z",
-        "promotion": 1,
-        "promotedAt": "2024-06-22T05:10:53.965Z"
+        "revisedAt": "2024-06-23T16:10:07.245Z",
+        "promotion": 3,
+        "promotedAt": "2024-06-23T16:18:40.368Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -9527,6 +9533,9 @@
             },
             {
               "TagName": "Product.BR.BlastBerry.NoBuild"
+            },
+            {
+              "TagName": "Plugin.Playlist.BlastBerry"
             }
           ]
         },
