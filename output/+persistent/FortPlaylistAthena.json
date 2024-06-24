@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 11
+    "promotion": 14
   },
   "assets": {
     "Playlist_ShowdownTournament_FNCS_Duos": {
@@ -4566,11 +4566,11 @@
     },
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-06-13T22:24:09.669Z",
-        "promotion": 17,
-        "promotedAt": "2024-06-13T22:34:35.790Z"
+        "revision": 2,
+        "headRevision": 2,
+        "revisedAt": "2024-06-24T17:23:58.520Z",
+        "promotion": 13,
+        "promotedAt": "2024-06-24T18:29:05.390Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4640,6 +4640,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
@@ -6299,9 +6300,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-05-23T19:53:07.450Z",
-        "promotion": 23,
-        "promotedAt": "2024-05-24T17:42:25.793Z"
+        "revisedAt": "2024-06-24T17:24:50.759Z",
+        "promotion": 14,
+        "promotedAt": "2024-06-24T18:29:32.520Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6371,6 +6372,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
@@ -6589,9 +6591,9 @@
       "meta": {
         "revision": 2,
         "headRevision": 2,
-        "revisedAt": "2024-06-13T22:18:48.519Z",
-        "promotion": 18,
-        "promotedAt": "2024-06-13T22:35:57.836Z"
+        "revisedAt": "2024-06-24T17:23:14.066Z",
+        "promotion": 12,
+        "promotedAt": "2024-06-24T18:28:23.040Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6661,6 +6663,7 @@
         "RewardTimePlayedXPPerMinute": "-1",
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
+        "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [],
