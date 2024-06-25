@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 14
+    "promotion": 16
   },
   "assets": {
     "Playlist_ShowdownTournament_FNCS_Duos": {
@@ -8886,11 +8886,11 @@
     },
     "Playlist_BlastBerrySquad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-23T16:08:33.592Z",
-        "promotion": 2,
-        "promotedAt": "2024-06-23T16:17:56.031Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-24T21:10:42.187Z",
+        "promotion": 16,
+        "promotedAt": "2024-06-25T19:39:50.174Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -9063,7 +9063,7 @@
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "0",
+        "MinBracketSize": "25",
         "GameType": "BlastBerry",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -9105,7 +9105,7 @@
           "NativeString": "",
           "Key": ""
         },
-        "MaxBracketPriority": "0.000000",
+        "MaxBracketPriority": "75.000000",
         "LootPackages": "/BlastBerry/DataTables/BlastBerryComposite_LP.BlastBerryComposite_LP",
         "bAccumulateToProfileStats": true,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
@@ -9235,11 +9235,11 @@
     },
     "Playlist_BlastBerryNoBuildSquad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-06-23T16:10:07.245Z",
-        "promotion": 3,
-        "promotedAt": "2024-06-23T16:18:40.368Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-06-24T21:11:22.998Z",
+        "promotion": 15,
+        "promotedAt": "2024-06-25T19:39:15.773Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -9412,7 +9412,7 @@
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "0",
+        "MinBracketSize": "25",
         "GameType": "BlastBerry",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -9454,7 +9454,7 @@
           "NativeString": "",
           "Key": ""
         },
-        "MaxBracketPriority": "0.000000",
+        "MaxBracketPriority": "75.000000",
         "LootPackages": "/BlastBerry/DataTables/NoBuild/BlastBerryComposite_LP_NoBuild.BlastBerryComposite_LP_NoBuild",
         "bAccumulateToProfileStats": true,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
