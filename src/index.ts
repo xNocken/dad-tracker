@@ -9,7 +9,9 @@ import getToken from './utils/get-token.js';
 import killToken from './utils/kill-token.js';
 
 import type { Meta } from './types/meta';
-import type { DADAsset, DADAssetType, DADResponse, ServiceVersionResponse } from './types/response';
+import type {
+  DADAsset, DADAssetType, DADResponse, ServiceVersionResponse,
+} from './types/response';
 
 interface UpdatedAsset {
   assetType: string;
@@ -21,6 +23,7 @@ const baseFolder = 'output';
 const persistentFolder = `${baseFolder}/+persistent`;
 const persistentMeta = `${persistentFolder}/+meta.json`;
 const folders = [baseFolder, persistentFolder];
+const ignoreUpdate = process.env.DO_NOT_UPDATE === 'true';
 
 const assetTypes = [
   'AthenaGadgetItemDefinition',
@@ -77,6 +80,7 @@ const main = async () => {
   const { cln, version } = <ServiceVersionResponse>versionResponse.body;
   const gameId = 'Fortnite';
   const branch = `++${gameId}+Release-${version}`; // ++Fortnite+Release-29.20
+  const isNewVersion = cachedMeta?.version !== version;
   const auth = await getToken();
 
   const dadResponse = await needle(
@@ -117,7 +121,7 @@ const main = async () => {
       const dadAssetVersion = dadAssetData.meta.revision;
       const cachedAssetVersion = cachedMeta?.assetVersions?.[dadAssetType]?.[dadAssetId];
 
-      const isUpdated = cachedMeta?.version !== version
+      const isUpdated = isNewVersion
         || !cachedAssetVersion
         || cachedAssetVersion < dadAssetVersion;
 
@@ -166,11 +170,13 @@ const main = async () => {
         assets: {},
       };
 
-      const oldKeys = Object.keys(oldData.assets);
+      if (!isNewVersion) {
+        const oldKeys = Object.keys(oldData.assets);
 
-      oldKeys.forEach((key) => {
-        theAssetTypeData!.assets[key] = oldData.assets[key];
-      });
+        oldKeys.forEach((key) => {
+          theAssetTypeData!.assets[key] = oldData.assets[key];
+        });
+      }
 
       const newKeys = Object.keys(dadAssetTypeData.assets);
 
@@ -209,6 +215,10 @@ const main = async () => {
   }
 
   console.log(commitMessage);
+
+  if (ignoreUpdate) {
+    return;
+  }
 
   execSync('git add output');
   execSync('git config user.email "github-actions@github.com"');
