@@ -14,7 +14,13 @@
       "Playlist_NoBuildBR_Habanero_Duo": 2,
       "Playlist_NoBuildBR_Habanero_Solo": 2,
       "Playlist_NoBuildBR_Habanero_Squad": 2,
-      "Playlist_NoBuildBR_Habanero_Trio": 2
+      "Playlist_NoBuildBR_Habanero_Trio": 2,
+      "Playlist_Showdown_CTS_Duos": 2,
+      "Playlist_Showdown_CTS_Squads": 2,
+      "Playlist_Showdown_CTS_Trios": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Duos": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Squads": 2,
+      "Playlist_Showdown_NoBuildBR_CTS_Trios": 2
     }
   }
 }
