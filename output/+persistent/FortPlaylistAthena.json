@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 16
+    "promotion": 17
   },
   "assets": {
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
@@ -3529,11 +3529,11 @@
     },
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-08-13T23:32:54.391Z",
-        "promotion": 16,
-        "promotedAt": "2024-08-17T20:15:54.394Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-08-30T17:22:12.349Z",
+        "promotion": 17,
+        "promotedAt": "2024-08-30T17:29:29.947Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3627,7 +3627,7 @@
         "bForceCustomMinigame": false,
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
-        "RatingType": "blastberry_build",
+        "RatingType": "",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -3645,14 +3645,14 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": true,
+        "bEnableRatingUpdate": false,
         "bAllowHardcoreModifiers": true,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "duos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
