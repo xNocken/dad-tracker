@@ -138,7 +138,7 @@ const main = async () => {
     }
   }
 
-  if (updatedAssets.length === 0) {
+  if (updatedAssets.length === 0 && !isNewVersion) {
     console.log('nothing new');
 
     return;
@@ -210,6 +210,8 @@ const main = async () => {
   if (updatedAssets.length > 3) {
     commitMessage += `${updatedAssets.length} assets`;
     commitMessage += `\n${updatedAssets.map((e) => `- ${e.assetType} - ${e.assetId} - v${e.asset.meta.revision}`).join('\n')}`;
+  } else if (!updatedAssets.length) {
+    commitMessage += 'clear for new version';
   } else {
     commitMessage += updatedAssets.map((e) => `${e.assetId} v${e.asset.meta.revision}`).join(', ');
   }
@@ -251,7 +253,7 @@ const main = async () => {
     embeds: [{
       title: 'Update',
       color: 1752220, // Aqua
-      description: `**${updatedAssets.length}** assets updated`,
+      description: updatedAssets.length ? `**${updatedAssets.length}** assets updated` : `No assets updated but version ${version} is new and stuff`,
       fields: [{
         name: 'Assets',
         value: fieldValue,
