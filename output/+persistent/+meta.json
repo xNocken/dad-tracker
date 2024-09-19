@@ -1,4 +1,8 @@
 {
   "version": "31.20",
-  "assetVersions": {}
+  "assetVersions": {
+    "FortPlaylistAthena": {
+      "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": 2
+    }
+  }
 }
