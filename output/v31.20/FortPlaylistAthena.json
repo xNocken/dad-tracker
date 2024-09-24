@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 18
+    "promotion": 25
   },
   "assets": {
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
@@ -2322,11 +2322,11 @@
     },
     "Playlist_HabaneroTrio": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:33.312Z",
-        "promotion": 8,
-        "promotedAt": "2024-09-24T13:00:02.066Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:42:05.107Z",
+        "promotion": 21,
+        "promotedAt": "2024-09-24T14:47:27.895Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2382,7 +2382,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/AthenaCompositeGameDataDuo.AthenaCompositeGameDataDuo",
+        "GameData": "/Game/Athena/Playlists/Showdown/Tournament/AthenaCompositeGD_Showdown.AthenaCompositeGD_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -2750,11 +2750,11 @@
     },
     "Playlist_HabaneroSolo": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-09-23T18:09:20.721Z",
-        "promotion": 14,
-        "promotedAt": "2024-09-24T13:00:13.733Z"
+        "revisedAt": "2024-09-24T13:53:17.963Z",
+        "promotion": 19,
+        "promotedAt": "2024-09-24T14:47:24.644Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2810,7 +2810,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/AthenaCompositeGameData.AthenaCompositeGameData",
+        "GameData": "/Game/Athena/Playlists/Showdown/Tournament/AthenaCompositeGD_Showdown.AthenaCompositeGD_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -3179,11 +3179,11 @@
     },
     "Playlist_NoBuildBR_Habanero_Solo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:47.199Z",
-        "promotion": 13,
-        "promotedAt": "2024-09-24T13:00:11.443Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:42:23.971Z",
+        "promotion": 23,
+        "promotedAt": "2024-09-24T14:47:31.221Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3239,7 +3239,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRSolo.AthenaCompositeGameData_NoBuildBRSolo",
+        "GameData": "/Game/Athena/Playlists/NoBuildBR/Competitive/AthenaCompositeGD_NoBuild_Showdown.AthenaCompositeGD_NoBuild_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -3615,11 +3615,11 @@
     },
     "Playlist_NoBuildBR_Habanero_Squad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:58.229Z",
-        "promotion": 9,
-        "promotedAt": "2024-09-24T13:00:02.406Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:42:37.756Z",
+        "promotion": 25,
+        "promotedAt": "2024-09-24T14:47:34.406Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3675,7 +3675,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRSquad.AthenaCompositeGameData_NoBuildBRSquad",
+        "GameData": "/Game/Athena/Playlists/NoBuildBR/Competitive/AthenaCompositeGD_NoBuild_Showdown.AthenaCompositeGD_NoBuild_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -4051,11 +4051,11 @@
     },
     "Playlist_HabaneroDuo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:27.220Z",
-        "promotion": 10,
-        "promotedAt": "2024-09-24T13:00:03.061Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:41:57.549Z",
+        "promotion": 20,
+        "promotedAt": "2024-09-24T14:47:26.414Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4111,7 +4111,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/AthenaCompositeGameDataDuo.AthenaCompositeGameDataDuo",
+        "GameData": "/Game/Athena/Playlists/Showdown/Tournament/AthenaCompositeGD_Showdown.AthenaCompositeGD_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -4480,11 +4480,11 @@
     },
     "Playlist_NoBuildBR_Habanero_Duo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:52.885Z",
-        "promotion": 12,
-        "promotedAt": "2024-09-24T13:00:06.034Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:42:29.575Z",
+        "promotion": 24,
+        "promotedAt": "2024-09-24T14:47:32.644Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4540,7 +4540,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRDuo.AthenaCompositeGameData_NoBuildBRDuo",
+        "GameData": "/Game/Athena/Playlists/NoBuildBR/Competitive/AthenaCompositeGD_NoBuild_Showdown.AthenaCompositeGD_NoBuild_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
@@ -4916,11 +4916,11 @@
     },
     "Playlist_HabaneroSquad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-23T18:09:40.301Z",
-        "promotion": 11,
-        "promotedAt": "2024-09-24T13:00:04.386Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-09-24T14:42:18.693Z",
+        "promotion": 22,
+        "promotedAt": "2024-09-24T14:47:29.792Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4976,7 +4976,7 @@
         "bAllowSpectateAPartyMember": true,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
-        "GameData": "/Game/Athena/Playlists/AthenaCompositeGameDataSquad.AthenaCompositeGameDataSquad",
+        "GameData": "/Game/Athena/Playlists/Showdown/Tournament/AthenaCompositeGD_Showdown.AthenaCompositeGD_Showdown",
         "bEnableCreativeMode": false,
         "UnderfilledMaxPlayers": "0",
         "MinBackfillMatchPlayers": "0",
