@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 14
+    "promotion": 18
   },
   "assets": {
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
@@ -699,11 +699,11 @@
     },
     "Playlist_Habanero_BlastBerry_Duos": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-09-12T16:23:02.079Z",
-        "promotion": 5,
-        "promotedAt": "2024-09-23T21:09:56.350Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-09-24T14:23:30.355Z",
+        "promotion": 18,
+        "promotedAt": "2024-09-24T14:27:58.340Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -779,52 +779,52 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.200000",
             "MinMmr": "0",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.600000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.700000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.800000",
+            "MaxFillPct": "0.200000",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": "0.800000",
+            "MinFillPct": "0.250000",
             "MinMmr": "801",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.900000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "850"
+          },
+          {
+            "MinFillPct": "0.300000",
+            "MinMmr": "851",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.300000",
+            "MaxMmr": "900"
+          },
+          {
+            "MinFillPct": "0.400000",
+            "MinMmr": "901",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.400000",
+            "MaxMmr": "950"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "951",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.600000",
             "MaxMmr": "1000"
           },
           {
             "MinFillPct": "0.800000",
             "MinMmr": "1001",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1200"
+            "MaxFillPct": "0.800000",
+            "MaxMmr": "1050"
           },
           {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1401",
+            "MinFillPct": "1.0",
+            "MinMmr": "1051",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "1.000000",
+            "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
         ],
@@ -1104,11 +1104,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Duos": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-09-23T17:59:01.138Z",
-        "promotion": 3,
-        "promotedAt": "2024-09-23T21:09:20.240Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-09-24T14:25:59.141Z",
+        "promotion": 16,
+        "promotedAt": "2024-09-24T14:27:06.860Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1184,52 +1184,52 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.200000",
             "MinMmr": "0",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.600000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.600000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.700000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.800000",
+            "MaxFillPct": "0.200000",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": "0.800000",
+            "MinFillPct": "0.250000",
             "MinMmr": "801",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.900000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "850"
+          },
+          {
+            "MinFillPct": "0.300000",
+            "MinMmr": "851",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.300000",
+            "MaxMmr": "900"
+          },
+          {
+            "MinFillPct": "0.400000",
+            "MinMmr": "901",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.400000",
+            "MaxMmr": "950"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "951",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.600000",
             "MaxMmr": "1000"
           },
           {
             "MinFillPct": "0.800000",
             "MinMmr": "1001",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1200"
+            "MaxFillPct": "0.800000",
+            "MaxMmr": "1050"
           },
           {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1401",
+            "MinFillPct": "1.0",
+            "MinMmr": "1051",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "1.000000",
+            "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
         ],
@@ -1509,11 +1509,11 @@
     },
     "Playlist_Habanero_BlastBerry_Squads": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-09-12T16:05:54.396Z",
-        "promotion": 6,
-        "promotedAt": "2024-09-23T21:10:07.164Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-09-24T14:25:22.109Z",
+        "promotion": 17,
+        "promotedAt": "2024-09-24T14:27:44.585Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1589,52 +1589,52 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.200000",
             "MinMmr": "0",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.600000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.600000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.700000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.800000",
+            "MaxFillPct": "0.200000",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": "0.800000",
+            "MinFillPct": "0.250000",
             "MinMmr": "801",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.900000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "850"
+          },
+          {
+            "MinFillPct": "0.300000",
+            "MinMmr": "851",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.300000",
+            "MaxMmr": "900"
+          },
+          {
+            "MinFillPct": "0.400000",
+            "MinMmr": "901",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.400000",
+            "MaxMmr": "950"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "951",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.600000",
             "MaxMmr": "1000"
           },
           {
             "MinFillPct": "0.800000",
             "MinMmr": "1001",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1200"
+            "MaxFillPct": "0.800000",
+            "MaxMmr": "1050"
           },
           {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.800000",
-            "MinMmr": "1401",
+            "MinFillPct": "1.0",
+            "MinMmr": "1051",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "1.000000",
+            "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
         ],
@@ -1914,11 +1914,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Squads": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-09-12T16:26:42.424Z",
-        "promotion": 4,
-        "promotedAt": "2024-09-23T21:09:47.365Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-09-24T14:25:39.205Z",
+        "promotion": 15,
+        "promotedAt": "2024-09-24T14:26:49.694Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1994,53 +1994,53 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.200000",
             "MinMmr": "0",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.600000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.600000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.700000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.800000",
+            "MaxFillPct": "0.200000",
             "MaxMmr": "800"
           },
           {
-            "MinFillPct": "0.800000",
+            "MinFillPct": "0.250000",
             "MinMmr": "801",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.900000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "850"
+          },
+          {
+            "MinFillPct": "0.300000",
+            "MinMmr": "851",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.300000",
+            "MaxMmr": "900"
+          },
+          {
+            "MinFillPct": "0.400000",
+            "MinMmr": "901",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.400000",
+            "MaxMmr": "950"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "951",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.600000",
             "MaxMmr": "1000"
           },
           {
             "MinFillPct": "0.800000",
             "MinMmr": "1001",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1200"
+            "MaxFillPct": "0.800000",
+            "MaxMmr": "1050"
           },
           {
-            "MinFillPct": "0.900000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.900000",
-            "MinMmr": "1401",
+            "MinFillPct": "1.0",
+            "MinMmr": "1051",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "1.000000",
-            "MaxMmr": "2000"
+            "MaxFillPct": "1.0",
+            "MaxMmr": "2225"
           }
         ],
         "bShouldFillWhenNoSquadFillOption": false,
@@ -2751,7 +2751,7 @@
     "Playlist_HabaneroSolo": {
       "meta": {
         "revision": 2,
-        "headRevision": 2,
+        "headRevision": 3,
         "revisedAt": "2024-09-23T18:09:20.721Z",
         "promotion": 14,
         "promotedAt": "2024-09-24T13:00:13.733Z"
