@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 29
+    "promotion": 33
   },
   "assets": {
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
@@ -699,11 +699,11 @@
     },
     "Playlist_Habanero_BlastBerry_Duos": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-09-24T14:23:30.355Z",
-        "promotion": 18,
-        "promotedAt": "2024-09-24T14:27:58.340Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-09-24T19:24:48.284Z",
+        "promotion": 30,
+        "promotedAt": "2024-09-24T19:25:50.499Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -949,7 +949,7 @@
         "PlaylistMissionGen": "/BlastBerry/Playlists/MissionGen_BlastBerryDuo.MissionGen_BlastBerryDuo_C",
         "EnforceSquadFill": true,
         "bEnableBackfillDuringWarmupPhase": false,
-        "MaxOutlierBracketPriority": "300.000000",
+        "MaxOutlierBracketPriority": "180.000000",
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
         "PlayerRatingBrackets": [
@@ -1104,11 +1104,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Duos": {
       "meta": {
-        "revision": 5,
-        "headRevision": 5,
-        "revisedAt": "2024-09-24T14:25:59.141Z",
-        "promotion": 16,
-        "promotedAt": "2024-09-24T14:27:06.860Z"
+        "revision": 6,
+        "headRevision": 6,
+        "revisedAt": "2024-09-24T19:25:15.970Z",
+        "promotion": 32,
+        "promotedAt": "2024-09-24T19:26:10.142Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1354,7 +1354,7 @@
         "PlaylistMissionGen": "/BlastBerry/Playlists/MissionGen_BlastBerryNoBuildDuo.MissionGen_BlastBerryNoBuildDuo_C",
         "EnforceSquadFill": true,
         "bEnableBackfillDuringWarmupPhase": false,
-        "MaxOutlierBracketPriority": "300.000000",
+        "MaxOutlierBracketPriority": "180.000000",
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
         "PlayerRatingBrackets": [
@@ -1509,11 +1509,11 @@
     },
     "Playlist_Habanero_BlastBerry_Squads": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-09-24T14:25:22.109Z",
-        "promotion": 17,
-        "promotedAt": "2024-09-24T14:27:44.585Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-09-24T19:25:02.731Z",
+        "promotion": 31,
+        "promotedAt": "2024-09-24T19:26:00.523Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1759,7 +1759,7 @@
         "PlaylistMissionGen": "/BlastBerry/Playlists/MissionGen_BlastBerrySquad.MissionGen_BlastBerrySquad_C",
         "EnforceSquadFill": true,
         "bEnableBackfillDuringWarmupPhase": false,
-        "MaxOutlierBracketPriority": "300.000000",
+        "MaxOutlierBracketPriority": "180.000000",
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
         "PlayerRatingBrackets": [
@@ -1914,11 +1914,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Squads": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-09-24T14:25:39.205Z",
-        "promotion": 15,
-        "promotedAt": "2024-09-24T14:26:49.694Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-09-24T19:25:27.466Z",
+        "promotion": 33,
+        "promotedAt": "2024-09-24T19:26:20.282Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2164,7 +2164,7 @@
         "PlaylistMissionGen": "/BlastBerry/Playlists/MissionGen_BlastBerryNoBuildSquad.MissionGen_BlastBerryNoBuildSquad_C",
         "EnforceSquadFill": true,
         "bEnableBackfillDuringWarmupPhase": false,
-        "MaxOutlierBracketPriority": "300.000000",
+        "MaxOutlierBracketPriority": "180.000000",
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
         "PlayerRatingBrackets": [
