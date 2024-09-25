@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 37
+    "promotion": 41
   },
   "assets": {
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
@@ -699,11 +699,11 @@
     },
     "Playlist_Habanero_BlastBerry_Duos": {
       "meta": {
-        "revision": 6,
-        "headRevision": 6,
-        "revisedAt": "2024-09-24T19:38:22.964Z",
-        "promotion": 37,
-        "promotedAt": "2024-09-24T19:38:58.144Z"
+        "revision": 7,
+        "headRevision": 7,
+        "revisedAt": "2024-09-25T15:02:07.887Z",
+        "promotion": 41,
+        "promotedAt": "2024-09-25T15:11:25.911Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -824,6 +824,13 @@
             "MinFillPct": "0.9",
             "MinMmr": "1051",
             "MaxPriority": "90.000000",
+            "MaxFillPct": "1.0",
+            "MaxMmr": "1425"
+          },
+          {
+            "MinFillPct": "0.8",
+            "MinMmr": "1426",
+            "MaxPriority": "90.0",
             "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
@@ -1104,11 +1111,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Duos": {
       "meta": {
-        "revision": 7,
-        "headRevision": 7,
-        "revisedAt": "2024-09-24T19:38:11.514Z",
-        "promotion": 35,
-        "promotedAt": "2024-09-24T19:38:40.539Z"
+        "revision": 8,
+        "headRevision": 8,
+        "revisedAt": "2024-09-25T15:01:43.396Z",
+        "promotion": 38,
+        "promotedAt": "2024-09-25T15:06:30.202Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1229,6 +1236,13 @@
             "MinFillPct": "0.9",
             "MinMmr": "1051",
             "MaxPriority": "90.000000",
+            "MaxFillPct": "1.0",
+            "MaxMmr": "1425"
+          },
+          {
+            "MinFillPct": "0.8",
+            "MinMmr": "1426",
+            "MaxPriority": "90.0",
             "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
@@ -1509,11 +1523,11 @@
     },
     "Playlist_Habanero_BlastBerry_Squads": {
       "meta": {
-        "revision": 6,
-        "headRevision": 6,
-        "revisedAt": "2024-09-24T19:38:17.383Z",
-        "promotion": 36,
-        "promotedAt": "2024-09-24T19:38:50.998Z"
+        "revision": 7,
+        "headRevision": 7,
+        "revisedAt": "2024-09-25T15:04:09.166Z",
+        "promotion": 40,
+        "promotedAt": "2024-09-25T15:11:07.275Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1634,6 +1648,13 @@
             "MinFillPct": "0.9",
             "MinMmr": "1051",
             "MaxPriority": "90.000000",
+            "MaxFillPct": "1.0",
+            "MaxMmr": "1425"
+          },
+          {
+            "MinFillPct": "0.8",
+            "MinMmr": "1426",
+            "MaxPriority": "90.0",
             "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
@@ -1914,11 +1935,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Squads": {
       "meta": {
-        "revision": 6,
-        "headRevision": 6,
-        "revisedAt": "2024-09-24T19:38:05.034Z",
-        "promotion": 34,
-        "promotedAt": "2024-09-24T19:38:31.442Z"
+        "revision": 7,
+        "headRevision": 7,
+        "revisedAt": "2024-09-25T15:03:46.825Z",
+        "promotion": 39,
+        "promotedAt": "2024-09-25T15:08:54.521Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2039,6 +2060,13 @@
             "MinFillPct": "0.9",
             "MinMmr": "1051",
             "MaxPriority": "90.000000",
+            "MaxFillPct": "1.0",
+            "MaxMmr": "1425"
+          },
+          {
+            "MinFillPct": "0.8",
+            "MinMmr": "1426",
+            "MaxPriority": "90.0",
             "MaxFillPct": "1.0",
             "MaxMmr": "2225"
           }
