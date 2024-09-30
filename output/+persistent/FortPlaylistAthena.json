@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 43
+    "promotion": 44
   },
   "assets": {
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
@@ -1111,11 +1111,11 @@
     },
     "Playlist_Habanero_NoBuild_BlastBerry_Duos": {
       "meta": {
-        "revision": 8,
-        "headRevision": 8,
-        "revisedAt": "2024-09-25T15:01:43.396Z",
-        "promotion": 38,
-        "promotedAt": "2024-09-25T15:06:30.202Z"
+        "revision": 9,
+        "headRevision": 9,
+        "revisedAt": "2024-09-30T17:26:24.599Z",
+        "promotion": 44,
+        "promotedAt": "2024-09-30T18:46:25.195Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1475,6 +1475,9 @@
             },
             {
               "TagName": "Athena.Playlist.Duo"
+            },
+            {
+              "TagName": "Athena.Playlist.Habanero"
             }
           ]
         },
