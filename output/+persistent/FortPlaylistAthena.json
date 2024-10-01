@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 18
+    "promotion": 19
   },
   "assets": {
     "Playlist_BlastBerryNoBuildDuo": {
@@ -3292,11 +3292,11 @@
     },
     "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-09-27T22:31:06.792Z",
-        "promotion": 16,
-        "promotedAt": "2024-09-27T22:31:15.289Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-10-01T13:48:34.497Z",
+        "promotion": 19,
+        "promotedAt": "2024-10-01T13:50:26.331Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3392,7 +3392,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": true,
-        "RatingType": "blastberry_build",
+        "RatingType": "",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
