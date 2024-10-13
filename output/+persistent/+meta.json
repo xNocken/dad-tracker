@@ -2,6 +2,10 @@
   "version": "31.40",
   "assetVersions": {
     "FortPlaylistAthena": {
+      "Playlist_Habanero_BlastBerry_Duos": 2,
+      "Playlist_Habanero_BlastBerry_Squads": 2,
+      "Playlist_Habanero_NoBuild_BlastBerry_Duos": 2,
+      "Playlist_Habanero_NoBuild_BlastBerry_Squads": 2,
       "Playlist_Habanero_NoBuild_Sunflower_Squads": 2,
       "Playlist_Habanero_Sunflower_Squads": 2,
       "Playlist_HabaneroDuo": 2,
