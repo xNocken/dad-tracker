@@ -2,6 +2,9 @@
   "version": "31.40",
   "assetVersions": {
     "FortPlaylistAthena": {
+      "Playlist_DefaultDuo": 2,
+      "Playlist_DefaultSolo": 2,
+      "Playlist_DefaultSquad": 3,
       "Playlist_Habanero_BlastBerry_Duos": 2,
       "Playlist_Habanero_BlastBerry_Squads": 2,
       "Playlist_Habanero_NoBuild_BlastBerry_Duos": 2,
@@ -12,9 +15,14 @@
       "Playlist_HabaneroSolo": 2,
       "Playlist_HabaneroSquad": 2,
       "Playlist_HabaneroTrio": 2,
+      "Playlist_NoBuildBR_Duo": 2,
       "Playlist_NoBuildBR_Habanero_Duo": 2,
       "Playlist_NoBuildBR_Habanero_Solo": 2,
-      "Playlist_NoBuildBR_Habanero_Squad": 2
+      "Playlist_NoBuildBR_Habanero_Squad": 2,
+      "Playlist_NoBuildBR_Solo": 2,
+      "Playlist_NoBuildBR_Squad": 2,
+      "Playlist_NoBuildBR_Trio": 2,
+      "Playlist_Trios": 2
     }
   }
 }
