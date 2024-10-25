@@ -1,15 +1,15 @@
 {
   "meta": {
-    "promotion": 21
+    "promotion": 24
   },
   "assets": {
     "Playlist_HabaneroTrio": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-21T19:55:04.844Z",
-        "promotion": 1,
-        "promotedAt": "2024-10-21T20:34:25.497Z"
+        "revisedAt": "2024-10-25T09:20:31.315Z",
+        "promotion": 23,
+        "promotedAt": "2024-10-25T09:23:42.296Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -396,7 +396,7 @@
         "PriorityRatingExpansion": [],
         "bUseCreativeStarterIsland": false,
         "bUnderfillMatchmaking": false,
-        "bRestrictSquadFillToSoloPlayers": true,
+        "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
         "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "30.000000",
@@ -1301,11 +1301,11 @@
     },
     "Playlist_NoBuildBR_Habanero_Squad": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-21T19:48:20.873Z",
-        "promotion": 5,
-        "promotedAt": "2024-10-21T20:34:35.540Z"
+        "revisedAt": "2024-10-25T09:21:03.486Z",
+        "promotion": 24,
+        "promotedAt": "2024-10-25T09:24:27.745Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1700,7 +1700,7 @@
         "PriorityRatingExpansion": [],
         "bUseCreativeStarterIsland": false,
         "bUnderfillMatchmaking": false,
-        "bRestrictSquadFillToSoloPlayers": true,
+        "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
         "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "30.000000",
@@ -5922,11 +5922,11 @@
     },
     "Playlist_HabaneroSquad": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-21T19:53:46.055Z",
-        "promotion": 2,
-        "promotedAt": "2024-10-21T20:34:27.936Z"
+        "revisedAt": "2024-10-25T09:20:52.000Z",
+        "promotion": 22,
+        "promotedAt": "2024-10-25T09:23:26.991Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -6314,7 +6314,7 @@
         "PriorityRatingExpansion": [],
         "bUseCreativeStarterIsland": false,
         "bUnderfillMatchmaking": false,
-        "bRestrictSquadFillToSoloPlayers": true,
+        "bRestrictSquadFillToSoloPlayers": false,
         "NonRenderedCharacterAnimationScale": "1.000000",
         "bEnforceFullSquadInUI": false,
         "MinBracketPriority": "30.000000",
