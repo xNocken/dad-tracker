@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 24
+    "promotion": 25
   },
   "assets": {
     "Playlist_HabaneroTrio": {
@@ -4768,11 +4768,11 @@
     },
     "Playlist_ShowdownTournament_BlastBerrySquad_NoFill": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-10-21T21:04:45.249Z",
-        "promotion": 9,
-        "promotedAt": "2024-10-21T21:04:59.726Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-10-28T13:56:44.638Z",
+        "promotion": 25,
+        "promotedAt": "2024-10-28T15:05:07.009Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4868,7 +4868,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "fun",
+        "RatingType": "",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
