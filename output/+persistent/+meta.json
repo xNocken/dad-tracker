@@ -2,6 +2,10 @@
   "version": "31.41",
   "assetVersions": {
     "FortPlaylistAthena": {
+      "Playlist_BlastBerryDuo": 2,
+      "Playlist_BlastBerryNoBuildDuo": 2,
+      "Playlist_BlastBerryNoBuildSquad": 2,
+      "Playlist_BlastBerrySquad": 2,
       "Playlist_DefaultDuo": 2,
       "Playlist_DefaultSolo": 2,
       "Playlist_DefaultSquad": 4,
