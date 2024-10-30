@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 33
+    "promotion": 34
   },
   "assets": {
     "Playlist_HabaneroTrio": {
@@ -2893,11 +2893,11 @@
     },
     "Playlist_DefaultSquad": {
       "meta": {
-        "revision": 4,
+        "revision": 7,
         "headRevision": 7,
-        "revisedAt": "2024-10-22T14:30:19.363Z",
-        "promotion": 31,
-        "promotedAt": "2024-10-29T18:20:06.979Z"
+        "revisedAt": "2024-10-29T17:45:39.786Z",
+        "promotion": 34,
+        "promotedAt": "2024-10-30T20:18:42.074Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2973,17 +2973,17 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.20",
             "MinMmr": "0",
             "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
+            "MaxFillPct": "0.25",
             "MaxMmr": "200"
           },
           {
-            "MinFillPct": "0.120000",
+            "MinFillPct": "0.20",
             "MinMmr": "201",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
+            "MaxFillPct": "0.25",
             "MaxMmr": "400"
           },
           {
@@ -3022,31 +3022,31 @@
             "MaxMmr": "1200"
           },
           {
-            "MinFillPct": "0.250000",
+            "MinFillPct": "0.20",
             "MinMmr": "1201",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
+            "MaxFillPct": "0.250000",
             "MaxMmr": "1300"
           },
           {
-            "MinFillPct": "0.400000",
+            "MinFillPct": "0.20",
             "MinMmr": "1301",
             "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1400"
           },
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.20",
             "MinMmr": "1401",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
+            "MaxFillPct": "0.25",
             "MaxMmr": "1500"
           },
           {
-            "MinFillPct": "0.500000",
+            "MinFillPct": "0.20",
             "MinMmr": "1501",
             "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxFillPct": "0.25",
             "MaxMmr": "2000"
           }
         ],
@@ -3096,7 +3096,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
