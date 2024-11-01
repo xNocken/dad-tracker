@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 38
+    "promotion": 43
   },
   "assets": {
     "Playlist_HabaneroTrio": {
@@ -1738,11 +1738,11 @@
     },
     "Playlist_NoBuildBR_Duo": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-22T14:31:24.498Z",
-        "promotion": 15,
-        "promotedAt": "2024-10-24T20:18:43.426Z"
+        "revisedAt": "2024-10-22T14:43:50.971Z",
+        "promotion": 41,
+        "promotedAt": "2024-11-01T20:35:07.466Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1795,7 +1795,7 @@
         "bOverrideServerPerClientMaxAI": false,
         "bShowEliminationIndicatorForTeammates": true,
         "RewardTimePlayedType": "Default",
-        "bAllowSpectateAPartyMember": true,
+        "bAllowSpectateAPartyMember": false,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
         "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRDuo.AthenaCompositeGameData_NoBuildBRDuo",
@@ -1814,84 +1814,14 @@
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
         "ForceOnlyBotsThreshold": "-1",
-        "BracketBalanceMergeInterval": "",
+        "BracketBalanceMergeInterval": "60 seconds",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.62",
             "MinMmr": "0",
-            "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
-            "MaxMmr": "200"
-          },
-          {
-            "MinFillPct": "0.120000",
-            "MinMmr": "201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "800"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "801",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1000"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1001",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1100"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1101",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1200"
-          },
-          {
-            "MinFillPct": "0.250000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
-            "MaxMmr": "1300"
-          },
-          {
-            "MinFillPct": "0.400000",
-            "MinMmr": "1301",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1401",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
-            "MaxMmr": "1500"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1501",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxPriority": "10.0",
+            "MaxFillPct": "0.64",
             "MaxMmr": "2000"
           }
         ],
@@ -1920,8 +1850,8 @@
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
-        "BotVersionPlaylistName": "Playlist_Bots_NoBuildBR_Duo",
-        "BracketBalanceSplitInterval": "",
+        "BotVersionPlaylistName": "",
+        "BracketBalanceSplitInterval": "100 seconds",
         "LastQueuedPlaylistPriority": "-1",
         "AirCraftBehavior": "Default",
         "bUseCustomAircraftPathSelection": false,
@@ -1941,7 +1871,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "duos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
@@ -1992,8 +1922,8 @@
         "bAccumulateToProfileStats": true,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
-        "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "bAllowedInLeto": false,
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -2893,11 +2823,11 @@
     },
     "Playlist_DefaultSquad": {
       "meta": {
-        "revision": 4,
+        "revision": 5,
         "headRevision": 7,
-        "revisedAt": "2024-10-22T14:30:19.363Z",
-        "promotion": 35,
-        "promotedAt": "2024-10-30T20:38:24.749Z"
+        "revisedAt": "2024-10-22T14:44:11.353Z",
+        "promotion": 39,
+        "promotedAt": "2024-11-01T20:34:05.635Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2950,7 +2880,7 @@
         "bOverrideServerPerClientMaxAI": false,
         "bShowEliminationIndicatorForTeammates": true,
         "RewardTimePlayedType": "Default",
-        "bAllowSpectateAPartyMember": true,
+        "bAllowSpectateAPartyMember": false,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
         "GameData": "/Game/Athena/Playlists/AthenaCompositeGameDataSquad.AthenaCompositeGameDataSquad",
@@ -2969,84 +2899,14 @@
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
         "ForceOnlyBotsThreshold": "-1",
-        "BracketBalanceMergeInterval": "",
+        "BracketBalanceMergeInterval": "60 seconds",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.60",
             "MinMmr": "0",
-            "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
-            "MaxMmr": "200"
-          },
-          {
-            "MinFillPct": "0.120000",
-            "MinMmr": "201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "800"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "801",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1000"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1001",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1100"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1101",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1200"
-          },
-          {
-            "MinFillPct": "0.250000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
-            "MaxMmr": "1300"
-          },
-          {
-            "MinFillPct": "0.400000",
-            "MinMmr": "1301",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1401",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
-            "MaxMmr": "1500"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1501",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxPriority": "10.0",
+            "MaxFillPct": "0.64",
             "MaxMmr": "2000"
           }
         ],
@@ -3075,8 +2935,8 @@
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
-        "BotVersionPlaylistName": "Playlist_Bots_DefaultSquad",
-        "BracketBalanceSplitInterval": "",
+        "BotVersionPlaylistName": "",
+        "BracketBalanceSplitInterval": "100 seconds",
         "LastQueuedPlaylistPriority": "-1",
         "AirCraftBehavior": "Default",
         "bUseCustomAircraftPathSelection": false,
@@ -3096,7 +2956,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
@@ -3147,8 +3007,8 @@
         "bAccumulateToProfileStats": true,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
-        "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "bAllowedInLeto": false,
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -3568,11 +3428,11 @@
     },
     "Playlist_NoBuildBR_Squad": {
       "meta": {
-        "revision": 2,
+        "revision": 4,
         "headRevision": 4,
-        "revisedAt": "2024-10-22T14:32:36.318Z",
-        "promotion": 17,
-        "promotedAt": "2024-10-24T20:19:06.018Z"
+        "revisedAt": "2024-11-01T20:22:18.789Z",
+        "promotion": 43,
+        "promotedAt": "2024-11-01T20:35:44.577Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -3625,7 +3485,7 @@
         "bOverrideServerPerClientMaxAI": false,
         "bShowEliminationIndicatorForTeammates": true,
         "RewardTimePlayedType": "Default",
-        "bAllowSpectateAPartyMember": true,
+        "bAllowSpectateAPartyMember": false,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
         "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRSquad.AthenaCompositeGameData_NoBuildBRSquad",
@@ -3644,84 +3504,14 @@
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
         "ForceOnlyBotsThreshold": "-1",
-        "BracketBalanceMergeInterval": "",
+        "BracketBalanceMergeInterval": "60 seconds",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.60",
             "MinMmr": "0",
-            "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
-            "MaxMmr": "200"
-          },
-          {
-            "MinFillPct": "0.120000",
-            "MinMmr": "201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "800"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "801",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1000"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1001",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1100"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1101",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1200"
-          },
-          {
-            "MinFillPct": "0.250000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
-            "MaxMmr": "1300"
-          },
-          {
-            "MinFillPct": "0.400000",
-            "MinMmr": "1301",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1401",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
-            "MaxMmr": "1500"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1501",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxPriority": "10.0",
+            "MaxFillPct": "0.64",
             "MaxMmr": "2000"
           }
         ],
@@ -3750,8 +3540,8 @@
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
-        "BotVersionPlaylistName": "Playlist_Bots_NoBuildBR_Squad",
-        "BracketBalanceSplitInterval": "",
+        "BotVersionPlaylistName": "",
+        "BracketBalanceSplitInterval": "100 seconds",
         "LastQueuedPlaylistPriority": "-1",
         "AirCraftBehavior": "Default",
         "bUseCustomAircraftPathSelection": false,
@@ -3771,7 +3561,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
@@ -3822,8 +3612,8 @@
         "bAccumulateToProfileStats": true,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
-        "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "bAllowedInLeto": false,
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -3945,11 +3735,11 @@
     },
     "Playlist_NoBuildBR_Trio": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-22T14:31:59.751Z",
-        "promotion": 16,
-        "promotedAt": "2024-10-24T20:18:54.789Z"
+        "revisedAt": "2024-10-22T14:43:42.147Z",
+        "promotion": 42,
+        "promotedAt": "2024-11-01T20:35:25.716Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4002,7 +3792,7 @@
         "bOverrideServerPerClientMaxAI": false,
         "bShowEliminationIndicatorForTeammates": true,
         "RewardTimePlayedType": "Default",
-        "bAllowSpectateAPartyMember": true,
+        "bAllowSpectateAPartyMember": false,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
         "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRDuo.AthenaCompositeGameData_NoBuildBRDuo",
@@ -4021,84 +3811,14 @@
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
         "ForceOnlyBotsThreshold": "-1",
-        "BracketBalanceMergeInterval": "",
+        "BracketBalanceMergeInterval": "60 seconds",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.60",
             "MinMmr": "0",
-            "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
-            "MaxMmr": "200"
-          },
-          {
-            "MinFillPct": "0.120000",
-            "MinMmr": "201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "800"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "801",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1000"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1001",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1100"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1101",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1200"
-          },
-          {
-            "MinFillPct": "0.250000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
-            "MaxMmr": "1300"
-          },
-          {
-            "MinFillPct": "0.400000",
-            "MinMmr": "1301",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1401",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
-            "MaxMmr": "1500"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1501",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxPriority": "10.0",
+            "MaxFillPct": "0.63",
             "MaxMmr": "2000"
           }
         ],
@@ -4127,8 +3847,8 @@
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
-        "BotVersionPlaylistName": "Playlist_Bots_NoBuildBR_Trio",
-        "BracketBalanceSplitInterval": "",
+        "BotVersionPlaylistName": "",
+        "BracketBalanceSplitInterval": "100 seconds",
         "LastQueuedPlaylistPriority": "-1",
         "AirCraftBehavior": "Default",
         "bUseCustomAircraftPathSelection": false,
@@ -4148,7 +3868,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "trios",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
@@ -4198,8 +3918,8 @@
         "bAccumulateToProfileStats": false,
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "99",
-        "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "bAllowedInLeto": false,
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -4321,11 +4041,11 @@
     },
     "Playlist_NoBuildBR_Solo": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-10-22T14:30:49.730Z",
-        "promotion": 14,
-        "promotedAt": "2024-10-24T20:18:28.781Z"
+        "revisedAt": "2024-10-22T14:43:58.562Z",
+        "promotion": 40,
+        "promotedAt": "2024-11-01T20:34:44.430Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -4378,7 +4098,7 @@
         "bOverrideServerPerClientMaxAI": false,
         "bShowEliminationIndicatorForTeammates": true,
         "RewardTimePlayedType": "Default",
-        "bAllowSpectateAPartyMember": true,
+        "bAllowSpectateAPartyMember": false,
         "CalendarEventsForEndOfMatchUpdate": [],
         "MinPlayers": "20",
         "GameData": "/Game/Athena/Playlists/NoBuildBR/AthenaCompositeGameData_NoBuildBRSolo.AthenaCompositeGameData_NoBuildBRSolo",
@@ -4397,84 +4117,14 @@
         "MinPlayersForPrivateServer": "0",
         "DamageTakenMax": "0.000000",
         "ForceOnlyBotsThreshold": "-1",
-        "BracketBalanceMergeInterval": "",
+        "BracketBalanceMergeInterval": "60 seconds",
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.04",
+            "MinFillPct": "0.64",
             "MinMmr": "0",
-            "MaxPriority": "60.0",
-            "MaxFillPct": "0.04",
-            "MaxMmr": "200"
-          },
-          {
-            "MinFillPct": "0.120000",
-            "MinMmr": "201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.120000",
-            "MaxMmr": "400"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "401",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "600"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "601",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "800"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "801",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1000"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1001",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1100"
-          },
-          {
-            "MinFillPct": "0.200000",
-            "MinMmr": "1101",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.250000",
-            "MaxMmr": "1200"
-          },
-          {
-            "MinFillPct": "0.250000",
-            "MinMmr": "1201",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.350000",
-            "MaxMmr": "1300"
-          },
-          {
-            "MinFillPct": "0.400000",
-            "MinMmr": "1301",
-            "MaxPriority": "60.000000",
-            "MaxFillPct": "0.700000",
-            "MaxMmr": "1400"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1401",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.750000",
-            "MaxMmr": "1500"
-          },
-          {
-            "MinFillPct": "0.500000",
-            "MinMmr": "1501",
-            "MaxPriority": "119.000000",
-            "MaxFillPct": "0.850000",
+            "MaxPriority": "10.0",
+            "MaxFillPct": "0.64",
             "MaxMmr": "2000"
           }
         ],
@@ -4503,8 +4153,8 @@
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
-        "BotVersionPlaylistName": "Playlist_Bots_NoBuildBR_Solo",
-        "BracketBalanceSplitInterval": "",
+        "BotVersionPlaylistName": "",
+        "BracketBalanceSplitInterval": "100 seconds",
         "LastQueuedPlaylistPriority": "-1",
         "AirCraftBehavior": "Default",
         "bUseCustomAircraftPathSelection": false,
@@ -4524,7 +4174,7 @@
         "bRespawnInAir": true,
         "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
-        "bUsePlayerRating": true,
+        "bUsePlayerRating": false,
         "RichPresenceAssetName": "solos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
@@ -4576,7 +4226,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": false,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
