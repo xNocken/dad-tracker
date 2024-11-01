@@ -6,9 +6,9 @@
       "Playlist_BlastBerryNoBuildDuo": 2,
       "Playlist_BlastBerryNoBuildSquad": 2,
       "Playlist_BlastBerrySquad": 2,
-      "Playlist_DefaultDuo": 2,
-      "Playlist_DefaultSolo": 2,
-      "Playlist_DefaultSquad": 7,
+      "Playlist_DefaultDuo": 3,
+      "Playlist_DefaultSolo": 3,
+      "Playlist_DefaultSquad": 4,
       "Playlist_Habanero_BlastBerry_Duos": 2,
       "Playlist_Habanero_BlastBerry_Squads": 2,
       "Playlist_Habanero_NoBuild_BlastBerry_Duos": 2,
@@ -26,7 +26,7 @@
       "Playlist_NoBuildBR_Trio": 2,
       "Playlist_ShowdownTournament_BlastBerryDuo_NoFill": 3,
       "Playlist_ShowdownTournament_BlastBerrySquad_NoFill": 4,
-      "Playlist_Trios": 2
+      "Playlist_Trios": 3
     }
   }
 }
