@@ -24,13 +24,20 @@
       "Playlist_NoBuildBR_Habanero_Solo": 2,
       "Playlist_NoBuildBR_Habanero_Squad": 2,
       "Playlist_NoBuildBR_Habanero_Trio": 2,
-      "Playlist_Showdown_Clyde_CTS_Duos": 2,
-      "Playlist_Showdown_Clyde_CTS_Solo": 2,
-      "Playlist_Showdown_Clyde_CTS_Trios": 2,
-      "Playlist_Showdown_Clyde_NoBuild_CTS_Duos": 2,
-      "Playlist_Showdown_Clyde_NoBuild_CTS_Squads": 2,
-      "Playlist_Showdown_Clyde_NoBuild_CTS_Trios": 2,
-      "Playlist_ShowdownTournament_Clyde_Duos": 2
+      "Playlist_Showdown_Clyde_CTS_Duos": 3,
+      "Playlist_Showdown_Clyde_CTS_Solo": 3,
+      "Playlist_Showdown_Clyde_CTS_Trios": 3,
+      "Playlist_Showdown_Clyde_NoBuild_CTS_Duos": 3,
+      "Playlist_Showdown_Clyde_NoBuild_CTS_Solo": 2,
+      "Playlist_Showdown_Clyde_NoBuild_CTS_Squads": 3,
+      "Playlist_Showdown_Clyde_NoBuild_CTS_Trios": 3,
+      "Playlist_ShowdownTournament_Clyde_Duos": 2,
+      "Playlist_ShowdownTournament_Clyde_NoBuild_RC_Duos": 2,
+      "Playlist_ShowdownTournament_Clyde_NoBuild_RC_Solo": 2,
+      "Playlist_ShowdownTournament_Clyde_NoBuild_Solo": 2,
+      "Playlist_ShowdownTournament_Clyde_NoBuild_Trios": 2,
+      "Playlist_ShowdownTournament_Clyde_Solo": 2,
+      "Playlist_ShowdownTournament_Clyde_Trios": 2
     }
   }
 }
