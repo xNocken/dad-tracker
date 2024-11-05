@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 42
+    "promotion": 43
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -11134,11 +11134,11 @@
     },
     "Playlist_ShowdownTournament_Clyde_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-03T17:55:52.831Z",
-        "promotion": 28,
-        "promotedAt": "2024-11-03T17:59:09.170Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-11-05T20:53:07.689Z",
+        "promotion": 43,
+        "promotedAt": "2024-11-05T20:53:15.182Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -11393,6 +11393,9 @@
             },
             {
               "TagName": "Gameplay.StepUpInterpolation.Disabled"
+            },
+            {
+              "TagName": "Plugin.Playlist.Tournament"
             }
           ]
         },
