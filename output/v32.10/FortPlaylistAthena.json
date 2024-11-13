@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 50
+    "promotion": 51
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -10505,11 +10505,11 @@
     },
     "Playlist_Habanero_NoBuild_PunchBerry_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-12T22:17:19.134Z",
-        "promotion": 33,
-        "promotedAt": "2024-11-12T22:39:13.180Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-11-13T21:57:45.289Z",
+        "promotion": 51,
+        "promotedAt": "2024-11-13T21:58:35.394Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -10771,7 +10771,7 @@
         "RewardTimePlayedXPFlatValue": "-1",
         "PlayerRatingBrackets": [
           {
-            "MinMmr": "750",
+            "MinMmr": "749",
             "MaxMmr": "799"
           },
           {
