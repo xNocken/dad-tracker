@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 49
+    "promotion": 50
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -14620,11 +14620,11 @@
     },
     "Playlist_Habanero_NoBuild_Sunflower_Duos": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-12T22:16:18.022Z",
-        "promotion": 31,
-        "promotedAt": "2024-11-12T22:38:53.922Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-11-13T20:57:00.318Z",
+        "promotion": 50,
+        "promotedAt": "2024-11-13T21:02:37.047Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -14793,7 +14793,7 @@
         "CurieManagerConfigOverrides": [],
         "bRewardsTrackPlacement": true,
         "LastSafeZoneIndex": "-1",
-        "bUseRankScaling": false,
+        "bUseRankScaling": true,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
         "bEnableRatingUpdate": true,
