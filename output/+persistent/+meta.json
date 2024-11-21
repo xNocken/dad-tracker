@@ -30,11 +30,14 @@
       "Playlist_Showdown_Clyde_CTS_Trios": 2,
       "Playlist_Showdown_Clyde_NoBuild_CTS_Duos": 2,
       "Playlist_Showdown_Clyde_NoBuild_CTS_Solo": 2,
-      "Playlist_Showdown_Clyde_NoBuild_CTS_Squads": 2,
+      "Playlist_Showdown_Clyde_NoBuild_CTS_Squads": 3,
       "Playlist_Showdown_Clyde_NoBuild_CTS_Trios": 2,
       "Playlist_ShowdownTournament_Clyde_NoBuild_Duos": 2,
       "Playlist_ShowdownTournament_Clyde_NoBuild_Solo": 2,
       "Playlist_ShowdownTournament_Clyde_NoBuild_Trios": 2,
+      "Playlist_ShowdownTournament_Clyde_RC_Solo": 2,
+      "Playlist_ShowdownTournament_Clyde_RC_Trios": 2,
+      "Playlist_ShowdownTournament_Clyde_Solo": 2,
       "Playlist_ShowdownTournament_Clyde_Trios": 2,
       "Playlist_ShowdownTournament_PunchBerryDuo_NoFill": 2
     }
