@@ -223,8 +223,8 @@ const main = async () => {
   }
 
   execSync('git add output');
-  execSync('git config user.email "github-actions@github.com"');
-  execSync('git config user.name "GitHub Actions"');
+  execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+  execSync('git config user.name "github-actions[bot]"');
   execSync('git config commit.gpgsign false');
   execSync(`git commit -m "${commitMessage}"`);
   execSync('git push');
