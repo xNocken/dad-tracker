@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 31
+    "promotion": 32
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -12796,11 +12796,11 @@
     },
     "Playlist_Showdown_CTS_Solo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-12-02T19:23:08.447Z",
-        "promotion": 31,
-        "promotedAt": "2024-12-02T19:23:18.618Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-12-02T19:37:48.009Z",
+        "promotion": 32,
+        "promotedAt": "2024-12-02T19:37:56.749Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -13086,7 +13086,8 @@
         "bDisplayScoreInHUD": false,
         "MaxTeamCount": "100",
         "BuiltInGameFeaturePluginsToLoad": [
-          "FirePetal_WanderingBoss"
+          "FirePetal_WanderingBoss",
+          "NPCCore"
         ],
         "bActivateCurie": false,
         "bUseDefaultSupplyDrops": true,
