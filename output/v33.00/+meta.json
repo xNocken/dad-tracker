@@ -32,18 +32,18 @@
       "Playlist_NoBuildBR_Habanero_Trio": 4,
       "Playlist_PilgrimBattleStage": 2,
       "Playlist_PilgrimQuickplay": 2,
-      "Playlist_Showdown_CTS_Duos": 2,
-      "Playlist_Showdown_CTS_Solo": 4,
+      "Playlist_Showdown_CTS_Duos": 3,
+      "Playlist_Showdown_CTS_Solo": 5,
       "Playlist_Showdown_CTS_Squads": 2,
-      "Playlist_Showdown_CTS_Trios": 2,
+      "Playlist_Showdown_CTS_Trios": 3,
       "Playlist_Showdown_NoBuildBR_CTS_Duos": 2,
       "Playlist_Showdown_NoBuildBR_CTS_Solo": 2,
       "Playlist_Showdown_NoBuildBR_CTS_Squads": 2,
       "Playlist_Showdown_NoBuildBR_CTS_Trios": 2,
-      "Playlist_ShowdownTournament_RC_Duos": 2,
-      "Playlist_ShowdownTournament_RC_Solo": 2,
-      "Playlist_ShowdownTournament_Solo": 2,
-      "Playlist_ShowdownTournament_Trios": 2
+      "Playlist_ShowdownTournament_RC_Duos": 3,
+      "Playlist_ShowdownTournament_RC_Solo": 3,
+      "Playlist_ShowdownTournament_Solo": 3,
+      "Playlist_ShowdownTournament_Trios": 3
     }
   }
 }
