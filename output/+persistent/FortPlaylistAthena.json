@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 60
+    "promotion": 75
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -17600,11 +17600,11 @@
     },
     "Playlist_FigmentSquad": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-12-06T14:38:48.810Z",
-        "promotion": 60,
-        "promotedAt": "2024-12-06T14:39:12.529Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-12-06T15:05:00.238Z",
+        "promotion": 75,
+        "promotedAt": "2024-12-06T15:58:35.845Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -17818,7 +17818,7 @@
           },
           {
             "MinMmr": "21",
-            "MaxMmr": "31"
+            "MaxMmr": "32"
           }
         ],
         "RespawnType": "None",
