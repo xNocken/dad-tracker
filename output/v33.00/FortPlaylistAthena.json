@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 75
+    "promotion": 81
   },
   "assets": {
     "Playlist_Habanero_PunchBerry_Squads": {
@@ -16604,11 +16604,11 @@
     },
     "Playlist_FigmentNoBuildDuo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-21T19:49:28.980Z",
-        "promotion": 57,
-        "promotedAt": "2024-12-04T20:22:31.868Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-12-07T20:46:13.371Z",
+        "promotion": 76,
+        "promotedAt": "2024-12-07T20:52:03.904Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -16683,7 +16683,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -16705,7 +16783,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "nobuild",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -16723,18 +16801,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "duos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -16812,20 +16890,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "30"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
@@ -17268,11 +17333,11 @@
     },
     "Playlist_FigmentNoBuildSolo": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-21T19:49:16.445Z",
-        "promotion": 56,
-        "promotedAt": "2024-12-04T20:22:16.554Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-12-07T20:45:07.347Z",
+        "promotion": 78,
+        "promotedAt": "2024-12-07T20:58:37.349Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -17347,7 +17412,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -17369,7 +17512,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "nobuild",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -17387,18 +17530,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "solos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -17476,20 +17619,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "30"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
@@ -17600,11 +17730,11 @@
     },
     "Playlist_FigmentSquad": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-12-06T15:05:00.238Z",
-        "promotion": 75,
-        "promotedAt": "2024-12-06T15:58:35.845Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-12-07T20:42:58.020Z",
+        "promotion": 81,
+        "promotedAt": "2024-12-07T21:01:19.632Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -17679,7 +17809,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -17701,7 +17909,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "fun",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -17719,18 +17927,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -17807,20 +18015,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "32"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
@@ -17928,11 +18123,11 @@
     },
     "Playlist_FigmentDuo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-11-21T19:49:59.988Z",
-        "promotion": 53,
-        "promotedAt": "2024-12-04T20:21:31.132Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-12-07T20:40:54.130Z",
+        "promotion": 77,
+        "promotedAt": "2024-12-07T20:57:11.019Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -18007,7 +18202,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -18029,7 +18302,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "fun",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -18047,18 +18320,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "duos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -18135,20 +18408,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "30"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
@@ -18256,11 +18516,11 @@
     },
     "Playlist_FigmentNoBuildSquad": {
       "meta": {
-        "revision": 2,
-        "headRevision": 2,
-        "revisedAt": "2024-11-21T19:49:43.172Z",
-        "promotion": 59,
-        "promotedAt": "2024-12-04T20:22:57.303Z"
+        "revision": 3,
+        "headRevision": 3,
+        "revisedAt": "2024-12-07T20:47:25.221Z",
+        "promotion": 79,
+        "promotedAt": "2024-12-07T20:59:54.615Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -18335,7 +18595,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -18357,7 +18695,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "nobuild",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -18375,18 +18713,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "squads",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -18464,20 +18802,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "30"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
@@ -18588,11 +18913,11 @@
     },
     "Playlist_FigmentSolo": {
       "meta": {
-        "revision": 5,
-        "headRevision": 5,
-        "revisedAt": "2024-11-21T19:49:51.558Z",
-        "promotion": 52,
-        "promotedAt": "2024-12-04T20:21:14.398Z"
+        "revision": 6,
+        "headRevision": 6,
+        "revisedAt": "2024-12-07T20:26:55.332Z",
+        "promotion": 80,
+        "promotedAt": "2024-12-07T21:00:18.841Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -18667,7 +18992,85 @@
         "ForceOnlyBotsThreshold": "-1",
         "BracketBalanceMergeInterval": "",
         "ServerMetricsEventFrequency": "60.000000",
-        "FillRateTable": [],
+        "FillRateTable": [
+          {
+            "MinFillPct": "0.120000",
+            "MinMmr": "0",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.120000",
+            "MaxMmr": "200"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.200000",
+            "MaxMmr": "400"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "401",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "600"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "601",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "800"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "801",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.250000",
+            "MaxMmr": "1000"
+          },
+          {
+            "MinFillPct": "0.200000",
+            "MinMmr": "1001",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.30000",
+            "MaxMmr": "1100"
+          },
+          {
+            "MinFillPct": "0.250000",
+            "MinMmr": "1101",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.350000",
+            "MaxMmr": "1200"
+          },
+          {
+            "MinFillPct": "0.30000",
+            "MinMmr": "1201",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.50000",
+            "MaxMmr": "1300"
+          },
+          {
+            "MinFillPct": "0.500000",
+            "MinMmr": "1301",
+            "MaxPriority": "60.000000",
+            "MaxFillPct": "0.700000",
+            "MaxMmr": "1400"
+          },
+          {
+            "MinFillPct": "0.600000",
+            "MinMmr": "1401",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.80000",
+            "MaxMmr": "1500"
+          },
+          {
+            "MinFillPct": "0.700000",
+            "MinMmr": "1501",
+            "MaxPriority": "119.000000",
+            "MaxFillPct": "0.90000",
+            "MaxMmr": "2000"
+          }
+        ],
         "bShouldFillWhenNoSquadFillOption": false,
         "LastStepPushAircraftCenterLine_Direction": "0.000000",
         "bEnableStatsV2Stats": true,
@@ -18689,7 +19092,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "unranked-figment",
+        "RatingType": "fun",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
@@ -18707,18 +19110,18 @@
         "bUseRankScaling": false,
         "bAllowJoinInProgress": false,
         "WarmupEarlyRequiredPlayerPercent": "0.000000",
-        "bEnableRatingUpdate": false,
+        "bEnableRatingUpdate": true,
         "bAllowHardcoreModifiers": false,
         "bAllowPartyRift": false,
         "bIsRankedMode": false,
         "bRespawnInAir": true,
-        "MaxBracketSize": "2",
+        "MaxBracketSize": "0",
         "RankScalingStandardDeviation": "400.000000",
         "bUsePlayerRating": true,
         "RichPresenceAssetName": "solos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "20",
+        "MinBracketSize": "0",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
@@ -18795,20 +19198,7 @@
         "bEnablePlaylistXPLogging": false,
         "bAllowBroadcasting": false,
         "RewardTimePlayedXPFlatValue": "-1",
-        "PlayerRatingBrackets": [
-          {
-            "MinMmr": "1",
-            "MaxMmr": "10"
-          },
-          {
-            "MinMmr": "11",
-            "MaxMmr": "20"
-          },
-          {
-            "MinMmr": "21",
-            "MaxMmr": "30"
-          }
-        ],
+        "PlayerRatingBrackets": [],
         "RespawnType": "None",
         "bAllowLayoutRequirementsFeature": false,
         "RankKillFarmCutoff": "0",
