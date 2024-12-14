@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 50
+    "promotion": 57
   },
   "assets": {
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
@@ -1165,11 +1165,11 @@
     },
     "Playlist_Habanero_Figment_Squad": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:32:38.656Z",
-        "promotion": 28,
-        "promotedAt": "2024-12-10T01:35:14.966Z"
+        "revisedAt": "2024-12-14T22:10:12.098Z",
+        "promotion": 53,
+        "promotedAt": "2024-12-14T22:11:09.279Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -1428,7 +1428,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -2376,11 +2376,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Squad": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:53:05.250Z",
-        "promotion": 32,
-        "promotedAt": "2024-12-10T01:55:02.551Z"
+        "revisedAt": "2024-12-14T22:09:09.336Z",
+        "promotion": 57,
+        "promotedAt": "2024-12-14T22:11:24.149Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2640,7 +2640,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -6892,11 +6892,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Trio": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:49:35.878Z",
-        "promotion": 31,
-        "promotedAt": "2024-12-10T01:54:50.372Z"
+        "revisedAt": "2024-12-14T22:09:57.625Z",
+        "promotion": 56,
+        "promotedAt": "2024-12-14T22:11:20.021Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7156,7 +7156,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "99",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -7348,11 +7348,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Solo": {
       "meta": {
-        "revision": 3,
+        "revision": 4,
         "headRevision": 4,
-        "revisedAt": "2024-12-09T23:36:39.072Z",
-        "promotion": 29,
-        "promotedAt": "2024-12-10T01:54:21.071Z"
+        "revisedAt": "2024-12-14T22:10:07.544Z",
+        "promotion": 54,
+        "promotedAt": "2024-12-14T22:11:12.484Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -7612,7 +7612,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": false,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -8557,11 +8557,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Duo": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:38:37.292Z",
-        "promotion": 30,
-        "promotedAt": "2024-12-10T01:54:34.456Z"
+        "revisedAt": "2024-12-14T22:09:52.892Z",
+        "promotion": 55,
+        "promotedAt": "2024-12-14T22:11:16.194Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8821,7 +8821,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -11640,11 +11640,11 @@
     },
     "Playlist_Habanero_Figment_Trio": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:30:59.723Z",
-        "promotion": 27,
-        "promotedAt": "2024-12-10T01:27:01.273Z"
+        "revisedAt": "2024-12-14T22:10:16.462Z",
+        "promotion": 52,
+        "promotedAt": "2024-12-14T22:11:06.075Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -11903,7 +11903,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "99",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
@@ -13222,11 +13222,11 @@
     },
     "Playlist_Habanero_Figment_Duo": {
       "meta": {
-        "revision": 2,
+        "revision": 3,
         "headRevision": 3,
-        "revisedAt": "2024-12-09T23:29:22.226Z",
-        "promotion": 26,
-        "promotedAt": "2024-12-10T01:26:33.517Z"
+        "revisedAt": "2024-12-14T22:10:20.094Z",
+        "promotion": 51,
+        "promotedAt": "2024-12-14T22:11:02.624Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -13485,7 +13485,7 @@
         "AircraftPathMidpointSelectionRadiusMin": "20000.000000",
         "MaxPlayers": "100",
         "bAllowedInLeto": true,
-        "BotFillMMRCutoff": "-1",
+        "BotFillMMRCutoff": "1",
         "GameFeaturePluginURLsToLoad": [],
         "bDisable_ReportAPlayerReason_TeamingUpWithEnemies_WhileInGame": false,
         "bUseMultidivisionQueues": false,
