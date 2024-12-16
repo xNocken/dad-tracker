@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 61
+    "promotion": 62
   },
   "assets": {
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
@@ -2376,11 +2376,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Squad": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-12-16T15:04:51.716Z",
-        "promotion": 58,
-        "promotedAt": "2024-12-16T15:05:08.042Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-12-16T15:54:15.699Z",
+        "promotion": 62,
+        "promotedAt": "2024-12-16T15:55:52.272Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -2457,42 +2457,42 @@
         "ServerMetricsEventFrequency": "60.000000",
         "FillRateTable": [
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "750",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "799"
           },
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "800",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "849"
           },
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "850",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "899"
           },
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "900",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "949"
           },
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "950",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "999"
           },
           {
-            "MinFillPct": "0.840000",
+            "MinFillPct": "0.720000",
             "MinMmr": "1000",
             "MaxPriority": "180.000000",
             "MaxFillPct": "1.000000",
