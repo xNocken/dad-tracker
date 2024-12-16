@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 58
+    "promotion": 59
   },
   "assets": {
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
@@ -8557,11 +8557,11 @@
     },
     "Playlist_Habanero_NoBuild_Figment_Duo": {
       "meta": {
-        "revision": 3,
-        "headRevision": 3,
-        "revisedAt": "2024-12-14T22:09:52.892Z",
-        "promotion": 55,
-        "promotedAt": "2024-12-14T22:11:16.194Z"
+        "revision": 4,
+        "headRevision": 4,
+        "revisedAt": "2024-12-16T15:05:47.258Z",
+        "promotion": 59,
+        "promotedAt": "2024-12-16T15:05:58.407Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -8743,7 +8743,7 @@
         "bUseFriendlyFireAimAssist": false,
         "SkippedGamePhaseNotification": [],
         "bForceEnableProximityVoiceChat": false,
-        "RatingType": "ranked-zb",
+        "RatingType": "ranked-figment-nobuild",
         "CustomGameChannel": "Squad",
         "bDisplayFinalStormPosition": false,
         "bSkipWarmup": false,
