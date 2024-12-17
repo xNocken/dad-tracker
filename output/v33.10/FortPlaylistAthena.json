@@ -1,6 +1,6 @@
 {
   "meta": {
-    "promotion": 62
+    "promotion": 63
   },
   "assets": {
     "Playlist_Showdown_NoBuildBR_CTS_Trios": {
@@ -13222,11 +13222,11 @@
     },
     "Playlist_Habanero_Figment_Duo": {
       "meta": {
-        "revision": 4,
-        "headRevision": 4,
-        "revisedAt": "2024-12-16T15:07:10.682Z",
-        "promotion": 61,
-        "promotedAt": "2024-12-16T15:07:23.108Z"
+        "revision": 5,
+        "headRevision": 5,
+        "revisedAt": "2024-12-17T01:14:38.374Z",
+        "promotion": 63,
+        "promotedAt": "2024-12-17T01:19:42.128Z"
       },
       "assetData": {
         "bOwnerFilterDestructedBuildingsInGrid": false,
@@ -13305,84 +13305,84 @@
           {
             "MinFillPct": "0.720000",
             "MinMmr": "750",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "799"
           },
           {
             "MinFillPct": "0.720000",
             "MinMmr": "800",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "849"
           },
           {
             "MinFillPct": "0.720000",
             "MinMmr": "850",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "899"
           },
           {
             "MinFillPct": "0.720000",
             "MinMmr": "900",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "949"
           },
           {
             "MinFillPct": "0.720000",
             "MinMmr": "950",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "999"
           },
           {
             "MinFillPct": "0.720000",
             "MinMmr": "1000",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1049"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1050",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1104"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1105",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1159"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1160",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1214"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1215",
-            "MaxPriority": "180.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1424"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1425",
-            "MaxPriority": "280.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "1714"
           },
           {
             "MinFillPct": "0.840000",
             "MinMmr": "1715",
-            "MaxPriority": "280.000000",
+            "MaxPriority": "60.000000",
             "MaxFillPct": "1.000000",
             "MaxMmr": "2225"
           }
@@ -13437,7 +13437,7 @@
         "RichPresenceAssetName": "duos",
         "bUseLocalizationService": false,
         "CompetitivePointClamp": "100",
-        "MinBracketSize": "25",
+        "MinBracketSize": "100",
         "GameType": "Figment",
         "WinConditionPlayersRemaining": "1",
         "MaxPriority": "0.000000",
