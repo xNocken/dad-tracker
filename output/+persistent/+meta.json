@@ -3,7 +3,9 @@
   "assetVersions": {
     "FortPlaylistAthena": {
       "Playlist_FigmentDuo": 2,
+      "Playlist_FigmentNoBuildDuo": 2,
       "Playlist_FigmentNoBuildSolo": 2,
+      "Playlist_FigmentNoBuildSquad": 2,
       "Playlist_FigmentSolo": 2,
       "Playlist_FigmentSquad": 2,
       "Playlist_Habanero_Figment_Duo": 5,
